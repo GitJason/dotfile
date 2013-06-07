@@ -1,0 +1,4 @@
+DEVICE=br10
+TYPE=Bridge
+ONBOOT=yes
+DELAY=0

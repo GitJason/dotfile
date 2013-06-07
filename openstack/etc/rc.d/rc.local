@@ -1,0 +1,20 @@
+#!/bin/sh
+#
+# This script will be executed *after* all the other init scripts.
+# You can put your own initialization stuff in here if you don't
+# want to do the full Sys V style init stuff.
+
+touch /var/lock/subsys/local
+service libvirtd start
+service mysqld start
+service rabbitmq-server start
+service openstack-keystone start
+service openstack-glance-api start
+service openstack-glance-registry start
+service openstack-nova-api start
+service openstack-nova-cert start
+service openstack-nova-compute start
+service openstack-nova-network start
+service openstack-nova-objectstore start
+service openstack-nova-scheduler start
+service openstack-nova-volume start
