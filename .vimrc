@@ -1,9 +1,10 @@
-"colorscheme pyte
-colorscheme molokai
 "colorscheme blackbeauty
+"colorscheme molokai
+"colorscheme solarized
 "colorscheme xterm16
 
 syntax on
+filetype on
 filetype plugin indent on
 
 set langmenu=en_US.utf-8
@@ -32,6 +33,16 @@ set shiftwidth=4
 set expandtab
 set nowrap
 "set textwidth=80
+autocmd FileType python setlocal tabstop=4 shiftwidth=4 softtabstop=4 textwidth=120
+autocmd FileType php,html,css setlocal tabstop=2 shiftwidth=2 softtabstop=2 textwidth=120
+
+" map
+map <c-j> <c-w>j
+map <c-k> <c-w>k
+map <c-l> <c-w>l
+map <c-h> <c-w>h
+map <Leader>I :IndentGuidesEnable<CR>
+map <Leader>N :NERDTreeToggle<CR>
 
 " vim-pathogen
 " runtime path manipulation
@@ -46,8 +57,6 @@ let g:Powerline_symbols='fancy'
 
 " vim-indent-guides
 let g:indent_guides_guide_size=1
-" Terminal Vim
-" set background=light
 
 " vim-NERDTree
 let NERDTreeShowHidden=1
@@ -69,3 +78,16 @@ let g:ConqueTerm_Syntax = 'conque'
 " dwm
 set mouse=a
 set ttymouse=xterm2
+
+" rainbow-parentheses
+au VimEnter * RainbowParenthesesToggle
+au Syntax * RainbowParenthesesLoadRound
+au Syntax * RainbowParenthesesLoadSquare
+au Syntax * RainbowParenthesesLoadBraces
+
+" vim-trailing-whitespace
+map <Leader>F :FixWhitespace<CR>
+
+" python-syntax
+let OPTION_NAME=1
+let python_highlight_all=1

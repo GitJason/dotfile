@@ -1,11 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/jason/.config/fcitx/conf'
-let g:netrw_dirhist_2='/home/jason/github'
-let g:netrw_dirhist_3='/home/jason/backup/c/Desktop/kvm/openstack'
-let g:netrw_dirhist_4='/home/jason/temp/kvm/openstack'
-let g:netrw_dirhist_5='/home/jason/github/OpenStack/source/Architecture'
-let g:netrw_dirhist_6='/home/jason/.vim'
-let g:netrw_dirhist_7='/boot/grub/fonts'
-let g:netrw_dirhist_8='/home/jason/network.d'
-let g:netrw_dirhist_9='/home/jason/.vim'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/jason/.vimperator'
+let g:netrw_dirhist_2='/home/jason/github/reading.notes/Foundations.of.Python.Network.Programming/Chapter.1/__pycache__'
+let g:netrw_dirhist_3='/home/jason/github/daily.python.script/pchat'

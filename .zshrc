@@ -1,8 +1,9 @@
 ZSH=$HOME/github/oh-my-zsh
 ZSH_THEME="mine"
 
-export GTK_IM_MODULE=scim
-export XMODIFILERS=@im=scim
+export GTK_IM_MODULE=ibus
+export XMODIFIERS="@im=ibus"
+export QT_IM_MODULE=ibus
 export LANG=en_US.UTF-8
 export LC_CTYPE=zh_CN.UTF-8
 export LC_ALL=
@@ -16,13 +17,16 @@ alias tmuxa="tmux a -t"
 alias gcc="time gcc -W -Wall"
 alias gcc+="gcc -v -pg -W -Wall"
 alias g++="time g++ -W -Wall"
+alias clang="time clang"
 alias wee="weechat-curses"
 alias top="htop"
 alias dict="ydcv"
+alias music="mpd;ncmpcpp"
 alias sound="alsamixer"
 alias cmd="xfce4-terminal"
 alias filem="ranger"
 alias iftop="sudo iftop"
+alias screenshot="scrot"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"

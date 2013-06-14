@@ -21,8 +21,6 @@ BATT_INFO="$(LC_ALL=C acpi -b)"
 IP_INFO="$(ifconfig | grep broadcast | cut -d ' ' -f 10 | grep -v 192.168.122.1)"
 TIME_INFO="$(date +"%a, %b %d %R")"
 VOL_INFO="$(amixer get Master | grep Mono: | cut -d ' ' -f 7)"
-VOL_INFO="${VOL_INFO#*[}"
-VOL_INFO="${VOL_INFO%]*}"
 while true ; do
     case $BATT_INFO in
         *[Dd]ischarging* )
