@@ -60,3 +60,4 @@ alias screenshot="scrot"
 #plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
+eval `dircolors ~/.dir_colors`
