@@ -2,6 +2,11 @@
 "colorscheme molokai
 "colorscheme solarized
 "colorscheme xterm16
+"
+"colorscheme darksea
+"colorscheme natoma
+"colorscheme sunshine
+colorscheme gentooish
 
 syntax on
 filetype on
@@ -32,7 +37,6 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set nowrap
-"set textwidth=80
 autocmd FileType python setlocal tabstop=4 shiftwidth=4 softtabstop=4 textwidth=120
 autocmd FileType php,html,css setlocal tabstop=2 shiftwidth=2 softtabstop=2 textwidth=120
 
@@ -56,7 +60,12 @@ let g:Powerline_symbols='fancy'
 "set encoding=utf-8
 
 " vim-indent-guides
+let g:indent_guides_start_level=1
 let g:indent_guides_guide_size=1
+let g:indent_guides_auto_colors=1
+set background=dark
+"autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd ctermfg=58
+"autocmd VimEnter,Colorscheme * :hi IndentGuidesEven ctermfg=46
 
 " vim-NERDTree
 let NERDTreeShowHidden=1
