@@ -27,6 +27,8 @@ alias cmd="xfce4-terminal"
 alias filem="ranger"
 alias iftop="sudo iftop"
 alias screenshot="scrot"
+alias h="history"
+alias pull="git pull"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
