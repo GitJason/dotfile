@@ -24,6 +24,7 @@ set nu
 set backspace=indent,eol,start
 "set guifont=Consolas-powerline-vim:h10.5:cANSI
 
+set ignorecase
 set ruler
 set hlsearch
 set incsearch
@@ -100,3 +101,6 @@ map <Leader>F :FixWhitespace<CR>
 " python-syntax
 let OPTION_NAME=1
 let python_highlight_all=1
+
+" closetag
+map <Leader>C <c-_>
