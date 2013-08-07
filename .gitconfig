@@ -5,3 +5,7 @@
 	editor = vim
 [color]
 	ui = true
+[credential]
+	helper = cache
+[push]
+	default = simple
