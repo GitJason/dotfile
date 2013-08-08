@@ -38,8 +38,11 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set nowrap
+set colorcolumn=80
+highlight ColorColumn ctermbg=233
+
 autocmd FileType python setlocal tabstop=4 shiftwidth=4 softtabstop=4 textwidth=120
-autocmd FileType php,html,css setlocal tabstop=2 shiftwidth=2 softtabstop=2 textwidth=120
+autocmd FileType php,html,css,javascript setlocal tabstop=2 shiftwidth=2 softtabstop=2 textwidth=120
 
 " map
 map <c-j> <c-w>j
@@ -48,6 +51,12 @@ map <c-l> <c-w>l
 map <c-h> <c-w>h
 map <Leader>I :IndentGuidesEnable<CR>
 map <Leader>N :NERDTreeToggle<CR>
+map <Leader>T :retab<CR>
+
+vnoremap <Leader>s :sort<CR>
+" better indentation
+vnoremap < <gv
+vnoremap > >gv
 
 " vim-pathogen
 " runtime path manipulation
@@ -104,3 +113,8 @@ let python_highlight_all=1
 
 " closetag
 map <Leader>C <c-_>
+
+" Syntastic
+map <Leader>\ :SyntasticCheck<CR>
+let g:syntastic_auto_loc_list=0
+let g:syntastic_php_checkers=['php','phpcs','phpmd']
