@@ -8,9 +8,11 @@ export LANG=en_US.UTF-8
 export LC_CTYPE=zh_CN.UTF-8
 export LC_ALL=
 export EDITOR="/usr/bin/vim"
-export TERM="xterm"
+export TERM="xterm-256color"
+export GOPATH="/home/jason/github/go-test/"
 REPO=$HOME/github
 
+alias ll="ls -lFh --color"
 alias tmux="tmux -2"
 alias tmuxn="tmux -2 new-session -s $USER"
 alias tmuxa="tmux a -t"
@@ -23,12 +25,15 @@ alias top="htop"
 alias dict="ydcv"
 alias music="mpd;ncmpcpp"
 alias sound="alsamixer"
-alias cmd="xfce4-terminal"
+alias cmd="yakuake"
 alias filem="ranger"
 alias iftop="sudo iftop"
 alias screenshot="scrot"
 alias h="history"
 alias pull="git pull"
+alias xunlei="lixian_cli"
+alias q="exit"
+alias news="snownews"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
