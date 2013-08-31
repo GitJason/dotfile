@@ -22,6 +22,8 @@ set $term xfce4-terminal
 # chose a FreeType font, such as:
 font pango:DejaVu Sans Mono,Terminal Bold Semi-Condensed 10
 
+workspace "λ" output $mon_lap
+
 # wallpapers
 exec --no-startup-id feh --bg-scale --no-fehbg ~/.i3/star.jpg
 
@@ -43,7 +45,6 @@ bindsym $mod+Ctrl+l exec xscreensaver-command -lock
 
 # start dmenu (a program launcher)
 bindsym $mod+d exec --no-startup-id dmenu_run -i -l 5 -f -nb black -nf blue -sb '#326781' -p '> '
-#bindsym $mod+d exec --no-startup-id dmenu_run -i -f -nb '#444444' -nf '#dddddd' -sb '#692E81' -p 'Run:'
 
 # screenshot
 bindsym Print exec --no-startup-id scrot -e 'mv $f ~/Pics/ 2>/dev/null'
@@ -82,6 +83,12 @@ bindsym $mod+minus split v
 # enter fullscreen mode for the focused container
 bindsym $mod+f fullscreen
 
+# launch firefox
+bindsym $mod+Ctrl+f exec firefox
+
+# launch mpd
+bindsym $mod+Ctrl+m exec mpd; exec ncmpcpp
+
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
 bindsym $mod+w layout tabbed
@@ -100,31 +107,30 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # workspace
-#
 
 # switch to workspace
-bindsym $mod+1 workspace 1
-bindsym $mod+2 workspace 2
-bindsym $mod+3 workspace 3
-bindsym $mod+4 workspace 4
+bindsym $mod+1 workspace λ
+bindsym $mod+2 workspace mail
+bindsym $mod+3 workspace web
+bindsym $mod+4 workspace >_
 bindsym $mod+5 workspace 5
 bindsym $mod+6 workspace 6
 bindsym $mod+7 workspace 7
 bindsym $mod+8 workspace 8
 bindsym $mod+9 workspace 9
-bindsym $mod+0 workspace 10
+bindsym $mod+0 workspace 0
 
 # move focused container to workspace
-bindsym $mod+Shift+1 move container to workspace 1
-bindsym $mod+Shift+2 move container to workspace 2
-bindsym $mod+Shift+3 move container to workspace 3
-bindsym $mod+Shift+4 move container to workspace 4
+bindsym $mod+Shift+1 move container to workspace λ
+bindsym $mod+Shift+2 move container to workspace mail
+bindsym $mod+Shift+3 move container to workspace web
+bindsym $mod+Shift+4 move container to workspace $
 bindsym $mod+Shift+5 move container to workspace 5
 bindsym $mod+Shift+6 move container to workspace 6
 bindsym $mod+Shift+7 move container to workspace 7
 bindsym $mod+Shift+8 move container to workspace 8
 bindsym $mod+Shift+9 move container to workspace 9
-bindsym $mod+Shift+0 move container to workspace 10
+bindsym $mod+Shift+0 move container to workspace 0
 
 # reload the configuration file
 bindsym $mod+Shift+c reload

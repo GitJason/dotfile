@@ -35,4 +35,4 @@ TEXT
 
 # JSON for i3bar
 
-≈ ${downspeed wlp2s0}/${upspeed wlp2s0} | ❤ ${cpu cpu0}%${acpitemp}°C | ≣${mem}/${memmax} ${buffers} | ${time %m/%d/%Y %a} ${time %H:%M}
+${downspeed wlp2s0} ↓/${upspeed wlp2s0} ↑ | ${cpu cpu0}%${acpitemp}°C ❤ | ${mem}/${memmax} ${buffers} ≣ | ${time %m/%d/%Y %a} ${time %H:%M}

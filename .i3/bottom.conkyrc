@@ -35,4 +35,4 @@ TEXT
 
 # JSON for i3bar
 
-ß ${diskio_read /dev/sda}/${diskio_write /dev/sda} | Ld: ${loadavg 1},${loadavg 2} | ♪ ${execi 60 amixer | grep Mono | grep Playback | grep % | cut -d ' ' -f 6 | cut -c 2-4} | ⚡ ${battery_percent}% ${battery_short} | Home: ${fs_free /home} avail | ${addr wlp2s0} |${wireless_link_qual_perc wlp2s0}%
+${diskio_read /dev/sda} r/${diskio_write /dev/sda} w | ${loadavg 1},${loadavg 2} Π | ${execi 60 amixer | grep Mono | grep Playback | grep % | cut -d ' ' -f 6 | cut -c 2-4} ♪ | ${battery_percent}% ${battery_short} ⚡ | ${fs_free /home} avail ＄ | ${addr wlp2s0} Φ |${wireless_link_qual_perc wlp2s0}% Ω
