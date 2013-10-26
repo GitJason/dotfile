@@ -32,4 +32,7 @@ cpu_avg_samples 2
 
 TEXT
 
-${loadavg 1},${loadavg 2} Π | ${execi 60 amixer | grep Mono | grep Playback | grep % | cut -d ' ' -f 6 | cut -c 2-4} ♪ | ${battery_percent}% ⚡ | ${fs_free /home}${fs_free /mnt/storage} avail • | ${addr wlp2s0} Φ |${wireless_link_qual_perc wlp2s0}% Ω
+# JSON for i3bar
+
+${execi 7200 xmodmap ~/.Xmodmap}
+${mpd_status} | album:${mpd_album} | artist:${mpd_artist} title:${mpd_title} | ${mpd_elapsed}/${mpd_length} | bitrate:${mpd_bitrate} [MUSIC]
