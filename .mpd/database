@@ -1,6 +1,6 @@
 info_begin
 format: 1
-mpd_version: 0.17.4
+mpd_version: 0.17.6
 fs_charset: UTF-8
 tag: Artist
 tag: ArtistSort
@@ -20,614 +20,12 @@ tag: MUSICBRAINZ_ALBUMID
 tag: MUSICBRAINZ_ALBUMARTISTID
 tag: MUSICBRAINZ_TRACKID
 info_end
-directory: (C82)(同人音楽)(東方)[豚乙女] 8 (320k+bk)
-mtime: 1365177039
-begin: (C82)(同人音楽)(東方)[豚乙女] 8 (320k+bk)
-directory: (C82)(同人音楽)(東方)[豚乙女] 8 (320k+bk)
-mtime: 1365177042
-begin: (C82)(同人音楽)(東方)[豚乙女] 8 (320k+bk)/(C82)(同人音楽)(東方)[豚乙女] 8 (320k+bk)
-song_begin: ランコ×めらみぽっぷ - ちぎれた恋.mp3
-Time: 256
-Artist: ¥é¥ó¥³¡Á¤á¤é¤ß¤Ý¤Ã¤×
-Title: ¤Á¤®¤ì¤¿Áµ
-Album: 8
-Track: 1
-mtime: 1365177042
-song_end
-song_begin: ランコ×衝動的の人 - 光源.mp3
-Time: 246
-Artist: ¥é¥ó¥³¡ÁÐnÓµÄ¤ÎÈË
-Title: ¹âÔ´
-Album: 8
-Track: 2
-mtime: 1365177043
-song_end
-song_begin: ランコ×あまね - ふわ☆きら.mp3
-Time: 198
-Artist: ¥é¥ó¥³¡Á¤¢¤Þ¤Í
-Title: ¤Õ¤ï¡î¤­¤é
-Album: 8
-Track: 3
-mtime: 1365177042
-song_end
-song_begin: ランコ×Cherose - アッパッパー人.mp3
-Time: 256
-Artist: ¥é¥ó¥³¡ÁCherose
-Title: ¥¢¥Ã¥Ñ¥Ã¥Ñ©`ÈË
-Album: 8
-Track: 4
-mtime: 1365177041
-song_end
-song_begin: ランコ×3L - 金色の雨月.mp3
-Time: 308
-Artist: ¥é¥ó¥³¡Á3L
-Title: ½ðÉ«¤ÎÓêÔÂ
-Album: 8
-Track: 5
-mtime: 1365177040
-song_end
-song_begin: ランコ×yonji - いつか見れるよ.mp3
-Time: 366
-Artist: ¥é¥ó¥³¡Áyonji
-Title: ¤¤¤Ä¤«Ò¤ì¤ë¤è
-Album: 8
-Track: 6
-mtime: 1365177041
-song_end
-song_begin: ランコ×ichigo - 栄華の先.mp3
-Time: 243
-Artist: ¥é¥ó¥³¡Áichigo
-Title: ÑÈA¤ÎÏÈ
-Album: 8
-Track: 7
-mtime: 1365177041
-song_end
-song_begin: ランコ×ビートまりお - きっと届く.mp3
-Time: 231
-Artist: ¥é¥ó¥³¡Á¥Ó©`¥È¤Þ¤ê¤ª
-Title: ¤­¤Ã¤È½ì¤¯
-Album: 8
-Track: 8
-mtime: 1365177042
-song_end
-end: (C82)(同人音楽)(東方)[豚乙女] 8 (320k+bk)/(C82)(同人音楽)(東方)[豚乙女] 8 (320k+bk)
-end: (C82)(同人音楽)(東方)[豚乙女] 8 (320k+bk)
-directory: 2009.01.28 RAINBOW
-mtime: 1369811381
-begin: 2009.01.28 RAINBOW
-song_begin: 01 CHANGE.m4a
-Time: 236
-Title: CHANGE
-Artist: 福原美穂
-Composer: 福原美穂、2 SOUL
-Album: RAINBOW
-Genre: Pop
-Track: 1
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179516
-song_end
-song_begin: 02 ANYMORE.m4a
-Time: 297
-Title: ANYMORE
-Artist: 福原美穂
-Composer: 福原美穂、2 SOUL
-Album: RAINBOW
-Genre: Pop
-Track: 2
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179517
-song_end
-song_begin: 03 Lose Control.m4a
-Time: 262
-Title: Lose Control
-Artist: 福原美穂
-Composer: 福原美穂、2 SOUL
-Album: RAINBOW
-Genre: Pop
-Track: 3
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179517
-song_end
-song_begin: 04 雪の光.m4a
-Time: 274
-Title: 雪の光
-Artist: 福原美穂
-Composer: 福原美穂、山口寛雄
-Album: RAINBOW
-Genre: Pop
-Track: 4
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179517
-song_end
-song_begin: 05 Everybody Needs Someone.m4a
-Time: 221
-Title: Everybody Needs Someone
-Artist: 福原美穂
-Composer: Nina Woodford/Fraser T,Smith
-Album: RAINBOW
-Genre: Pop
-Track: 5
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179518
-song_end
-song_begin: 06 ON TOP OF THE WORLD.m4a
-Time: 248
-Title: ON TOP OF THE WORLD
-Artist: 福原美穂
-Composer: Sandi Thom/Simon Perry/David Thomas
-Album: RAINBOW
-Genre: Pop
-Track: 6
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179518
-song_end
-song_begin: 07 ひまわり.m4a
-Time: 296
-Title: ひまわり
-Artist: 福原美穂
-Composer: 福原美穂、山口寛雄
-Album: RAINBOW
-Genre: Pop
-Track: 7
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179518
-song_end
-song_begin: 08 LOVE ～winter song～ (album version).m4a
-Time: 271
-Title: LOVE ～winter song～ (album version)
-Artist: 福原美穂
-Composer: 福原美浦、安原兵衛
-Album: RAINBOW
-Genre: Pop
-Track: 8
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179518
-song_end
-song_begin: 09 Getting There.m4a
-Time: 232
-Title: Getting There
-Artist: 福原美穂
-Composer: Fromm/DeNicola/Malconey
-Album: RAINBOW
-Genre: Pop
-Track: 9
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179519
-song_end
-song_begin: 10 ドリーマー.m4a
-Time: 263
-Title: ドリーマー
-Artist: 福原美穂
-Composer: 香那
-Album: RAINBOW
-Genre: Pop
-Track: 10
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179519
-song_end
-song_begin: 11 ICE & FIRE.m4a
-Time: 231
-Title: ICE & FIRE
-Artist: 福原美穂
-Composer: Corinne Bailey Rae & Yo Yo
-Album: RAINBOW
-Genre: Pop
-Track: 11
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179519
-song_end
-song_begin: 12 優しい赤.m4a
-Time: 295
-Title: 優しい赤
-Artist: 福原美穂
-Composer: 川村結花
-Album: RAINBOW
-Genre: Pop
-Track: 12
-Disc: 1
-Date: 2009
-AlbumArtist: 福原美穂
-mtime: 1365179520
-song_end
-end: 2009.01.28 RAINBOW
-directory: 2010.06.16 Music is My Life
-mtime: 1369902633
-begin: 2010.06.16 Music is My Life
-song_begin: 01 RISING LIKE A FLAME.m4a
-Time: 255
-Title: RISING LIKE A FLAME
-Artist: 福原美穂
-Composer: Zetto-Dee Adam-Eric Woolfson-Alan Parsons
-Album: Music is My Life
-Genre: Pop
-Track: 1
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179520
-song_end
-song_begin: 02 HANABI SKY.m4a
-Time: 247
-Title: HANABI SKY
-Artist: 福原美穂
-Composer: 福原美穂・山口寛雄
-Album: Music is My Life
-Genre: Pop
-Track: 2
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179520
-song_end
-song_begin: 03 未来 -ミライ-.m4a
-Time: 260
-Title: 未来 -ミライ-
-Artist: 福原美穂
-Composer: 福原美穂・山口寛雄
-Album: Music is My Life
-Genre: Pop
-Track: 3
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179520
-song_end
-song_begin: 04 LET IT OUT -album version-.m4a
-Time: 259
-Title: LET IT OUT -album version-
-Artist: 福原美穂
-Composer: 福原美穂・山口寛雄
-Album: Music is My Life
-Genre: Pop
-Track: 4
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179521
-song_end
-song_begin: 05 もしかして.m4a
-Time: 262
-Title: もしかして
-Artist: 福原美穂
-Composer: 福原美穂・KEN for 2SOUL MUSIC Inc.
-Album: Music is My Life
-Genre: Pop
-Track: 5
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179521
-song_end
-song_begin: 06 Apologies Feat. sleepy.ab.m4a
-Time: 301
-Title: Apologies Feat. sleepy.ab
-Artist: 福原美穂
-Composer: 丸谷マナブ
-Album: Music is My Life
-Genre: Pop
-Track: 6
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179521
-song_end
-song_begin: 07 Cry No More -album version-.m4a
-Time: 272
-Title: Cry No More -album version-
-Artist: 福原美穂
-Composer: 福原美穂・山口寛雄
-Album: Music is My Life
-Genre: Pop
-Track: 7
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179522
-song_end
-song_begin: 08 Baby Baby Feat. Laura Izibor.m4a
-Time: 196
-Title: Baby Baby Feat. Laura Izibor
-Artist: 福原美穂
-Composer: Laura Izibor & Noize Trip
-Album: Music is My Life
-Genre: Pop
-Track: 8
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179522
-song_end
-song_begin: 09 なんで泣きたくなっちゃうんだろう.m4a
-Time: 229
-Title: なんで泣きたくなっちゃうんだろう
-Artist: 福原美穂
-Composer: 福原美穂・安原兵衛
-Album: Music is My Life
-Genre: Pop
-Track: 9
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179522
-song_end
-song_begin: 10 TOUCH & LOVE.m4a
-Time: 286
-Title: TOUCH & LOVE
-Artist: 福原美穂
-Composer: 福原美穂・KEN for 2SOUL MUSIC Inc.
-Album: Music is My Life
-Genre: Pop
-Track: 10
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179522
-song_end
-song_begin: 11 Sotsugyou.m4a
-Time: 336
-Title: Sotsugyou
-Artist: 福原美穂
-Composer: 福原美穂・KEN for 2SOUL MUSIC Inc.
-Album: Music is My Life
-Genre: Pop
-Track: 11
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179523
-song_end
-song_begin: 12 THANK YOU.m4a
-Time: 298
-Title: THANK YOU
-Artist: 福原美穂
-Composer: 福原美穂・KEN for 2SOUL MUSIC Inc.
-Album: Music is My Life
-Genre: Pop
-Track: 12
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179523
-song_end
-song_begin: 13 あいのうた.m4a
-Time: 289
-Title: あいのうた
-Artist: 福原美穂
-Composer: 福原美穂
-Album: Music is My Life
-Genre: Pop
-Track: 13
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179523
-song_end
-end: 2010.06.16 Music is My Life
-directory: 2010.12.22 Regrets of Love
-mtime: 1369839158
-begin: 2010.12.22 Regrets of Love
-song_begin: 1-01 Regrets of Love.m4a
-Time: 214
-Title: Regrets of Love
-Artist: 福原美穂
-Composer: Missy Elliott, Kenneth Cunningham, Jamahl Rye, Zyah Ahmonuel
-Album: Regrets of Love
-Genre: Pop
-Track: 1
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179523
-song_end
-song_begin: 1-02 Forget.m4a
-Time: 236
-Title: Forget
-Artist: 福原美穂
-Composer: Missy Elliott, Kenneth Cunningham, Jamahl Rye, Zyah Ahmonuel
-Album: Regrets of Love
-Genre: Pop
-Track: 2
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179524
-song_end
-song_begin: 1-03 ミルク 2010 with Chara.m4a
-Time: 285
-Title: ミルク 2010 with Chara
-Artist: 福原美穂
-Composer: Missy Elliott, Kenneth Cunningham, Jamahl Rye, Trevor Smith, Cervantes, Allen, Ayers, Birdsong, Booker, Fareed, Jones, Stepney
-Album: Regrets of Love
-Genre: Pop
-Track: 3
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179524
-song_end
-song_begin: 1-04 You Give Me Something.m4a
-Time: 223
-Title: You Give Me Something
-Artist: 福原美穂
-Composer: Missy Elliott, Kenneth Cunningham, Jamahl Rye
-Album: Regrets of Love
-Genre: Pop
-Track: 4
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179524
-song_end
-song_begin: 1-05 Your Story.m4a
-Time: 252
-Title: Your Story
-Artist: 福原美穂
-Composer: Monica Arnold;Jermaine Dupri;Harold Lilly
-Album: Regrets of Love
-Genre: Pop
-Track: 5
-Disc: 1
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179525
-song_end
-song_begin: 2-01 RISING LIKE A FLAME.m4a
-Time: 306
-Title: RISING LIKE A FLAME
-Artist: 福原美穂
-Album: Regrets of Love
-Genre: Pop
-Track: 1
-Disc: 2
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179525
-song_end
-song_begin: 2-02 絶え間なく.m4a
-Time: 357
-Title: 絶え間なく
-Artist: 福原美穂
-Album: Regrets of Love
-Genre: Pop
-Track: 2
-Disc: 2
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179525
-song_end
-song_begin: 2-03 Cry No More.m4a
-Time: 327
-Title: Cry No More
-Artist: 福原美穂
-Album: Regrets of Love
-Genre: Pop
-Track: 3
-Disc: 2
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179526
-song_end
-song_begin: 2-04 優しい赤.m4a
-Time: 334
-Title: 優しい赤
-Artist: 福原美穂
-Album: Regrets of Love
-Genre: Pop
-Track: 4
-Disc: 2
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179526
-song_end
-song_begin: 2-05 Baby Baby.m4a
-Time: 260
-Title: Baby Baby
-Artist: 福原美穂
-Album: Regrets of Love
-Genre: Pop
-Track: 5
-Disc: 2
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179526
-song_end
-song_begin: 2-06 TOUCH&LOVE.m4a
-Time: 417
-Title: TOUCH&LOVE
-Artist: 福原美穂
-Album: Regrets of Love
-Genre: Pop
-Track: 6
-Disc: 2
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179527
-song_end
-song_begin: 2-07 Sotsugyou.m4a
-Time: 466
-Title: Sotsugyou
-Artist: 福原美穂
-Album: Regrets of Love
-Genre: Pop
-Track: 7
-Disc: 2
-Date: 2010
-AlbumArtist: 福原美穂
-mtime: 1365179527
-song_end
-end: 2010.12.22 Regrets of Love
-directory: Aimer.-.[Re：pray／眠れない夜は].单曲.(FLAC)
-mtime: 1365178556
-begin: Aimer.-.[Re：pray／眠れない夜は].单曲.(FLAC)
-song_begin: Aimer.-.[Re：pray／眠れない夜は].单曲.(FLAC).flac
-Time: 888
-mtime: 1365178559
-song_end
-playlist_begin: Aimer.-.[Re：pray／眠れない夜は].单曲.(FLAC).cue
-mtime: 1365178556
-playlist_end
-end: Aimer.-.[Re：pray／眠れない夜は].单曲.(FLAC)
-directory: Aimer.-.[Sleepless.Nights].专辑.(FLAC)
-mtime: 1365177430
-begin: Aimer.-.[Sleepless.Nights].专辑.(FLAC)
-song_begin: Aimer.-.[Sleepless.Nights].专辑.(FLAC).flac
-Time: 3680
-mtime: 1365177444
-song_end
-playlist_begin: Aimer.-.[Sleepless.Nights].专辑.(FLAC).cue
-mtime: 1365177430
-playlist_end
-end: Aimer.-.[Sleepless.Nights].专辑.(FLAC)
-directory: Aimer.-.[あなたに出会わなければ～夏雪冬花～／星屑ビーナス].单曲.(FLAC)
-mtime: 1365177806
-begin: Aimer.-.[あなたに出会わなければ～夏雪冬花～／星屑ビーナス].单曲.(FLAC)
-song_begin: Aimer.-.[あなたに出会わなければ～夏雪冬花～／星屑ビーナス].单曲.(FLAC).flac
-Time: 856
-mtime: 1365177809
-song_end
-playlist_begin: Aimer.-.[あなたに出会わなければ～夏雪冬花～／星屑ビーナス].单曲.(FLAC).cue
-mtime: 1365177806
-playlist_end
-end: Aimer.-.[あなたに出会わなければ～夏雪冬花～／星屑ビーナス].单曲.(FLAC)
-directory: Aimer.-.[六等星の夜／悲しみはオーロラに／TWINKLE.TWINKLE.LITTLE.STAR].单曲.(FLAC)
-mtime: 1365177809
-begin: Aimer.-.[六等星の夜／悲しみはオーロラに／TWINKLE.TWINKLE.LITTLE.STAR].单曲.(FLAC)
-song_begin: Aimer.-.[六等星の夜／悲しみはオーロラに／TWINKLE.TWINKLE.LITTLE.STAR].单曲.(FLAC).flac
-Time: 727
-Artist: Aimer
-Date: 2011
-Genre: Jpop
-mtime: 1365177812
-song_end
-playlist_begin: Aimer.-.[六等星の夜／悲しみはオーロラに／TWINKLE.TWINKLE.LITTLE.STAR].单曲.(FLAC).cue
-mtime: 1365177809
-playlist_end
-end: Aimer.-.[六等星の夜／悲しみはオーロラに／TWINKLE.TWINKLE.LITTLE.STAR].单曲.(FLAC)
-directory: BENI.-.[BITTER.&amp;.SWEET].专辑.(APE)
+directory: BENI
+mtime: 1382688925
+begin: BENI
+directory: BITTER_SWEET
 mtime: 1367265272
-begin: BENI.-.[BITTER.&amp;.SWEET].专辑.(APE)
+begin: BENI/BITTER_SWEET
 song_begin: BENI.-.[BITTER.&amp;.SWEET].专辑.(APE).ape
 Time: 3957
 mtime: 1367040199
@@ -635,164 +33,10 @@ song_end
 playlist_begin: BENI.-.[BITTER.&amp;.SWEET].专辑.(APE).cue
 mtime: 1366984254
 playlist_end
-end: BENI.-.[BITTER.&amp;.SWEET].专辑.(APE)
-directory: BENI.-.[COVERS：2].专辑.(FLAC)
-mtime: 1365177906
-begin: BENI.-.[COVERS：2].专辑.(FLAC)
-directory: COVERS：2 (FLAC)
-mtime: 1365177918
-begin: BENI.-.[COVERS：2].专辑.(FLAC)/COVERS：2 (FLAC)
-song_begin: 01 Lovers Again.flac
-Time: 280
-Track: 1
-Title: Lovers Again
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177907
-song_end
-song_begin: 02 白い恋人達.flac
-Time: 243
-Track: 2
-Title: 白い恋人達
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177908
-song_end
-song_begin: 03 歌うたいのバラッド.flac
-Time: 359
-Track: 3
-Title: 歌うたいのバラッド
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177909
-song_end
-song_begin: 04 PIECES OF A DREAM.flac
-Time: 297
-Track: 4
-Title: PIECES OF A DREAM
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177910
-song_end
-song_begin: 05 楽園.flac
-Time: 313
-Track: 5
-Title: 楽園
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177911
-song_end
-song_begin: 06 チェリー.flac
-Time: 270
-Track: 6
-Title: チェリー
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177913
-song_end
-song_begin: 07 クリスマス・イブ.flac
-Time: 239
-Track: 7
-Title: クリスマス・イブ
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177913
-song_end
-song_begin: 08 はじまりはいつも雨.flac
-Time: 237
-Track: 8
-Title: はじまりはいつも雨
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177914
-song_end
-song_begin: 09 I LOVE YOU.flac
-Time: 274
-Track: 9
-Title: I LOVE YOU
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177915
-song_end
-song_begin: 10 小さな恋のうた.flac
-Time: 282
-Track: 10
-Title: 小さな恋のうた
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177916
-song_end
-song_begin: 11 接吻.flac
-Time: 283
-Track: 11
-Title: 接吻
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177917
-song_end
-song_begin: 12 永遠に.flac
-Time: 285
-Track: 12
-Title: 永遠に
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177918
-song_end
-song_begin: 13 Squall.flac
-Time: 282
-Track: 13
-Title: Squall
-Artist: BENI
-AlbumArtist: BENI
-Album: COVERS 2
-Date: 2012
-Genre: JPop
-mtime: 1365177919
-song_end
-end: BENI.-.[COVERS：2].专辑.(FLAC)/COVERS：2 (FLAC)
-end: BENI.-.[COVERS：2].专辑.(FLAC)
-directory: BENI.-.[COVERS].专辑.(FLAC)
-mtime: 1365177892
-begin: BENI.-.[COVERS].专辑.(FLAC)
-directory: [2012年3月21日]安良城紅（BENI）-+COVERS+(日本盤)[攪豬屎株式會社][FLAC]
-mtime: 1365177905
-begin: BENI.-.[COVERS].专辑.(FLAC)/[2012年3月21日]安良城紅（BENI）-+COVERS+(日本盤)[攪豬屎株式會社][FLAC]
+end: BENI/BITTER_SWEET
+directory: COVERS
+mtime: 1373314129
+begin: BENI/COVERS
 song_begin: 01. Ti Amo.flac
 Time: 344
 Track: 1
@@ -939,11 +183,157 @@ song_end
 playlist_begin: BENI - COVERS.m3u
 mtime: 1365177905
 playlist_end
-end: BENI.-.[COVERS].专辑.(FLAC)/[2012年3月21日]安良城紅（BENI）-+COVERS+(日本盤)[攪豬屎株式會社][FLAC]
-end: BENI.-.[COVERS].专辑.(FLAC)
-directory: BENI.-.[Fortune].专辑.(MP3)
+end: BENI/COVERS
+directory: COVERS:2
+mtime: 1373314124
+begin: BENI/COVERS:2
+song_begin: 01 Lovers Again.flac
+Time: 280
+Track: 1
+Title: Lovers Again
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177907
+song_end
+song_begin: 02 白い恋人達.flac
+Time: 243
+Track: 2
+Title: 白い恋人達
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177908
+song_end
+song_begin: 03 歌うたいのバラッド.flac
+Time: 359
+Track: 3
+Title: 歌うたいのバラッド
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177909
+song_end
+song_begin: 04 PIECES OF A DREAM.flac
+Time: 297
+Track: 4
+Title: PIECES OF A DREAM
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177910
+song_end
+song_begin: 05 楽園.flac
+Time: 313
+Track: 5
+Title: 楽園
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177911
+song_end
+song_begin: 06 チェリー.flac
+Time: 270
+Track: 6
+Title: チェリー
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177913
+song_end
+song_begin: 07 クリスマス・イブ.flac
+Time: 239
+Track: 7
+Title: クリスマス・イブ
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177913
+song_end
+song_begin: 08 はじまりはいつも雨.flac
+Time: 237
+Track: 8
+Title: はじまりはいつも雨
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177914
+song_end
+song_begin: 09 I LOVE YOU.flac
+Time: 274
+Track: 9
+Title: I LOVE YOU
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177915
+song_end
+song_begin: 10 小さな恋のうた.flac
+Time: 282
+Track: 10
+Title: 小さな恋のうた
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177916
+song_end
+song_begin: 11 接吻.flac
+Time: 283
+Track: 11
+Title: 接吻
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177917
+song_end
+song_begin: 12 永遠に.flac
+Time: 285
+Track: 12
+Title: 永遠に
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177918
+song_end
+song_begin: 13 Squall.flac
+Time: 282
+Track: 13
+Title: Squall
+Artist: BENI
+AlbumArtist: BENI
+Album: COVERS 2
+Date: 2012
+Genre: JPop
+mtime: 1365177919
+song_end
+end: BENI/COVERS:2
+directory: Fortune
 mtime: 1320260885
-begin: BENI.-.[Fortune].专辑.(MP3)
+begin: BENI/Fortune
 song_begin: 01 Fortune Intro.mp3
 Time: 72
 Artist: BENI
@@ -1098,677 +488,281 @@ Genre: Jpop
 Disc: 1/1
 mtime: 1320261399
 song_end
-end: BENI.-.[Fortune].专辑.(MP3)
-directory: BRIGHT - BAD GIRL!! feat. SKY-HI(AAA)£¯·ê¤¦¤¿¤ÓºÃ¤­¤Ë¤Ê¤Ã¤Æ
-mtime: 1369499750
-begin: BRIGHT - BAD GIRL!! feat. SKY-HI(AAA)£¯·ê¤¦¤¿¤ÓºÃ¤­¤Ë¤Ê¤Ã¤Æ
-song_begin: 1 BAD GIRL!! feat. SKY-HI(AAA).mp3
-Time: 265
-Artist: BRIGHT
-Title: BAD GIRL!! feat. SKY-HI(AAA)
-Album: BAD GIRL!! feat. SKY-HI(AAA) / 逢うたび好きになって
-Track: 1
-Date: 2011
-Genre: R&B
-mtime: 1369499718
-song_end
-song_begin: 2 ·ê¤¦¤¿¤ÓºÃ¤­¤Ë¤Ê¤Ã¤Æ.mp3
-Time: 256
-Artist: BRIGHT
-Title: 逢うたび好きになって
-Album: BAD GIRL!! feat. SKY-HI(AAA) / 逢うたび好きになって
-Track: 2
-Date: 2011
-Genre: R&B
-mtime: 1369499728
-song_end
-song_begin: 3 BAD GIRL!! (Instrumental).mp3
-Time: 265
-Artist: BRIGHT
-Title: BAD GIRL!! (Instrumental)
-Album: BAD GIRL!! feat. SKY-HI(AAA) / 逢うたび好きになって
-Track: 3
-Date: 2011
-Genre: R&B
-mtime: 1369499743
-song_end
-song_begin: 4 ·ê¤¦¤¿¤ÓºÃ¤­¤Ë¤Ê¤Ã¤Æ (Instrumental).mp3
-Time: 255
-Artist: BRIGHT
-Title: 逢うたび好きになって (Instrumental)
-Album: BAD GIRL!! feat. SKY-HI(AAA) / 逢うたび好きになって
-Track: 4
-Date: 2011
-Genre: R&B
-mtime: 1369499750
-song_end
-end: BRIGHT - BAD GIRL!! feat. SKY-HI(AAA)£¯·ê¤¦¤¿¤ÓºÃ¤­¤Ë¤Ê¤Ã¤Æ
-directory: BRIGHT.-.[LOVE～ある愛のカタチ～].单曲
-mtime: 1365177933
-begin: BRIGHT.-.[LOVE～ある愛のカタチ～].单曲
-directory: BRIGHT - [LOVE～ある愛のカタチ～].单曲.(MP3).rar
-mtime: 1365177934
-begin: BRIGHT.-.[LOVE～ある愛のカタチ～].单曲/BRIGHT - [LOVE～ある愛のカタチ～].单曲.(MP3).rar
-song_begin: 1. LOVE~ある愛のカタチ~.mp3
-Time: 296
-Artist: Bright
-Title: Love ~ある愛のカタチ~
-Album: Bright
-mtime: 1365177934
-song_end
-song_begin: 2. 1年2ヶ月20日.mp3
-Time: 313
-Artist: BRIGHT
-AlbumArtist: BRIGHT
-Title: 1年2ヶ月20日
-Album: LOVE~ある愛のカタチ~
-Track: 2/2
-Date: 2011
+end: BENI/Fortune
+directory: OUR.SKY
+mtime: 1373840419
+begin: BENI/OUR.SKY
+song_begin: 01 OUR SKY.mp3
+Time: 260
+Artist: BENI
+AlbumArtist: BENI
+Title: OUR SKY
+Album: OUR SKY
+Track: 1/4
+Date: 2013
 Genre: J-Pop
+Composer: SKY BEATZ & FAST LANE
 Disc: 1/1
-mtime: 1365177934
+mtime: 1373519634
 song_end
-end: BRIGHT.-.[LOVE～ある愛のカタチ～].单曲/BRIGHT - [LOVE～ある愛のカタチ～].单曲.(MP3).rar
-end: BRIGHT.-.[LOVE～ある愛のカタチ～].单曲
-directory: CHANGE
-mtime: 1369744422
-begin: CHANGE
-song_begin: 01 CHANGE.m4a
-Time: 237
-Title: CHANGE
-Track: 1
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: CHANGE
-Disc: 1
-mtime: 1365179531
+song_begin: 02 Home Sweet Home.mp3
+Time: 355
+Artist: BENI
+AlbumArtist: BENI
+Title: Home Sweet Home
+Album: OUR SKY
+Track: 2/4
+Date: 2013
+Genre: J-Pop
+Composer: 木村篤史
+Disc: 1/1
+mtime: 1373519644
 song_end
-song_begin: 02 恋はリズム ~Believe My Way～.m4a
-Time: 245
-Title: 恋はリズム ~Believe My Way~
-Track: 2
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: CHANGE
-Disc: 1
-mtime: 1365179531
+song_begin: 03 OUR SKY (Instrumental).mp3
+Time: 260
+Artist: BENI
+AlbumArtist: BENI
+Title: OUR SKY (Instrumental)
+Album: OUR SKY
+Track: 3/4
+Date: 2013
+Genre: J-Pop
+Composer: SKY BEATZ & FAST LANE
+Disc: 1/1
+mtime: 1373519652
 song_end
-song_begin: 03 BECAUSE YOU LOVED ME.m4a
-Time: 276
-Title: BECAUSE YOU LOVED ME
-Track: 3
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: CHANGE
-Disc: 1
-mtime: 1365179532
+song_begin: 04 Home Sweet Home (Instrumental).mp3
+Time: 355
+Artist: BENI
+AlbumArtist: BENI
+Title: Home Sweet Home (Instrumental)
+Album: OUR SKY
+Track: 4/4
+Date: 2013
+Genre: J-Pop
+Composer: 木村篤史
+Disc: 1/1
+mtime: 1373519663
 song_end
-end: CHANGE
-directory: ClariS.-.[Wake.Up].单曲.(FLAC)
-mtime: 1365178159
-begin: ClariS.-.[Wake.Up].单曲.(FLAC)
-song_begin: ClariS.-.[Wake.Up].单曲.(FLAC).flac
-Time: 906
-Artist: ClariS
-mtime: 1365178162
+end: BENI/OUR.SKY
+directory: lovebox
+mtime: 1379769574
+begin: BENI/lovebox
+song_begin: BENI.-.[Lovebox].专辑.(FLAC).flac
+Time: 3545
+mtime: 1379769002
 song_end
-playlist_begin: ClariS.-.[Wake.Up].单曲.(FLAC).cue
-mtime: 1365178159
+playlist_begin: BENI.-.[Lovebox].专辑.(FLAC).cue
+mtime: 1379769013
 playlist_end
-end: ClariS.-.[Wake.Up].单曲.(FLAC)
-directory: EGOIST.-.[Extra.terrestrial.Biological.Entities].专辑.(MP3)
-mtime: 1365179458
-begin: EGOIST.-.[Extra.terrestrial.Biological.Entities].专辑.(MP3)
-directory: [120919]EGOIST 1st Album - 『Extra terrestrial Biological Entities』[320K]
-mtime: 1365179461
-begin: EGOIST.-.[Extra.terrestrial.Biological.Entities].专辑.(MP3)/[120919]EGOIST 1st Album - 『Extra terrestrial Biological Entities』[320K]
-song_begin: 1. 原罪の灯.mp3
-Time: 134
-mtime: 1365179458
+end: BENI/lovebox
+directory: もう二度と…
+mtime: 1367595225
+begin: BENI/もう二度と…
+song_begin: 01 - もう二度と....mp3
+Time: 349
+Artist: 安良城紅
+Title: もう二度と…
+Album: もう二度と…
+Track: 1
+Date: 2008
+Genre: R&B
+mtime: 1231256115
 song_end
-song_begin: 10. この世界で見つけたもの.mp3
-Time: 292
-mtime: 1365179458
+song_begin: 02 - STAY.mp3
+Time: 283
+Artist: 安良城紅
+Title: STAY
+Album: もう二度と…
+Track: 2
+Date: 2008
+Genre: R&B
+mtime: 1231256115
 song_end
-song_begin: 11. Planetes.mp3
-Time: 368
-mtime: 1365179459
+song_begin: 03 - もう二度と... (Instrumental).mp3
+Time: 348
+Artist: 安良城紅
+Title: もう二度と…(Instrumental)
+Album: もう二度と…
+Track: 3
+Date: 2008
+Genre: R&B
+mtime: 1231256115
 song_end
-song_begin: 12. Departures ~あなたにおくるアイの歌~.mp3
-Time: 255
-mtime: 1365179459
+song_begin: 04 - STAY (Instrumental).mp3
+Time: 279
+Artist: 安良城紅
+Title: STAY(Instrumental)
+Album: もう二度と…
+Track: 4
+Date: 2008
+Genre: R&B
+mtime: 1231256115
 song_end
-song_begin: 2. The Everlasting Guilty Crown.mp3
-Time: 327
-mtime: 1365179459
+end: BENI/もう二度と…
+end: BENI
+directory: By2
+mtime: 1381992135
+begin: By2
+directory: 16未成年
+mtime: 1381992125
+begin: By2/16未成年
+song_begin: 01 好好爱^O^（心动时刻版）.flac
+Time: 210
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 好好爱^O^（心动时刻版）
+mtime: 1265350480
 song_end
-song_begin: 3. Extra terrestrial Biological Entities.mp3
-Time: 341
-mtime: 1365179460
+song_begin: 04 发呆.flac
+Time: 218
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 发呆
+mtime: 1265350502
 song_end
-song_begin: 4. 雨、キミを連れて.mp3
-Time: 256
-mtime: 1365179460
+song_begin: 10 甜甜圈.flac
+Time: 247
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 甜甜圈
+mtime: 1265350537
 song_end
-song_begin: 5. Lovely Icecream Princess Sweetie.mp3
-Time: 244
-mtime: 1365179460
+song_begin: 02 不够成熟.flac
+Time: 271
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 不够成熟
+Track: 2
+mtime: 1265350490
 song_end
-song_begin: 6. 手遅れ.mp3
-Time: 207
-mtime: 1365179461
+song_begin: 03 PP别粘在椅上.flac
+Time: 199
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: PP别粘在椅上
+Track: 3
+mtime: 1265350490
 song_end
-song_begin: 7. LoveStruck.mp3
-Time: 272
-mtime: 1365179461
+song_begin: 05 买买买.flac
+Time: 206
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 买买买
+Track: 5
+mtime: 1265350502
 song_end
-song_begin: 8. Ce que jˇaime ~inori no kyuuzitu~.mp3
-Time: 67
-mtime: 1365179461
+song_begin: 06 爱丫爱丫.flac
+Time: 232
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 爱丫爱丫
+Track: 6
+mtime: 1265350514
 song_end
-song_begin: 9. 想いを巡らす100の事象.mp3
-Time: 175
-mtime: 1365179461
+song_begin: 07 你说我说.flac
+Time: 218
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 你说我说
+Track: 7
+mtime: 1265350516
 song_end
-end: EGOIST.-.[Extra.terrestrial.Biological.Entities].专辑.(MP3)/[120919]EGOIST 1st Album - 『Extra terrestrial Biological Entities』[320K]
-end: EGOIST.-.[Extra.terrestrial.Biological.Entities].专辑.(MP3)
-directory: F.I.R.飞儿乐团.-.[F.I.R.飞儿乐团同名专辑].专辑.(APE)
-mtime: 1369722372
-begin: F.I.R.飞儿乐团.-.[F.I.R.飞儿乐团同名专辑].专辑.(APE)
-song_begin: F.I.R.飞儿乐团.-.[F.I.R.飞儿乐团同名专辑].专辑.(APE).ape
+song_begin: 08 仙草蜜.flac
+Time: 188
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 仙草蜜
+Track: 8
+mtime: 1265350525
+song_end
+song_begin: 09 太难搞.flac
+Time: 193
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 太难搞
+Track: 9
+mtime: 1265350525
+song_end
+song_begin: 11 好好爱^O^（feat. 2High）.flac
+Time: 209
+Album: 16未成年
+Artist: By2
+Date: 2008
+Title: 好好爱^O^（feat. 2High）
+Track: 11
+mtime: 1265350537
+song_end
+end: By2/16未成年
+directory: Twins
+mtime: 1382101343
+begin: By2/Twins
+song_begin: Twins.flac
+Time: 2321
+mtime: 1381909186
+song_end
+playlist_begin: Twins.cue
+mtime: 1381910219
+playlist_end
+end: By2/Twins
+end: By2
+directory: F.I.R
+mtime: 1382104132
+begin: F.I.R
+directory: F.I.R
+mtime: 1382104093
+begin: F.I.R/F.I.R
+song_begin: F.I.R.飞儿乐团同名专辑.ape
 Time: 2987
 mtime: 1188270928
 song_end
-playlist_begin: F.I.R.飞儿乐团.-.[F.I.R.飞儿乐团同名专辑].专辑.(APE).cue
+playlist_begin: F.I.R.飞儿乐团同名专辑.cue
 mtime: 1203931703
 playlist_end
-end: F.I.R.飞儿乐团.-.[F.I.R.飞儿乐团同名专辑].专辑.(APE)
-directory: GReeeeN.-.[BE.FREE／涙空].5th单曲.(MP3)
-mtime: 1366115041
-begin: GReeeeN.-.[BE.FREE／涙空].5th单曲.(MP3)
-song_begin: GReeeeN - 01.BE FREE.mp3
-Time: 281
-Artist: GReeeeN
-Title: BE FREE
-Album: BE FREE／涙空
-Track: 1
-Date: 2008
-Genre: Other
-mtime: 1200509780
+end: F.I.R/F.I.R
+directory: 无限
+mtime: 1382104122
+begin: F.I.R/无限
+song_begin: 无限.flac
+Time: 2670
+mtime: 1149137067
 song_end
-song_begin: GReeeeN - 02.涙空.mp3
-Time: 281
-Artist: GReeeeN
-Title: 涙空
-Album: BE FREE／涙空
-Track: 2
-Date: 2008
-Genre: Other
-mtime: 1200509785
-song_end
-end: GReeeeN.-.[BE.FREE／涙空].5th单曲.(MP3)
-directory: Good.Coming.-.[仲間]
-mtime: 1365177474
-begin: Good.Coming.-.[仲間]
-directory: Good.Coming.-.[仲間].单曲.(MP3)
-mtime: 1365177474
-begin: Good.Coming.-.[仲間]/Good.Coming.-.[仲間].单曲.(MP3)
-directory: 仲間
-mtime: 1365678785
-begin: Good.Coming.-.[仲間]/Good.Coming.-.[仲間].单曲.(MP3)/仲間
-song_begin: 02 桜、咲き誇れ.mp3
-Time: 250
-Track: 2
-Genre: Other
-mtime: 1365177475
-song_end
-song_begin: 03 仲間 [Inst].mp3
-Time: 281
-Track: 3
-Genre: Other
-mtime: 1365177475
-song_end
-song_begin: 04 桜、咲き誇れ [Inst].mp3
-Time: 250
-Track: 4
-Genre: Other
-mtime: 1365177476
-song_end
-song_begin: 01 仲間.mp3
-Time: 281
-Artist: Good Coming
-Title: 仲間
-Album: 仲間
-Track: 1/4
-Date: 2012
-Genre: Other
-mtime: 1365678785
-song_end
-end: Good.Coming.-.[仲間]/Good.Coming.-.[仲間].单曲.(MP3)/仲間
-end: Good.Coming.-.[仲間]/Good.Coming.-.[仲間].单曲.(MP3)
-end: Good.Coming.-.[仲間]
-directory: HANABI_SKY
-mtime: 1365179540
-begin: HANABI_SKY
-song_begin: 01 HANABI SKY.m4a
-Time: 250
-Title: HANABI SKY
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: HANABI SKY
-Track: 1
-Disc: 1
-mtime: 1365179540
-song_end
-song_begin: 02 La La La FIGHTERS.m4a
-Time: 231
-Title: La La La FIGHTERS
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: HANABI SKY
-Track: 2
-Disc: 1
-mtime: 1365179540
-song_end
-song_begin: 03 I Wish I Was A Punk Rocker (With.m4a
-Time: 204
-Title: I Wish I Was A Punk Rocker (With Flowers In My Hair)
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: HANABI SKY
-Track: 3
-Disc: 1
-mtime: 1365179540
-song_end
-song_begin: 04 HANABI SKY(instrumental).m4a
-Time: 248
-Title: HANABI SKY(instrumental)
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: HANABI SKY
-Track: 4
-Disc: 1
-mtime: 1365179541
-song_end
-end: HANABI_SKY
-directory: JUJU.-.[JUJU]
-mtime: 1365179243
-begin: JUJU.-.[JUJU]
-directory: JUJU.-.[JUJU.CD1].专辑.(FLAC)
-mtime: 1365179228
-begin: JUJU.-.[JUJU]/JUJU.-.[JUJU.CD1].专辑.(FLAC)
-song_begin: JUJU.-.[JUJU.CD1].专辑.(FLAC).flac
-Time: 4221
-mtime: 1365179243
-song_end
-playlist_begin: JUJU.-.[JUJU.CD1].专辑.(FLAC).cue
-mtime: 1365179228
+playlist_begin: 无限.cue
+mtime: 1149140702
 playlist_end
-end: JUJU.-.[JUJU]/JUJU.-.[JUJU.CD1].专辑.(FLAC)
-directory: JUJU.-.[JUJU.CD2].专辑.(FLAC)
-mtime: 1365179243
-begin: JUJU.-.[JUJU]/JUJU.-.[JUJU.CD2].专辑.(FLAC)
-song_begin: JUJU.-.[JUJU.CD2].专辑.(FLAC).flac
-Time: 4455
-mtime: 1365179258
+end: F.I.R/无限
+end: F.I.R
+directory: Fort_Minor
+mtime: 1373302267
+begin: Fort_Minor
+directory: The_Rising_Tied
+mtime: 1371288309
+begin: Fort_Minor/The_Rising_Tied
+song_begin: CDImage.ape
+Time: 3096
+mtime: 1145627900
 song_end
-playlist_begin: JUJU.-.[JUJU.CD2].专辑.(FLAC).cue
-mtime: 1365179243
+playlist_begin: CDImage.cue
+mtime: 1145628753
 playlist_end
-end: JUJU.-.[JUJU]/JUJU.-.[JUJU.CD2].专辑.(FLAC)
-end: JUJU.-.[JUJU]
-directory: LINKIN.PARK.-.[Meteora].专辑.(APE)
-mtime: 1366895005
-begin: LINKIN.PARK.-.[Meteora].专辑.(APE)
-song_begin: LINKIN.PARK.-.[Meteora].专辑.(APE).ape
-Time: 2201
-mtime: 1366894957
-song_end
-playlist_begin: LINKIN.PARK.-.[Meteora].专辑.(APE).cue
-mtime: 1366894900
-playlist_end
-end: LINKIN.PARK.-.[Meteora].专辑.(APE)
-directory: LOVE~winter_song~
-mtime: 1369745418
-begin: LOVE~winter_song~
-song_begin: 01 LOVE~winter song~.m4a
-Time: 272
-Title: LOVE~winter song~
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: LOVE~winter song~
-Track: 1
-Disc: 1
-mtime: 1365179542
-song_end
-song_begin: 02 I BELIEVE.m4a
-Time: 254
-Title: I BELIEVE
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: LOVE~winter song~
-Track: 2
-Disc: 1
-mtime: 1365179542
-song_end
-song_begin: 03 All in time.m4a
-Time: 342
-Title: All in time
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: LOVE~winter song~
-Track: 3
-Disc: 1
-mtime: 1365179543
-song_end
-song_begin: 04 LOVE~winter song~(instrumental).m4a
-Time: 249
-Title: LOVE~winter song~(instrumental)
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: LOVE~winter song~
-Track: 4
-Disc: 1
-mtime: 1365179543
-song_end
-end: LOVE~winter_song~
-directory: MONKEY.MAJIK.-.[ぬらりひょんの孫オープニングテーマEP].单曲.(MP3)
-mtime: 1368684490
-begin: MONKEY.MAJIK.-.[ぬらりひょんの孫オープニングテーマEP].单曲.(MP3)
-song_begin: 01 Sunshine.mp3
-Time: 241
-Artist: MONKEY MAJIK
-Title: Sunshine
-Album: ÊçèÐåñÌ· I[vjO
-Track: 1
-Date: 2010
-mtime: 1290501882
-song_end
-song_begin: 02 Fast Forward.mp3
-Time: 258
-Artist: MONKEY MAJIK
-Title: Fast Forward
-Album: ÊçèÐåñÌ· I[vjO
-Track: 2
-Date: 2010
-mtime: 1290501877
-song_end
-song_begin: 03 Sunshine (TV ver.).mp3
-Time: 94
-Artist: MONKEY MAJIK
-Title: Sunshine (TV ver.)
-Album: ÊçèÐåñÌ· I[vjO
-Track: 3
-Date: 2010
-mtime: 1290501877
-song_end
-song_begin: 04 Fast Forward (TV ver.).mp3
-Time: 93
-Artist: MONKEY MAJIK
-Title: Fast Forward (TV ver.)
-Album: ÊçèÐåñÌ· I[vjO
-Track: 4
-Date: 2010
-mtime: 1290501877
-song_end
-song_begin: 05 Sunshine (Instrumental).mp3
-Time: 241
-Artist: MONKEY MAJIK
-Title: Sunshine (Instrumental)
-Album: ÊçèÐåñÌ· I[vjO
-Track: 5
-Date: 2010
-mtime: 1290501877
-song_end
-song_begin: 06 Fast Forward (Instrumental).mp3
-Time: 256
-Artist: MONKEY MAJIK
-Title: Fast Forward (Instrumental)
-Album: ÊçèÐåñÌ· I[vjO
-Track: 6
-Date: 2010
-mtime: 1290501879
-song_end
-end: MONKEY.MAJIK.-.[ぬらりひょんの孫オープニングテーマEP].单曲.(MP3)
-directory: Milky.Bunny.-[ナミダソラ].单曲.(MP3)
-mtime: 1369347532
-begin: Milky.Bunny.-[ナミダソラ].单曲.(MP3)
-song_begin: 01 ナミダソラ.mp3
-Time: 243
-Artist: Milky Bunny
-Title: ¥Ê¥ß¥À¥½¥é
-Album: ¥Ê¥ß¥À¥½¥é
-Track: 1
-Date: 2012
-Genre: jpop
-Composer: www.rainbowzone.cn
-mtime: 1350495295
-song_end
-song_begin: 02 Scenery.mp3
-Time: 207
-Artist: Milky Bunny
-Title: Scenery
-Album: ¥Ê¥ß¥À¥½¥é
-Track: 2
-Date: 2012
-Genre: jpop
-Composer: www.rainbowzone.cn
-mtime: 1350495295
-song_end
-song_begin: 03 ナミダソラ(Karaoke).mp3
-Time: 243
-Artist: Milky Bunny
-Title: ¥Ê¥ß¥À¥½¥é(Karaoke)
-Album: ¥Ê¥ß¥À¥½¥é
-Track: 3
-Date: 2012
-Genre: jpop
-Composer: www.rainbowzone.cn
-mtime: 1350495295
-song_end
-song_begin: 04 Scenery(Karaoke).mp3
-Time: 206
-Artist: Milky Bunny
-Title: Scenery(Karaoke)
-Album: ¥Ê¥ß¥À¥½¥é
-Track: 4
-Date: 2012
-Genre: jpop
-Composer: www.rainbowzone.cn
-mtime: 1350495295
-song_end
-end: Milky.Bunny.-[ナミダソラ].单曲.(MP3)
-directory: Miss.Monday.-.[さよなら.feat.菅原紗由理].单曲
-mtime: 1365177506
-begin: Miss.Monday.-.[さよなら.feat.菅原紗由理].单曲
-directory: Miss Monday - さよなら feat.菅原紗由理
-mtime: 1365177507
-begin: Miss.Monday.-.[さよなら.feat.菅原紗由理].单曲/Miss Monday - さよなら feat.菅原紗由理
-song_begin: 01  さよなら feat.菅原紗由理.mp3
-Time: 317
-Artist: Miss Monday
-Title: ³æÈç feat.´ÑR
-Album: ³æÈç feat.´ÑR
-Track: 01/04
-Date: 2010
-mtime: 1365177506
-song_end
-song_begin: 02  雪ノ降ル街デ(Long Winter ver.) feat. HOKT from N.C.B.B.mp3
-Time: 336
-Artist: Miss Monday
-Title: ám~Xf(Long Winter ver.) feat. HOKT from N.C.B.B
-Album: ³æÈç feat.´ÑR
-Track: 02/04
-Date: 2010
-mtime: 1365177507
-song_end
-song_begin: 03  Take It Easy.mp3
-Time: 261
-Artist: Miss Monday
-Title: Take It Easy
-Album: ³æÈç feat.´ÑR
-Track: 03/04
-Date: 2010
-mtime: 1365177507
-song_end
-song_begin: 04  さよなら feat. 菅原紗由理(Instrumental).mp3
-Time: 315
-Artist: Miss Monday
-Title: ³æÈç feat. ´ÑR(Instrumental)
-Album: ³æÈç feat.´ÑR
-Track: 04/04
-Date: 2010
-mtime: 1365177507
-song_end
-end: Miss.Monday.-.[さよなら.feat.菅原紗由理].单曲/Miss Monday - さよなら feat.菅原紗由理
-end: Miss.Monday.-.[さよなら.feat.菅原紗由理].单曲
-directory: Mr.Children.-.[I.Love.U].专辑.(APE)
-mtime: 1368684473
-begin: Mr.Children.-.[I.Love.U].专辑.(APE)
-song_begin: Mr.Children.-.[I.Love.U].专辑.(APE).ape
-Time: 3845
-mtime: 1367593849
-song_end
-playlist_begin: Mr.Children.-.[I.Love.U].专辑.(APE).cue
-mtime: 1367897970
-playlist_end
-end: Mr.Children.-.[I.Love.U].专辑.(APE)
-directory: NERDHEAD - [どうして好きなんだろう feat.Mai.K].单曲.(FLAC)
-mtime: 1307725063
-begin: NERDHEAD - [どうして好きなんだろう feat.Mai.K].单曲.(FLAC)
-song_begin: 01 NERDHEAD Feat. Mai. K - どうして好きなんだろう.flac
-Time: 356
-Title: どうして好きなんだろう
-Artist: NERDHEAD Feat. Mai. K
-Album: どうして好きなんだろう Feat. Mai. K
-Genre: Rap
-Track: 1
-Disc: 1
-Date: 2011
-mtime: 1307620498
-song_end
-song_begin: 02 NERDHEAD - Life is beautiful.flac
-Time: 295
-Title: Life is beautiful
-Artist: NERDHEAD
-Album: どうして好きなんだろう Feat. Mai. K
-Genre: Rap
-Track: 2
-Disc: 1
-Date: 2011
-mtime: 1307620497
-song_end
-song_begin: 03 NERDHEAD Feat. Mai. K - どうして好きなんだろう (Instrumental).flac
-Time: 356
-Title: どうして好きなんだろう (Instrumental)
-Artist: NERDHEAD Feat. Mai. K
-Album: どうして好きなんだろう Feat. Mai. K
-Genre: Rap
-Track: 3
-Disc: 1
-Date: 2011
-mtime: 1307620497
-song_end
-song_begin: 04 NERDHEAD - Life is beautiful (Instrumental).flac
-Time: 290
-Title: Life is beautiful (Instrumental)
-Artist: NERDHEAD
-Album: どうして好きなんだろう Feat. Mai. K
-Genre: Rap
-Track: 4
-Disc: 1
-Date: 2011
-mtime: 1307620496
-song_end
-end: NERDHEAD - [どうして好きなんだろう feat.Mai.K].单曲.(FLAC)
-directory: NERDHEAD -《CRUISE WITH YOU》专辑[MP3]
-mtime: 1338734371
-begin: NERDHEAD -《CRUISE WITH YOU》专辑[MP3]
-song_begin: NERDHEAD - 2度目の i Love U（feat.TOKO from So’Fly）.mp3
-Time: 314
-Artist: NERDHEAD
-Title: 2¶ÈÄ¿¤Î i Love U£¨feat.TOKO from So¡¯Fly£©
-Album: CRUISE WITH YOU
-mtime: 1338716074
-song_end
-song_begin: NERDHEAD - I'm OK（Feat.Michi）.mp3
-Time: 304
-Artist: NERDHEAD
-Title: I'm OK£¨Feat.Michi£©
-Album: CRUISE WITH YOU
-mtime: 1338715915
-song_end
-song_begin: NERDHEAD - Like This Like That By So'fly.mp3
-Time: 223
-Artist: NERDHEAD
-Title: Like This Like That By So'fly
-Album: CRUISE WITH YOU
-mtime: 1338716113
-song_end
-song_begin: NERDHEAD - Tomorrow（feat.hiroko from mihimaru GT）.mp3
-Time: 323
-Artist: NERDHEAD
-Title: Tomorrow£¨feat.hiroko from mihimaru GT£©
-Album: CRUISE WITH YOU
-mtime: 1338716071
-song_end
-song_begin: NERDHEAD - サヨナラマイラブ（feat.中村舞子）.mp3
-Time: 278
-Artist: NERDHEAD
-Title: ¥µ¥è¥Ê¥é¥Þ¥¤¥é¥Ö£¨feat.ÖÐ´åÎè×Ó£©
-Album: CRUISE WITH YOU
-mtime: 1338716001
-song_end
-song_begin: NERDHEAD - 言葉にできないほど好きなのに（feat.Mai.K [DJ MITSU THE BEATS Remix]）.mp3
-Time: 345
-Artist: NERDHEAD
-Title: ÑÔÈ~¤Ë¤Ç¤­¤Ê¤¤¤Û¤ÉºÃ¤­¤Ê¤Î¤Ë£¨feat.Mai.K [DJ MITSU THE BEATS Remix]£©
-Album: CRUISE WITH YOU
-mtime: 1338716070
-song_end
-end: NERDHEAD -《CRUISE WITH YOU》专辑[MP3]
-directory: NERDHEAD-BRAVE.HEART.feat.西野カナ
-mtime: 1365177581
-begin: NERDHEAD-BRAVE.HEART.feat.西野カナ
-directory: NERDHEAD-BRAVE HEART feat.西野カナ
-mtime: 1365177585
-begin: NERDHEAD-BRAVE.HEART.feat.西野カナ/NERDHEAD-BRAVE HEART feat.西野カナ
-song_begin: 01 BRAVE HEART feat.西野カナ.m4a
-Time: 312
-Artist: NERDHEAD
-Album: BRAVE HEART feat.西野カナ
-Title: BRAVE HEART feat.西野カナ
-Track: 1/3
-Genre: Jpop
-Date: 2010
-mtime: 1365177583
-song_end
-song_begin: 02 もう一度~GET UR DREAM~ feat.TOKO_KAZM.m4a
-Time: 323
-Artist: NERDHEAD
-Album: BRAVE HEART feat.西野カナ
-Title: もう一度~GET UR DREAM~ feat.TOKO_KAZMANIAC_FEROS_U-KI_NAMBA
-Track: 2
-Date: 2010
-mtime: 1365177584
-song_end
-song_begin: 03 BRAVE HEART feat.西野カナ(Instrumenta.m4a
-Time: 310
-Artist: NERDHEAD
-Album: BRAVE HEART feat.西野カナ
-Title: BRAVE HEART feat.西野カナ(Instrumental)
-Track: 3
-Date: 2010
-mtime: 1365177585
-song_end
-end: NERDHEAD-BRAVE.HEART.feat.西野カナ/NERDHEAD-BRAVE HEART feat.西野カナ
-end: NERDHEAD-BRAVE.HEART.feat.西野カナ
-directory: NERDHEAD.-.[BEGINNING.OF.THE.END]
-mtime: 1365177585
-begin: NERDHEAD.-.[BEGINNING.OF.THE.END]
-directory: NERDHEAD.-.[BEGINNING OF THE END].专辑.(MP3)
+end: Fort_Minor/The_Rising_Tied
+end: Fort_Minor
+directory: NERDHEAD
+mtime: 1373302075
+begin: NERDHEAD
+directory: BEGINNING_OF_THE_END
 mtime: 1365177589
-begin: NERDHEAD.-.[BEGINNING.OF.THE.END]/NERDHEAD.-.[BEGINNING OF THE END].专辑.(MP3)
+begin: NERDHEAD/BEGINNING_OF_THE_END
 song_begin: 01.WHERE'S THE LOVE feat.THE CHOIR.mp3
 Time: 348
 Artist: NERDHEAD
@@ -1869,2452 +863,183 @@ Date: 2010
 Genre: Jpop
 mtime: 1365177589
 song_end
-end: NERDHEAD.-.[BEGINNING.OF.THE.END]/NERDHEAD.-.[BEGINNING OF THE END].专辑.(MP3)
-end: NERDHEAD.-.[BEGINNING.OF.THE.END]
-directory: NIKIIE.-.[春夏秋冬].单曲.(FLAC)
-mtime: 1365830624
-begin: NIKIIE.-.[春夏秋冬].单曲.(FLAC)
-song_begin: NIKIIE.-.[春夏秋冬].单曲.(FLAC).flac
-Time: 889
-mtime: 1365179679
-song_end
-end: NIKIIE.-.[春夏秋冬].单曲.(FLAC)
-directory: Rie.fu.-.[For.You].单曲.(FLAC)
-mtime: 1368684417
-begin: Rie.fu.-.[For.You].单曲.(FLAC)
-song_begin: Rie.fu.-.[For.You].单曲.(FLAC).flac
-Time: 932
-mtime: 1368680078
-song_end
-playlist_begin: Rie.fu.-.[For.You].单曲.(FLAC).cue
-mtime: 1367840764
-playlist_end
-end: Rie.fu.-.[For.You].单曲.(FLAC)
-directory: Rie.fu.-.[Home].单曲.(APE)
-mtime: 1368789617
-begin: Rie.fu.-.[Home].单曲.(APE)
-song_begin: Rie.fu.-.[Home].单曲.(APE).ape
-Time: 757
-mtime: 1368725958
-song_end
-playlist_begin: Rie.fu.-.[Home].单曲.(APE).cue
-mtime: 1366984254
-playlist_end
-end: Rie.fu.-.[Home].单曲.(APE)
-directory: Rie.fu.-.[Life.is.Like.a.Boat].1st单曲.(flac)
-mtime: 1368096984
-begin: Rie.fu.-.[Life.is.Like.a.Boat].1st单曲.(flac)
-song_begin: Rie fu - Life is Like a Boat.flac
-Time: 538
-mtime: 1210346390
-song_end
-playlist_begin: Rie fu - Life is Like a Boat.cue
-mtime: 1210347582
-playlist_end
-end: Rie.fu.-.[Life.is.Like.a.Boat].1st单曲.(flac)
-directory: SCANDAL.-.[HARUKAZE]
-mtime: 1365176842
-begin: SCANDAL.-.[HARUKAZE]
-directory: SCANDAL.-.[HARUKAZE].单曲.(MP3)
-mtime: 1365176842
-begin: SCANDAL.-.[HARUKAZE]/SCANDAL.-.[HARUKAZE].单曲.(MP3)
-directory: HARUKAZE
-mtime: 1366090683
-begin: SCANDAL.-.[HARUKAZE]/SCANDAL.-.[HARUKAZE].单曲.(MP3)/HARUKAZE
-song_begin: 02 HARUKAZE (Instrumental).mp3
-Time: 277
-Track: 2
-Genre: Other
-mtime: 1365179856
-song_end
-song_begin: 01 HARUKAZE.mp3
-Time: 279
-Artist: SCANDAL
-Title: HARUKAZE
-Album: HARUKAZE
-Track: 1/2
-Date: 2012
-Genre: Other
-mtime: 1366090683
-song_end
-end: SCANDAL.-.[HARUKAZE]/SCANDAL.-.[HARUKAZE].单曲.(MP3)/HARUKAZE
-end: SCANDAL.-.[HARUKAZE]/SCANDAL.-.[HARUKAZE].单曲.(MP3)
-end: SCANDAL.-.[HARUKAZE]
-directory: SCANDAL.-.[Queens.are.trumps.ー切り札はクイーンー].专辑.(FLAC)
-mtime: 1369913574
-begin: SCANDAL.-.[Queens.are.trumps.ー切り札はクイーンー].专辑.(FLAC)
-song_begin: 01 QUEENS ARE TRUMPS.flac
-Time: 222
-Artist: SCANDAL
-Title: QUEENS ARE TRUMPS
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 1
-Disc: 1
-mtime: 1365179857
-song_end
-song_begin: 02 TAIYOU SCANDALOUS.flac
-Time: 307
-Artist: SCANDAL
-Title: TAIYOU SCANDALOUS
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 2
-Disc: 1
-mtime: 1365179859
-song_end
-song_begin: 03 PINHEEL SURFER.flac
-Time: 302
-Artist: SCANDAL
-Title: PINHEEL SURFER
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 3
-Disc: 1
-mtime: 1365179860
-song_end
-song_begin: 04 ROCK`N ROLL.flac
-Time: 235
-Artist: SCANDAL
-Title: ROCK`N ROLL
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 4
-Disc: 1
-mtime: 1365179861
-song_end
-song_begin: 05 BITTER CHOCOLATE.flac
-Time: 317
-Artist: SCANDAL
-Title: BITTER CHOCOLATE
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 5
-Disc: 1
-mtime: 1365179863
-song_end
-song_begin: 06 KILL THE VIRGIN.flac
-Time: 302
-Artist: SCANDAL
-Title: KILL THE VIRGIN
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 6
-Disc: 1
-mtime: 1365179864
-song_end
-song_begin: 07 SCANDAL - KOE.flac
-Time: 291
-Artist: SCANDAL
-Title: KOE
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 7
-Disc: 1
-mtime: 1365179866
-song_end
-song_begin: 08 RISING STAR.flac
-Time: 213
-Artist: SCANDAL
-Title: RISING STAR
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 8
-Disc: 1
-mtime: 1365179867
-song_end
-song_begin: 09 BRIGHT.flac
-Time: 318
-Artist: SCANDAL
-Title: BRIGHT
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 9
-Disc: 1
-mtime: 1365179868
-song_end
-song_begin: 10 WELCOME HOME.flac
-Time: 241
-Artist: SCANDAL
-Title: WELCOME HOME
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 10
-Disc: 1
-mtime: 1365179869
-song_end
-song_begin: 11 HARUKAZE.flac
-Time: 278
-Artist: SCANDAL
-Title: HARUKAZE
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 11
-Disc: 1
-mtime: 1365179871
-song_end
-song_begin: 12 RIGHT HERE.flac
-Time: 254
-Artist: SCANDAL
-Title: RIGHT HERE
-Album: Queens Are Trumps
-Genre: JRock
-Date: 2012
-AlbumArtist: SCANDAL
-Track: 12
-Disc: 1
-mtime: 1365179873
-song_end
-end: SCANDAL.-.[Queens.are.trumps.ー切り札はクイーンー].专辑.(FLAC)
-directory: Secret.-.[TWINKLE.TWINKLE].单曲.(FLAC)
-mtime: 1365176858
-begin: Secret.-.[TWINKLE.TWINKLE].单曲.(FLAC)
-directory: Secret.-.[TWINKLE.TWINKLE].单曲.(FLAC)
-mtime: 1365422058
-begin: Secret.-.[TWINKLE.TWINKLE].单曲.(FLAC)/Secret.-.[TWINKLE.TWINKLE].单曲.(FLAC)
-song_begin: 01. TWINKLE TWINKLE.flac
-Time: 200
-Album: TWINKLE TWINKLE
-Genre: Pop
-Title: TWINKLE TWINKLE
-Artist: Secret
-Date: 2012
-Track: 1
-mtime: 1365179874
-song_end
-song_begin: 02. First Kiss.flac
-Time: 238
-Album: TWINKLE TWINKLE
-Artist: Secret
-Genre: Pop
-Title: First Kiss
-Date: 2012
-Track: 2
-mtime: 1365179875
-song_end
-end: Secret.-.[TWINKLE.TWINKLE].单曲.(FLAC)/Secret.-.[TWINKLE.TWINKLE].单曲.(FLAC)
-end: Secret.-.[TWINKLE.TWINKLE].单曲.(FLAC)
-directory: SoulJa.-.[BEST.2007-2010]
-mtime: 1365247395
-begin: SoulJa.-.[BEST.2007-2010]
-directory: UMCK-1379
-mtime: 1365247397
-begin: SoulJa.-.[BEST.2007-2010]/UMCK-1379
-song_begin: 01 Way To Love -saigono Koi- Feat. M.mp3
-Time: 325
-Artist: Soulja & Miho Karasawa
-Title: Way To Love -saigono Koi- Feat
-Album: BEST 2007-2010
-Track: 1
-Date: 2011
-Genre: Pop
-mtime: 1365176860
-song_end
-song_begin: 02 Kokoni Iruyo Feat. Aoyama Thelma.mp3
-Time: 336
-Artist: Soulja & Thelma Aoyama
-Title: Kokoni Iruyo Feat. Aoyama Thel
-Album: BEST 2007-2010
-Track: 2
-Date: 2011
-Genre: Pop
-mtime: 1365176861
-song_end
-song_begin: 03 Umaku Kotobani Dekinaikeredo Feat.mp3
-Time: 283
-Artist: Soulja & Saki Kayama
-Title: Umaku Kotobani Dekinaikeredo F
-Album: BEST 2007-2010
-Track: 3
-Date: 2011
-Genre: Pop
-mtime: 1365176861
-song_end
-song_begin: 04 Gekkou God's Child Feat. Chihiro.mp3
-Time: 280
-Artist: Soulja & Chihiro Onizuka
-Title: Gekkou God's Child Feat. Chihi
-Album: BEST 2007-2010
-Track: 4
-Date: 2011
-Genre: Pop
-mtime: 1365176861
-song_end
-song_begin: 05 Sobaniirune.mp3
-Time: 301
-Artist: Thelma Aoyama, Thelma Aoyama &
-Title: Sobaniirune
-Album: BEST 2007-2010
-Track: 5
-Date: 2011
-Genre: Pop
-mtime: 1365176862
-song_end
-song_begin: 06 Kinenbi.mp3
-Time: 319
-Artist: Soulja & Misslim
-Title: Kinenbi
-Album: BEST 2007-2010
-Track: 6
-Date: 2011
-Genre: Pop
-mtime: 1365176862
-song_end
-song_begin: 07 Hanasanaideyo Feat. Thelma Aoyama.mp3
-Time: 233
-Artist: Thelma Aoyama, Thelma Aoyama &
-Title: Hanasanaideyo Feat. Thelma Aoy
-Album: BEST 2007-2010
-Track: 7
-Date: 2011
-Genre: Pop
-mtime: 1365176862
-song_end
-song_begin: 08 Shine.mp3
-Time: 288
-Artist: Soulja
-Title: Shine
-Album: BEST 2007-2010
-Track: 8
-Date: 2011
-Genre: Pop
-mtime: 1365176862
-song_end
-song_begin: 09 Dog Pound.mp3
-Time: 213
-Artist: Soulja
-Title: Dog Pound
-Album: BEST 2007-2010
-Track: 9
-Date: 2011
-Genre: Pop
-mtime: 1365176862
-song_end
-song_begin: 10 First Contact (Indies Version).mp3
-Time: 196
-Artist: Soulja
-Title: First Contact (Indies Version)
-Album: BEST 2007-2010
-Track: 10
-Date: 2011
-Genre: Pop
-mtime: 1365176863
-song_end
-song_begin: 11 Rain (indies Version).mp3
-Time: 264
-Artist: Soulja
-Title: Rain (indies Version)
-Album: BEST 2007-2010
-Track: 11
-Date: 2011
-Genre: Pop
-mtime: 1365176863
-song_end
-song_begin: 12 Sotsugyo (Indies Version).mp3
-Time: 241
-Artist: Soulja
-Title: Sotsugyo (Indies Version)
-Album: BEST 2007-2010
-Track: 12
-Date: 2011
-Genre: Pop
-mtime: 1365176863
-song_end
-end: SoulJa.-.[BEST.2007-2010]/UMCK-1379
-end: SoulJa.-.[BEST.2007-2010]
-directory: SoulJa.-.[Letters]
-mtime: 1365176865
-begin: SoulJa.-.[Letters]
-directory: SoulJa.-.[Letters].专辑.(MP3)
-mtime: 1365422064
-begin: SoulJa.-.[Letters]/SoulJa.-.[Letters].专辑.(MP3)
-song_begin: 01.はなさないでよ feat.青山テルマ.mp3
-Time: 237
-Artist: SoulJa
-Title: ¤Ï¤Ê¤µ¤Ê¤¤¤Ç¤è feat.ÇàÉ½¥Æ¥ë¥Þ
-Album: Letters
-Track: 1
-Date: 2010
-Genre: JPop
-mtime: 1365179878
-song_end
-song_begin: 02.Way to Love ～最後の恋～ feat.唐沢美帆.mp3
-Time: 327
-Artist: SoulJa
-Title: Way to Love ¡«×îáá¤ÎÁµ¡« feat.ÌÆgÃÀ·«
-Album: Letters
-Track: 2
-Date: 2010
-Genre: JPop
-mtime: 1365179879
-song_end
-song_begin: 03.月光 ～GOD'S CHILD～ feat.鬼束ちひろ.mp3
-Time: 284
-Artist: SoulJa
-Title: ÔÂ¹â ¡«GOD'S CHILD¡« feat.¹íÊø¤Á¤Ò¤í
-Album: Letters
-Track: 3
-Date: 2010
-Genre: JPop
-mtime: 1365179879
-song_end
-song_begin: 04.うまく言葉にできないけれど feat.果山サキ.mp3
-Time: 283
-Artist: SoulJa
-Title: ¤¦¤Þ¤¯ÑÔÈ~¤Ë¤Ç¤­¤Ê¤¤¤±¤ì¤É feat.¹ûÉ½¥µ¥­
-Album: Letters
-Track: 4
-Date: 2010
-Genre: JPop
-mtime: 1365179879
-song_end
-song_begin: 05.Beautiful day feat.小渡明日香.mp3
-Time: 228
-Artist: SoulJa
-Title: Beautiful day feat.Ð¡¶ÉÃ÷ÈÕÏã
-Album: Letters
-Track: 5
-Date: 2010
-Genre: JPop
-mtime: 1365179879
-song_end
-song_begin: 06.Breathless.mp3
-Time: 262
-Artist: SoulJa
-Title: Breathless
-Album: Letters
-Track: 6
-Date: 2010
-Genre: JPop
-mtime: 1365179879
-song_end
-song_begin: 07.tsubasa.mp3
-Time: 259
-Artist: SoulJa
-Title: tsubasa
-Album: Letters
-Track: 7
-Date: 2010
-Genre: JPop
-mtime: 1365179880
-song_end
-song_begin: 08.いつだって.mp3
-Time: 289
-Artist: SoulJa
-Title: ¤¤¤Ä¤À¤Ã¤Æ
-Album: Letters
-Track: 8
-Date: 2010
-Genre: JPop
-mtime: 1365179880
-song_end
-song_begin: 09.Missing you feat.鳳山えり.mp3
-Time: 322
-Artist: SoulJa
-Title: Missing you feat.øPÉ½¤¨¤ê
-Album: Letters
-Track: 9
-Date: 2010
-Genre: JPop
-mtime: 1365179880
-song_end
-song_begin: 10.Shine.mp3
-Time: 297
-Artist: SoulJa
-Title: Shine
-Album: Letters
-Track: 10
-Date: 2010
-Genre: JPop
-mtime: 1365179880
-song_end
-song_begin: 11.What's Love？feat.SoulJa.mp3
-Time: 251
-Artist: SKELT8 BAMBINO
-Title: What's Love? feat.SoulJa
-Album: Letters
-Track: 11
-Date: 2010
-Genre: JPop
-mtime: 1365179881
-song_end
-song_begin: 12.2111 ～過去と未来で笑う子供達へ～.mp3
-Time: 308
-Artist: ¥¢¥ó¥À©`¥°¥é¥Õ¡ÁSoulJa
-Title: 2111 ¡«ß^È¥¤ÈÎ´À´¤ÇÐ¦¤¦×Ó¹©ß_¤Ø¡«
-Album: Letters
-Track: 12
-Date: 2010
-Genre: JPop
-mtime: 1365179881
-song_end
-song_begin: 13.be alive ～そのままの君でいて～ feat.SoulJa.mp3
-Time: 276
-Artist: Ð¡Áø¤æ¤­
-Title: be alive ¡«¤½¤Î¤Þ¤Þ¤Î¾ý¤Ç¤¤¤Æ¡« feat.SoulJa
-Album: Letters
-Track: 13
-Date: 2010
-Genre: JPop
-mtime: 1365179881
-song_end
-end: SoulJa.-.[Letters]/SoulJa.-.[Letters].专辑.(MP3)
-end: SoulJa.-.[Letters]
-directory: SoulJa.-.[Spirits].专辑.(MP3)
-mtime: 1365176868
-begin: SoulJa.-.[Spirits].专辑.(MP3)
-directory: SoulJa-[Spirits]
-mtime: 1365422068
-begin: SoulJa.-.[Spirits].专辑.(MP3)/SoulJa-[Spirits]
-song_begin: 01. DOGG POUND.mp3
-Time: 216
-Artist: SoulJa
-Title: DOGG POUND
-Album: Spirits
-Track: 1
-Date: 2007
-Genre: Pop
-mtime: 1365179881
-song_end
-song_begin: 02. ここにいるよ feat. 青山テルマ.mp3
-Time: 329
-Artist: SoulJa
-Title: ¤³¤³¤Ë¤¤¤ë¤è feat. ÇàÉ½¥Æ¥ë¥Þ
-Album: Spirits
-Track: 2
-Date: 2007
-Genre: Pop
-mtime: 1365179881
-song_end
-song_begin: 03. ID.mp3
-Time: 285
-Artist: SoulJa
-Title: ID
-Album: Spirits
-Track: 3
-Date: 2007
-Genre: Pop
-mtime: 1365179882
-song_end
-song_begin: 04. A Song for You.mp3
-Time: 294
-Artist: SoulJa
-Title: A Song for You
-Album: Spirits
-Track: 4
-Date: 2007
-Genre: Pop
-mtime: 1365179882
-song_end
-song_begin: 05. First Contact.mp3
-Time: 210
-Artist: SoulJa
-Title: First Contact
-Album: Spirits
-Track: 5
-Date: 2007
-Genre: Pop
-mtime: 1365179882
-song_end
-song_begin: 06. CASSIS.mp3
-Time: 242
-Artist: SoulJa
-Title: CASSIS
-Album: Spirits
-Track: 6
-Date: 2007
-Genre: Pop
-mtime: 1365179882
-song_end
-song_begin: 07. LIBERTANGO (Pierrot).mp3
-Time: 289
-Artist: SoulJa
-Title: LIBERTANGO (Pierrot)
-Album: Spirits
-Track: 7
-Date: 2007
-Genre: Pop
-mtime: 1365179882
-song_end
-song_begin: 08. rain.mp3
-Time: 263
-Artist: SoulJa
-Title: rain
-Album: Spirits
-Track: 8
-Date: 2007
-Genre: Pop
-mtime: 1365179883
-song_end
-song_begin: 09. Lotus.mp3
-Time: 282
-Artist: SoulJa
-Title: Lotus
-Album: Spirits
-Track: 9
-Date: 2007
-Genre: Pop
-mtime: 1365179883
-song_end
-song_begin: 10. Sotsugyo.mp3
-Time: 284
-Artist: SoulJa
-Title: Sotsugyo
-Album: Spirits
-Track: 10
-Date: 2007
-Genre: Pop
-mtime: 1365179883
-song_end
-end: SoulJa.-.[Spirits].专辑.(MP3)/SoulJa-[Spirits]
-end: SoulJa.-.[Spirits].专辑.(MP3)
-directory: SoulJa.-.[うまく言葉にできないけれど.feat.果山サキ]
-mtime: 1365176870
-begin: SoulJa.-.[うまく言葉にできないけれど.feat.果山サキ]
-directory: SoulJa.-.[うまく言葉にできないけれど feat.果山サキ].单曲.(MP3)
-mtime: 1365422070
-begin: SoulJa.-.[うまく言葉にできないけれど.feat.果山サキ]/SoulJa.-.[うまく言葉にできないけれど feat.果山サキ].单曲.(MP3)
-song_begin: 01.うまく言葉にできないけれど feat.果山サキ.mp3
-Time: 287
-Artist: SoulJa
-Title: ¤¦¤Þ¤¯ÑÔÈ~¤Ë¤Ç¤­¤Ê¤¤¤±¤ì¤É
-Album: ¤¦¤Þ¤¯ÑÔÈ~¤Ë¤Ç¤­¤Ê¤¤¤±¤ì¤É feat.¹ûÉ½¥µ¥­
-Track: 1/4
-Date: 2010
+end: NERDHEAD/BEGINNING_OF_THE_END
+directory: BRAVE_HEART_feat_西野カナ
+mtime: 1365177585
+begin: NERDHEAD/BRAVE_HEART_feat_西野カナ
+song_begin: 01 BRAVE HEART feat.西野カナ.m4a
+Time: 312
+Artist: NERDHEAD
+Album: BRAVE HEART feat.西野カナ
+Title: BRAVE HEART feat.西野カナ
+Track: 1/3
 Genre: Jpop
-Disc: 1/1
-mtime: 1365179883
-song_end
-song_begin: 02.いつだって.mp3
-Time: 291
-Artist: SoulJa
-Title: ¤¤¤Ä¤À¤Ã¤Æ
-Album: ¤¦¤Þ¤¯ÑÔÈ~¤Ë¤Ç¤­¤Ê¤¤¤±¤ì¤É feat.¹ûÉ½¥µ¥­
-Track: 2/4
 Date: 2010
-Genre: Jpop
-Disc: 1/1
-mtime: 1365179884
+mtime: 1365177583
 song_end
-song_begin: 03.うまく言葉にできないけれど feat.果山サキ (Inst.).mp3
-Time: 288
-Artist: SoulJa
-Title: ¤¦¤Þ¤¯ÑÔÈ~¤Ë¤Ç¤­¤Ê¤¤¤±¤ì¤É (Inst.)
-Album: ¤¦¤Þ¤¯ÑÔÈ~¤Ë¤Ç¤­¤Ê¤¤¤±¤ì¤É feat.¹ûÉ½¥µ¥­
-Track: 3/4
-Date: 2010
-Genre: Jpop
-Disc: 1/1
-mtime: 1365179884
-song_end
-song_begin: 04.いつだって (Inst.).mp3
-Time: 288
-Artist: SoulJa
-Title: ¤¤¤Ä¤À¤Ã¤Æ (Inst.)
-Album: ¤¦¤Þ¤¯ÑÔÈ~¤Ë¤Ç¤­¤Ê¤¤¤±¤ì¤É feat.¹ûÉ½¥µ¥­
-Track: 4/4
-Date: 2010
-Genre: Jpop
-Disc: 1/1
-mtime: 1365179885
-song_end
-end: SoulJa.-.[うまく言葉にできないけれど.feat.果山サキ]/SoulJa.-.[うまく言葉にできないけれど feat.果山サキ].单曲.(MP3)
-end: SoulJa.-.[うまく言葉にできないけれど.feat.果山サキ]
-directory: Step☆Out_EP
-mtime: 1369735970
-begin: Step☆Out_EP
-song_begin: 01 恋はリズム -Believe My Way-.m4a
-Time: 246
-Title: 恋はリズム -Believe My Way-
-Artist: 福原美穂
-Composer: Satori Shiraishi/Kana
-Album: Step☆Out EP
-Genre: Pop
-Track: 1
-Disc: 1
-Date: 2006
-mtime: 1365179547
-song_end
-song_begin: 02 KISS THE SKY.m4a
-Time: 247
-Title: KISS THE SKY
-Artist: 福原美穂
-Composer: Hiroo Yamaguchi
-Album: Step☆Out EP
-Genre: Pop
+song_begin: 02 もう一度~GET UR DREAM~ feat.TOKO_KAZM.m4a
+Time: 323
+Artist: NERDHEAD
+Album: BRAVE HEART feat.西野カナ
+Title: もう一度~GET UR DREAM~ feat.TOKO_KAZMANIAC_FEROS_U-KI_NAMBA
 Track: 2
-Disc: 1
-Date: 2006
-mtime: 1365179547
+Date: 2010
+mtime: 1365177584
 song_end
-song_begin: 03 Release.m4a
-Time: 268
-Title: Release
-Artist: 福原美穂
-Composer: Shunsuke Watanabe
-Album: Step☆Out EP
-Genre: Pop
+song_begin: 03 BRAVE HEART feat.西野カナ(Instrumenta.m4a
+Time: 310
+Artist: NERDHEAD
+Album: BRAVE HEART feat.西野カナ
+Title: BRAVE HEART feat.西野カナ(Instrumental)
 Track: 3
-Disc: 1
-Date: 2006
-mtime: 1365179548
+Date: 2010
+mtime: 1365177585
 song_end
-song_begin: 04 Hard To Handle.m4a
-Time: 202
-Title: Hard To Handle
-Artist: 福原美穂
-Composer: Jones Allen Alvoid Jr./Isbell Alvertis/Otis Redding
-Album: Step☆Out EP
-Genre: Pop
-Track: 4
-Disc: 1
-Date: 2006
-mtime: 1365179548
+end: NERDHEAD/BRAVE_HEART_feat_西野カナ
+directory: CRUISE_WITH_YOU
+mtime: 1338734371
+begin: NERDHEAD/CRUISE_WITH_YOU
+song_begin: NERDHEAD - 2度目の i Love U（feat.TOKO from So’Fly）.mp3
+Time: 314
+Artist: NERDHEAD
+Title: 2¶ÈÄ¿¤Î i Love U£¨feat.TOKO from So¡¯Fly£©
+Album: CRUISE WITH YOU
+mtime: 1338716074
 song_end
-song_begin: 05 絶え間なく.m4a
-Time: 319
-Title: 絶え間なく
-Artist: 福原美穂
-Composer: Kana
-Album: Step☆Out EP
-Genre: Pop
-Track: 5
-Disc: 1
-Date: 2006
-mtime: 1365179548
-song_end
-end: Step☆Out_EP
-directory: Superfly.-.[Force].专辑.(FLAC)
-mtime: 1365176888
-begin: Superfly.-.[Force].专辑.(FLAC)
-directory: Force
-mtime: 1365422030
-begin: Superfly.-.[Force].专辑.(FLAC)/Force
-song_begin: 01. Force.flac
-Time: 210
-Track: 01
-Date: 2012
-Title: Force
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177082
-song_end
-song_begin: 02. Nitty Gritty.flac
-Time: 261
-Track: 02
-Date: 2012
-Title: Nitty Gritty
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177083
-song_end
-song_begin: 03. No Bandage.flac
-Time: 212
-Track: 03
-Date: 2012
-Title: No Bandage
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177084
-song_end
-song_begin: 04. 輝く月のように.flac
-Time: 327
-Track: 04
-Date: 2012
-Title: 輝く月のように
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177085
-song_end
-song_begin: 05. 愛をくらえ.flac
-Time: 277
-Track: 05
-Date: 2012
-Title: 愛をくらえ
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177086
-song_end
-song_begin: 06. 終焉.flac
+song_begin: NERDHEAD - I'm OK（Feat.Michi）.mp3
 Time: 304
-Track: 06
-Date: 2012
-Title: 終焉
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177087
-song_end
-song_begin: 07. 平成ホモサピエンス.flac
-Time: 216
-Track: 07
-Date: 2012
-Title: 平成ホモサピエンス
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177088
-song_end
-song_begin: 08. Get High!!～アドレナリン～.flac
-Time: 201
-Track: 08
-Date: 2012
-Title: Get High!!～アドレナリン～
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177089
-song_end
-song_begin: 09. 919.flac
-Time: 258
-Track: 09
-Date: 2012
-Title: 919
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177090
-song_end
-song_begin: 10. The Bird Without Wings.flac
-Time: 302
-Track: 10
-Date: 2012
-Title: The Bird Without Wings
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177091
-song_end
-song_begin: 11. スタンディングオベーション.flac
-Time: 249
-Track: 11
-Date: 2012
-Title: スタンディングオベーション
-Artist: Superfly
-Album: Force
-Genre: Rock
-mtime: 1365177092
-song_end
-end: Superfly.-.[Force].专辑.(FLAC)/Force
-end: Superfly.-.[Force].专辑.(FLAC)
-directory: TVアニメ「WHITE.ALBUM」キャラクターソング2.「SOUND.OF.DESTINY」.／.緒方理奈.[320kbps...BK]
-mtime: 1271654539
-begin: TVアニメ「WHITE.ALBUM」キャラクターソング2.「SOUND.OF.DESTINY」.／.緒方理奈.[320kbps...BK]
-song_begin: 01. SOUND OF DESTINY.mp3
-Time: 298
-Artist: ºü¤è²z©` (CV¡G¤ô¾ð©`Æà)
-Title: SOUND OF DESTINY
-Album: WHITE ALBUMWHITE ALBUM Ç©ÇßÇåÇ
-Track: 1
-Date: 2009
-mtime: 1271654519
-song_end
-song_begin: 02. ガラスの華.mp3
-Time: 264
-Artist: ºü¤è²z©` (CV¡G¤ô¾ð©`Æà)
-Title: Ç¨ÇåÇµÇUµØ
-Album: WHITE ALBUMWHITE ALBUM Ç©ÇßÇåÇ
-Track: 2
-Date: 2009
-mtime: 1271654539
-song_end
-song_begin: 03. SOUND OF DESTINY off Vocals.mp3
-Time: 297
-Title: SOUND OF DESTINY off Vocals
-Album: WHITE ALBUMWHITE ALBUM Ç©ÇßÇåÇ
-Track: 3
-Date: 2009
-mtime: 1271654530
-song_end
-song_begin: 04. ガラスの華 off Vocals.mp3
-Time: 264
-Title: Ç¨ÇåÇµÇUµØ off Vocals
-Album: WHITE ALBUMWHITE ALBUM Ç©ÇßÇåÇ
-Track: 4
-Date: 2009
-mtime: 1271654537
-song_end
-end: TVアニメ「WHITE.ALBUM」キャラクターソング2.「SOUND.OF.DESTINY」.／.緒方理奈.[320kbps...BK]
-directory: Tiara.-.[Tears].专辑
-mtime: 1365177094
-begin: Tiara.-.[Tears].专辑
-directory: Tiara.-.[Tears].专辑.(MP3)
-mtime: 1365177094
-begin: Tiara.-.[Tears].专辑/Tiara.-.[Tears].专辑.(MP3)
-directory: Tears
-mtime: 1366629575
-begin: Tiara.-.[Tears].专辑/Tiara.-.[Tears].专辑.(MP3)/Tears
-song_begin: 01 もう誰にもとられたくない feat. So'Fly.mp3
-Time: 329
-Artist: Tiara
-Title: もう誰にもとられたくない feat. So'Fly
-Album: Tears
-Track: 1/14
-Date: 2011
-mtime: 1366629575
-song_end
-song_begin: 02 愛しすぎて.mp3
-Time: 330
-Artist: Tiara
-Title: Û¤·¤¹¤®¤Æ
-Album: Tears
-Track: 2
-Date: 2011
-mtime: 1365177095
-song_end
-song_begin: 03 嘘でもいいから.mp3
-Time: 307
-Artist: Tiara
-Title: Ðê¤Ç¤â¤¤¤¤¤«¤é
-Album: Tears
-Track: 3
-Date: 2011
-mtime: 1365177095
-song_end
-song_begin: 04 桜 ～君がいた場所～ feat. K.J..mp3
-Time: 332
-Artist: Tiara
-Title: @ ¡«¾ý¤¬¤¤¤¿öËù¡« feat. K.J.
-Album: Tears
-Track: 4
-Date: 2011
-mtime: 1365177096
-song_end
-song_begin: 05 ～Tears～.mp3
-Time: 71
-Artist: Tiara
-Title: ¡«Tears¡«
-Album: Tears
-Track: 5
-Date: 2011
-mtime: 1365177096
-song_end
-song_begin: 06 「ごめんね。」.mp3
-Time: 285
-Artist: Tiara
-Title: ¡¸¤´¤á¤ó¤Í¡£¡¹
-Album: Tears
-Track: 6
-Date: 2011
-mtime: 1365177096
-song_end
-song_begin: 07 PURIFY.mp3
-Time: 290
-Artist: Tiara
-Title: PURIFY
-Album: Tears
-Track: 7
-Date: 2011
-mtime: 1365177097
-song_end
-song_begin: 08 もう一度だけ.mp3
-Time: 262
-Artist: Tiara
-Title: ¤â¤¦Ò»¶È¤À¤±
-Album: Tears
-Track: 8
-Date: 2011
-mtime: 1365177097
-song_end
-song_begin: 09 Be Mine.mp3
-Time: 213
-Artist: Tiara
-Title: Be Mine
-Album: Tears
-Track: 9
-Date: 2011
-mtime: 1365177097
-song_end
-song_begin: 10 Girls be ambitious! with 傳田真央.mp3
-Time: 236
-Artist: Tiara
-Title: Girls be ambitious! with ÷ÌïÕ
-Album: Tears
-Track: 10
-Date: 2011
-mtime: 1365177097
-song_end
-song_begin: 11 ～Voice～.mp3
-Time: 43
-Artist: Tiara
-Title: ¡«Voice¡«
-Album: Tears
-Track: 11
-Date: 2011
-mtime: 1365177098
-song_end
-song_begin: 12 会いたい.mp3
-Time: 302
-Artist: Tiara
-Title: »á¤¤¤¿¤¤
-Album: Tears
-Track: 12
-Date: 2011
-mtime: 1365177098
-song_end
-song_begin: 13 ヒカリ.mp3
-Time: 301
-Artist: Tiara
-Title: ¥Ò¥«¥ê
-Album: Tears
-Track: 13
-Date: 2011
-mtime: 1365177098
-song_end
-song_begin: 14 未来へと.mp3
-Time: 303
-Artist: Tiara
-Title: Î´À´¤Ø¤È
-Album: Tears
-Track: 14
-Date: 2011
-mtime: 1365177099
-song_end
-end: Tiara.-.[Tears].专辑/Tiara.-.[Tears].专辑.(MP3)/Tears
-end: Tiara.-.[Tears].专辑/Tiara.-.[Tears].专辑.(MP3)
-end: Tiara.-.[Tears].专辑
-directory: WEAVER.-.[笑顔の合図].单曲.(MP3)
-mtime: 1324908710
-begin: WEAVER.-.[笑顔の合図].单曲.(MP3)
-song_begin: 01.笑顔の合図.mp3
-Time: 293
-Artist: WEAVER
-Title: Ð¦î¤ÎºÏí
-Album: Ð¦î¤ÎºÏí
-Track: 1/5
-Date: 2011
-Genre: Jpop
-Disc: 1/1
-mtime: 1324916072
-song_end
-song_begin: 02.66番目の汽車に乗って.mp3
-Time: 361
-Artist: WEAVER
-Title: 66·¬Ä¿¤ÎÆûÜ¤Ë\¤Ã¤Æ
-Album: Ð¦î¤ÎºÏí
-Track: 2/5
-Date: 2011
-Genre: Jpop
-Disc: 1/1
-mtime: 1324916072
-song_end
-song_begin: 03.泣きたいくらい幸せになれるよ.mp3
-Time: 349
-Artist: WEAVER
-Title: Æü¤­¤¿¤¤¤¯¤é¤¤ÐÒ¤»¤Ë¤Ê¤ì¤ë¤è
-Album: Ð¦î¤ÎºÏí
-Track: 3/5
-Date: 2011
-Genre: Jpop
-Disc: 1/1
-mtime: 1324916072
-song_end
-song_begin: 04.笑顔の合図 杉本雄治独奏曲 (Piano Instrumental Ver.).mp3
-Time: 175
-Artist: WEAVER
-Title: Ð¦î¤ÎºÏí É¼±¾ÐÛÖÎ¶À×àÇú (Piano Instrumental Ver.)
-Album: Ð¦î¤ÎºÏí
-Track: 4/5
-Date: 2011
-Genre: Jpop
-Disc: 1/1
-mtime: 1324916072
-song_end
-song_begin: 05.笑顔の合図 (Instrumental Ver.).mp3
-Time: 290
-Artist: WEAVER
-Title: Ð¦î¤ÎºÏí (Instrumental Ver.)
-Album: Ð¦î¤ÎºÏí
-Track: 5/5
-Date: 2011
-Genre: Jpop
-Disc: 1/1
-mtime: 1324916072
-song_end
-end: WEAVER.-.[笑顔の合図].单曲.(MP3)
-directory: What's.Love.feat.SoulJa
-mtime: 1365179135
-begin: What's.Love.feat.SoulJa
-song_begin: 01-What's Love  feat.SoulJa.mp3
-Time: 248
-Artist: SKELT 8 BANBINO
-Title: What's Love ? feat.SoulJa
-Album: What's Love ? feat.SoulJa
-Track: 1
-Genre: J-Pop
-mtime: 1365179135
-song_end
-song_begin: 02-こんなにも... .mp3
-Time: 297
-Artist: SKELT 8 BANBINO
-Title: こんなにも．．．
-Album: What's Love ? feat.SoulJa
-Track: 2
-Genre: J-Pop
-mtime: 1365179135
-song_end
-end: What's.Love.feat.SoulJa
-directory: X.Japan.-.[Forever.Love].單曲.(APE)
-mtime: 1368798417
-begin: X.Japan.-.[Forever.Love].單曲.(APE)
-song_begin: X.Japan.-.[Forever.Love].單曲.(APE).ape
-Time: 1040
-Album: Forever Love
-Title: C:\Users\±ù&Óê~I Feel So Small~\Desktop\X JAPAN - Forever Love
-Genre: JPop
-Date: 1996
-mtime: 1368085561
-song_end
-playlist_begin: X.Japan.-.[Forever.Love].單曲.(APE).cue
-mtime: 1368085532
-playlist_end
-end: X.Japan.-.[Forever.Love].單曲.(APE)
-directory: YUI.-.[My.Short.Stories].专辑.(APE)
-mtime: 1366808895
-begin: YUI.-.[My.Short.Stories].专辑.(APE)
-song_begin: YUI.-.[My.Short.Stories].专辑.(APE).ape
-Time: 3141
-mtime: 1365178616
-song_end
-end: YUI.-.[My.Short.Stories].专辑.(APE)
-directory: [111116]TVアニメ『君と僕。』EDテーマ-「なきむし。」／沢井美空[FLAC+BK]
-mtime: 1366895230
-begin: [111116]TVアニメ『君と僕。』EDテーマ-「なきむし。」／沢井美空[FLAC+BK]
-directory: FLAC
-mtime: 1366895239
-begin: [111116]TVアニメ『君と僕。』EDテーマ-「なきむし。」／沢井美空[FLAC+BK]/FLAC
-song_begin: なきむし。.flac
-Time: 1355
-Playlist: yes
-Album: なきむし。
-Artist: 沢井美空
-Date: 2011-11-16
-Genre: Anime
-mtime: 1321839188
-song_end
-playlist_begin: なきむし。.cue
-mtime: 1321836105
-playlist_end
-end: [111116]TVアニメ『君と僕。』EDテーマ-「なきむし。」／沢井美空[FLAC+BK]/FLAC
-end: [111116]TVアニメ『君と僕。』EDテーマ-「なきむし。」／沢井美空[FLAC+BK]
-directory: [120307]TVアニメ『ギルティクラウン』OP2主題歌「The Everlasting Guilty Crown」／EGOIST[WAV+CUE+BK]
-mtime: 1366895226
-begin: [120307]TVアニメ『ギルティクラウン』OP2主題歌「The Everlasting Guilty Crown」／EGOIST[WAV+CUE+BK]
-directory: WAV
-mtime: 1366895243
-begin: [120307]TVアニメ『ギルティクラウン』OP2主題歌「The Everlasting Guilty Crown」／EGOIST[WAV+CUE+BK]/WAV
-song_begin: EGOIST - The Everlasting Guilty Crown.wav
-Time: 1936
-mtime: 1331457509
-song_end
-playlist_begin: EGOIST - The Everlasting Guilty Crown.cue
-mtime: 1331457003
-playlist_end
-end: [120307]TVアニメ『ギルティクラウン』OP2主題歌「The Everlasting Guilty Crown」／EGOIST[WAV+CUE+BK]/WAV
-end: [120307]TVアニメ『ギルティクラウン』OP2主題歌「The Everlasting Guilty Crown」／EGOIST[WAV+CUE+BK]
-directory: [120307]「The Everlasting Guilty Crown」[DVD-MP4]
-mtime: 1366970264
-begin: [120307]「The Everlasting Guilty Crown」[DVD-MP4]
-song_begin: 01. The Everlasting Guilty Crown ミュージックビデオ (TV Edit ver.) (DVD 720x480 x264 AAC).mp4
-Time: 93
-mtime: 1331220190
-song_end
-song_begin: 02. The Everlasting Guilty Crown オープニングノンクレジットムービー (DVD 720x480 x264 AAC).mp4
-Time: 93
-mtime: 1331220190
-song_end
-song_begin: 03. TVスポット15sec. (DVD 720x480 x264 AAC).mp4
-Time: 18
-mtime: 1331220190
-song_end
-song_begin: 04. Departures ~あなたにおくるアイの歌~ ミュージックビデオ (DVD 720x480 x264 AAC).mp4
-Time: 263
-mtime: 1331220190
-song_end
-end: [120307]「The Everlasting Guilty Crown」[DVD-MP4]
-directory: [EAC] Suara - 夢想歌 [TVA うたわれるもの OP 060426] (tta+cue)
-mtime: 1365178331
-begin: [EAC] Suara - 夢想歌 [TVA うたわれるもの OP 060426] (tta+cue)
-song_begin: LACM-4259.tta
-Time: 1188
-mtime: 1365178331
-song_end
-playlist_begin: LACM-4259TAG.cue
-mtime: 1365178331
-playlist_end
-playlist_begin: LACM-4259TTA.cue
-mtime: 1365178331
-playlist_end
-playlist_begin: LACM-4259.cue
-mtime: 1365178325
-playlist_end
-end: [EAC] Suara - 夢想歌 [TVA うたわれるもの OP 060426] (tta+cue)
-directory: [EAC] [110202] ClariS - コネクト (初回生産限定盤) (wav+cue+iso+mds+bmp)
-mtime: 1365178344
-begin: [EAC] [110202] ClariS - コネクト (初回生産限定盤) (wav+cue+iso+mds+bmp)
-song_begin: SECL-946.wav
-Time: 1070
-mtime: 1365178350
-song_end
-playlist_begin: SECL-946(wav02).cue
-mtime: 1365178344
-playlist_end
-playlist_begin: SECL-946.cue
-mtime: 1365178344
-playlist_end
-end: [EAC] [110202] ClariS - コネクト (初回生産限定盤) (wav+cue+iso+mds+bmp)
-directory: [EAC] アニメ「化物語」テーマソング supercell - 君の知らない物語 (初回生産限定版 DVD付)(cue+ape)
-mtime: 1365178350
-begin: [EAC] アニメ「化物語」テーマソング supercell - 君の知らない物語 (初回生産限定版 DVD付)(cue+ape)
-directory: [EAC] supercell - 君の知らない物語(初回生産限定版_DVD付)
-mtime: 1365178368
-begin: [EAC] アニメ「化物語」テーマソング supercell - 君の知らない物語 (初回生産限定版 DVD付)(cue+ape)/[EAC] supercell - 君の知らない物語(初回生産限定版_DVD付)
-song_begin: supercell - 君の知らない物語.ape
-Time: 1154
-mtime: 1365178368
-song_end
-playlist_begin: supercell - 君の知らない物語.cue
-mtime: 1365178368
-playlist_end
-end: [EAC] アニメ「化物語」テーマソング supercell - 君の知らない物語 (初回生産限定版 DVD付)(cue+ape)/[EAC] supercell - 君の知らない物語(初回生産限定版_DVD付)
-end: [EAC] アニメ「化物語」テーマソング supercell - 君の知らない物語 (初回生産限定版 DVD付)(cue+ape)
-directory: [EAC](アルバム)高鈴 - ヒビノウタ 続 夏目友人帳 ED 愛してる 収録[090218](tta+cue+jpg)
-mtime: 1235035643
-begin: [EAC](アルバム)高鈴 - ヒビノウタ 続 夏目友人帳 ED 愛してる 収録[090218](tta+cue+jpg)
-song_begin: SRCL-6977.tta
-Time: 2931
-mtime: 1235033589
-song_end
-playlist_begin: SRCL-6977.cue
-mtime: 1235033283
-playlist_end
-playlist_begin: SRCL-6977.tta.cue
-mtime: 1235033807
-playlist_end
-end: [EAC](アルバム)高鈴 - ヒビノウタ 続 夏目友人帳 ED 愛してる 収録[090218](tta+cue+jpg)
-directory: [EAC](シングル)LONG SHOT PARTY - あの日タイムマシン 続 夏目友人帳 OP[090128][090204](tta+cue+jpg)
-mtime: 1233810013
-begin: [EAC](シングル)LONG SHOT PARTY - あの日タイムマシン 続 夏目友人帳 OP[090128][090204](tta+cue+jpg)
-song_begin: DFCL-1523.tta
-Time: 703
-mtime: 1233808285
-song_end
-playlist_begin: DFCL-1523.tta.cue
-mtime: 1233808463
-playlist_end
-playlist_begin: DFCL-1523.cue
-mtime: 1233807577
-playlist_end
-end: [EAC](シングル)LONG SHOT PARTY - あの日タイムマシン 続 夏目友人帳 OP[090128][090204](tta+cue+jpg)
-directory: [EAC][アニソン](シングル)シュノーケル-奇跡  アニメ「銀魂」ED[0700808]
-mtime: 1367154999
-begin: [EAC][アニソン](シングル)シュノーケル-奇跡  アニメ「銀魂」ED[0700808]
-song_begin: CDImage.ape
-Time: 703
-mtime: 1187870898
-song_end
-playlist_begin: CDImage.ape.cue
-mtime: 1187871854
-playlist_end
-playlist_begin: CDImage.cue
-mtime: 1187870446
-playlist_end
-end: [EAC][アニソン](シングル)シュノーケル-奇跡  アニメ「銀魂」ED[0700808]
-directory: [Nipponsei] NARUTO OP4 SINGLE - GO!!! [FLOW]
-mtime: 1368789697
-begin: [Nipponsei] NARUTO OP4 SINGLE - GO!!! [FLOW]
-song_begin: 01 GO !!!.mp3
-Time: 240
-Artist: FLOW
-Title: GO!!!
-Album: GO!!!
-Track: 1
-Date: 2004
-Genre: #NIPPONSEI @ IRC.RIZON.NET
-mtime: 1083019964
-song_end
-song_begin: 02 RISING DRAGON.mp3
-Time: 198
-Artist: FLOW
-Title: RISING DRAGON
-Album: GO!!!
-Track: 2
-Date: 2004
-Genre: #NIPPONSEI @ IRC.RIZON.NET
-mtime: 1083019964
-song_end
-song_begin: 03 MY LIFE.mp3
-Time: 224
-Artist: FLOW
-Title: MY LIFE
-Album: GO!!!
-Track: 3
-Date: 2004
-Genre: #NIPPONSEI @ IRC.RIZON.NET
-mtime: 1083019964
-song_end
-song_begin: 04 GO !!! ~VOCALLESS MIX~.mp3
-Time: 239
-Artist: FLOW
-Title: GO!!! ~VOCALLESS MIX~
-Album: GO!!!
-Track: 4
-Date: 2004
-Genre: #NIPPONSEI @ IRC.RIZON.NET
-mtime: 1083019964
-song_end
-song_begin: 05 GO !!! ~NARUTO OPENING MIX~.mp3
-Time: 93
-Artist: FLOW
-Title: GO!!! ~NARUTO OPENING MIX~
-Album: GO!!!
-Track: 5
-Date: 2004
-Genre: #NIPPONSEI @ IRC.RIZON.NET
-mtime: 1083019964
-song_end
-end: [Nipponsei] NARUTO OP4 SINGLE - GO!!! [FLOW]
-directory: [初雪].SNoW.-.[初雪].专辑.(APE)
-mtime: 1366974861
-begin: [初雪].SNoW.-.[初雪].专辑.(APE)
-song_begin: [初雪].SNoW.-.[初雪].专辑.(APE).ape
-Time: 2784
-mtime: 1365178379
-song_end
-end: [初雪].SNoW.-.[初雪].专辑.(APE)
-directory: mao.-.[FOReST].专辑.(FLAC)
-mtime: 1365179416
-begin: mao.-.[FOReST].专辑.(FLAC)
-song_begin: mao.-.[FOReST].专辑.(FLAC).flac
-Time: 3457
-mtime: 1365179428
-song_end
-playlist_begin: mao.-.[FOReST].专辑.(FLAC).cue
-mtime: 1365179416
-playlist_end
-end: mao.-.[FOReST].专辑.(FLAC)
-directory: miwa-guitarissimo
-mtime: 1367505035
-begin: miwa-guitarissimo
-song_begin: miwa-guitarissimo.wav
-Time: 3975
-Artist: miwa
-Date: 2011
-mtime: 1361601996
-song_end
-playlist_begin: miwa-guitarissimo.cue
-mtime: 1361601878
-playlist_end
-end: miwa-guitarissimo
-directory: miwa.-.[don't.cry.anymore].单曲.(FLAC)
-mtime: 1367217980
-begin: miwa.-.[don't.cry.anymore].单曲.(FLAC)
-song_begin: miwa.-.[don't.cry.anymore].单曲.(FLAC).flac
-Time: 1126
-mtime: 1366959313
-song_end
-playlist_begin: miwa.-.[don't.cry.anymore].单曲.(FLAC).cue
-mtime: 1367216387
-playlist_end
-end: miwa.-.[don't.cry.anymore].单曲.(FLAC)
-directory: miwa.-.[guitarissimo].专辑.(FLAC)
-mtime: 1365177544
-begin: miwa.-.[guitarissimo].专辑.(FLAC)
-song_begin: miwa.-.[guitarissimo].专辑.(FLAC).flac
-Time: 3976
-Playlist: yes
-Album: guitarissimo
-Artist: miwa
-Date: 2011
-Genre: JPop
-mtime: 1365177559
-song_end
-playlist_begin: miwa.-.[guitarissimo].专辑.(FLAC).cue
-mtime: 1365177544
-playlist_end
-end: miwa.-.[guitarissimo].专辑.(FLAC)
-directory: miwa.-.[guitarium].专辑.(MP3)
-mtime: 1368792817
-begin: miwa.-.[guitarium].专辑.(MP3)
-song_begin: 01 ¤¤¤¯¤Ä¤Ë¤Ê¤Ã¤Æ¤â.mp3
-Time: 277
-Artist: miwa
-AlbumArtist: miwa
-Title: いくつになっても
-Album: guitarium
-Track: 1/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629490
-song_end
-song_begin: 02 441.mp3
-Time: 247
-Artist: miwa
-AlbumArtist: miwa
-Title: 441
-Album: guitarium
-Track: 2/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629640
-song_end
-song_begin: 03 ¤Õ¤¿¤ê¤Î¥µ¥¿¥Ç¥£.mp3
-Time: 278
-Artist: miwa
-AlbumArtist: miwa
-Title: ふたりのサタディ
-Album: guitarium
-Track: 3/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629627
-song_end
-song_begin: 04 Æ¬Ïë¤¤.mp3
-Time: 349
-Artist: miwa
-AlbumArtist: miwa
-Title: 片想い
-Album: guitarium
-Track: 4/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629639
-song_end
-song_begin: 05 again X again.mp3
-Time: 274
-Artist: miwa
-AlbumArtist: miwa
-Title: again×again
-Album: guitarium
-Track: 5/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629619
-song_end
-song_begin: 06 Jexxxa.mp3
-Time: 274
-Artist: miwa
-AlbumArtist: miwa
-Title: Jexxxa
-Album: guitarium
-Track: 6/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629424
-song_end
-song_begin: 07 ¤Þ¤¿¤Í.mp3
-Time: 350
-Artist: miwa
-AlbumArtist: miwa
-Title: またね
-Album: guitarium
-Track: 7/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629581
-song_end
-song_begin: 08 ¥³¥Ã¥È¥ó¤Î¼¾¹.mp3
-Time: 268
-Artist: miwa
-AlbumArtist: miwa
-Title: コットンの季節
-Album: guitarium
-Track: 8/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629300
-song_end
-song_begin: 09 Chasing hearts.mp3
-Time: 277
-Artist: miwa
-AlbumArtist: miwa
-Title: Chasing hearts
-Album: guitarium
-Track: 9/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629630
-song_end
-song_begin: 10 ¥á¥ê©`¥´©`¥é¥ó¥É.mp3
-Time: 319
-Artist: miwa
-AlbumArtist: miwa
-Title: メリーゴーランド
-Album: guitarium
-Track: 10/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629639
-song_end
-song_begin: 11 ¥¯¥ì¥¢¥Ç¥ë¥Í.mp3
-Time: 267
-Artist: miwa
-AlbumArtist: miwa
-Title: クレアデルネ
-Album: guitarium
-Track: 11/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629397
-song_end
-song_begin: 12 Take@chance.mp3
-Time: 271
-Artist: miwa
-AlbumArtist: miwa
-Title: Take@chance
-Album: guitarium
-Track: 12/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629250
-song_end
-song_begin: 13 FRiDAY-MA-MAGiC.mp3
-Time: 266
-Artist: miwa
-AlbumArtist: miwa
-Title: FRiDAY-MA-MAGiC
-Album: guitarium
-Track: 13/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629569
-song_end
-song_begin: 14 Ê¼¤Þ¤ê¤Ï½K¤ï¤ê¤¸¤ã¤Ê¤¤ (endless version).mp3
-Time: 350
-Artist: miwa
-AlbumArtist: miwa
-Title: 始まりは終わりじゃない<endless version>
-Album: guitarium
-Track: 14/14
-Date: 2012
-Genre: J-Pop
-Composer: miwa
-Disc: 1/1
-mtime: 1331629638
-song_end
-end: miwa.-.[guitarium].专辑.(MP3)
-directory: miwa.-.[ヒカリへ].单曲.(FLAC)
-mtime: 1365177559
-begin: miwa.-.[ヒカリへ].单曲.(FLAC)
-directory: 【夏娜的命】miwa-ヒカリへ
-mtime: 1365177565
-begin: miwa.-.[ヒカリへ].单曲.(FLAC)/【夏娜的命】miwa-ヒカリへ
-song_begin: 01 ヒカリへ.flac
-Time: 294
-mtime: 1365177561
-song_end
-song_begin: 02 Napa.flac
-Time: 311
-mtime: 1365177562
-song_end
-song_begin: 03 HiKARi E Remix~English version~.flac
-Time: 309
-mtime: 1365177563
-song_end
-song_begin: 04 ヒカリへ~instrumental~.flac
-Time: 296
-mtime: 1365177564
-song_end
-song_begin: 05 bonus track 僕が僕であるために.flac
-Time: 301
-mtime: 1365177565
-song_end
-end: miwa.-.[ヒカリへ].单曲.(FLAC)/【夏娜的命】miwa-ヒカリへ
-end: miwa.-.[ヒカリへ].单曲.(FLAC)
-directory: miwa.-.[ミラクル].单曲.(MP3)
-mtime: 1366715283
-begin: miwa.-.[ミラクル].单曲.(MP3)
-song_begin: 01. ミラクル.mp3
-Time: 281
-Artist: miwa
-Title: ミラクル
-Album: ミラクル
-Track: 1
-Date: 2013
-Genre: Pop
-mtime: 1366715251
-song_end
-song_begin: 02. スマイル.mp3
-Time: 265
-Artist: miwa
-Title: スマイル
-Album: ミラクル
-Track: 2
-Date: 2013
-Genre: Pop
-mtime: 1366715248
-song_end
-song_begin: 03. カラxフル ～MY STYLE ver.～.mp3
-Time: 259
-Artist: miwa
-Title: カラ*フル ～MY STYLE ver.～
-Album: ミラクル
-Track: 3
-Date: 2013
-Genre: Pop
-mtime: 1366715261
-song_end
-song_begin: 04. ミラクル ～instrumental～.mp3
-Time: 279
-Artist: miwa
-Title: ミラクル ～instrumental～
-Album: ミラクル
-Track: 4
-Date: 2013
-Genre: Pop
-mtime: 1366715264
-song_end
-end: miwa.-.[ミラクル].单曲.(MP3)
-directory: moumoon.-.[15.Doors].专辑.(FLAC)
-mtime: 1366951259
-begin: moumoon.-.[15.Doors].专辑.(FLAC)
-song_begin: moumoon.-.[15.Doors].专辑.(FLAC).flac
-Time: 3446
-mtime: 1366950525
-song_end
-playlist_begin: moumoon.-.[15.Doors].专辑.(FLAC).cue
-mtime: 1366887657
-playlist_end
-end: moumoon.-.[15.Doors].专辑.(FLAC)
-directory: supercell.-.[うたかた花火／星が瞬くこんな夜に].单曲.(WAV)
-mtime: 1365177071
-begin: supercell.-.[うたかた花火／星が瞬くこんな夜に].单曲.(WAV)
-song_begin: supercell.-.[うたかた花火／星が瞬くこんな夜に].单曲.(WAV).wav
-Time: 1831
-mtime: 1365177081
-song_end
-playlist_begin: supercell.-.[うたかた花火／星が瞬くこんな夜に].单曲.(WAV).cue
-mtime: 1365177071
-playlist_end
-end: supercell.-.[うたかた花火／星が瞬くこんな夜に].单曲.(WAV)
-directory: いきものがかり(Ikimono.Gakari).-.[NEWTRAL].专辑.(FLAC)
-mtime: 1365178790
-begin: いきものがかり(Ikimono.Gakari).-.[NEWTRAL].专辑.(FLAC)
-directory: Disc 1
-mtime: 1365178775
-begin: いきものがかり(Ikimono.Gakari).-.[NEWTRAL].专辑.(FLAC)/Disc 1
-song_begin: 01 いきものがかり.flac
-Time: 366
-mtime: 1365178762
-song_end
-song_begin: 02 笑ってたいんだ.flac
-Time: 371
-mtime: 1365178763
-song_end
-song_begin: 03 いつだって僕らは.flac
-Time: 264
-mtime: 1365178765
-song_end
-song_begin: 04 KISS KISS BANG BANG.flac
-Time: 276
-mtime: 1365178766
-song_end
-song_begin: 05 会いにいくよ.flac
-Time: 348
-mtime: 1365178767
-song_end
-song_begin: 06 地球.flac
-Time: 353
-mtime: 1365178768
-song_end
-song_begin: 07 センチメンタル ボーイフレンド.flac
-Time: 353
-mtime: 1365178770
-song_end
-song_begin: 08 白いダイアリー.flac
-Time: 306
-mtime: 1365178771
-song_end
-song_begin: 09 恋詩.flac
-Time: 282
-mtime: 1365178772
-song_end
-song_begin: 10 NEW WORLD MUSIC.flac
-Time: 272
-mtime: 1365178773
-song_end
-song_begin: 11 愛言葉.flac
-Time: 395
-mtime: 1365178775
-song_end
-song_begin: 12 おやすみ.flac
-Time: 263
-mtime: 1365178776
-song_end
-end: いきものがかり(Ikimono.Gakari).-.[NEWTRAL].专辑.(FLAC)/Disc 1
-directory: Disc 2
-mtime: 1365178789
-begin: いきものがかり(Ikimono.Gakari).-.[NEWTRAL].专辑.(FLAC)/Disc 2
-song_begin: 01 SAKURA -2010 LIVE at 日本武道馆 ver.-.flac
-Time: 409
-mtime: 1365178777
-song_end
-song_begin: 02 ありがとう -2010 LIVE at 横浜アリーナ ver.-.flac
-Time: 384
-mtime: 1365178779
-song_end
-song_begin: 03 気まぐれロマンティック -2009 LIVE at 渋谷C.C.Lemonホール ver.-.flac
-Time: 283
-mtime: 1365178780
-song_end
-song_begin: 04 歩いていこう -2011 LIVE at 国立代々木竞技场第一体育馆 ver.-.flac
-Time: 397
-mtime: 1365178781
-song_end
-song_begin: 05 キミがいる -2010 LIVE at 日本武道馆 ver.-.flac
-Time: 362
-mtime: 1365178783
-song_end
-song_begin: 06 じょいふる -2010 LIVE at 日本武道馆 ver.-.flac
-Time: 360
-mtime: 1365178784
-song_end
-song_begin: 07 YELL -2010 LIVE at 日本武道馆 ver.-.flac
-Time: 362
-mtime: 1365178786
-song_end
-song_begin: 08 ブルーバード -2010 LIVE at 横浜アリーナ ver.-.flac
-Time: 356
-mtime: 1365178787
-song_end
-song_begin: 09 コイスルオトメ -2010 LIVE at 横浜アリーナ ver.-.flac
-Time: 428
-mtime: 1365178789
-song_end
-song_begin: 10 心の花を咲かせよう -2011 LIVE at 横浜スタジアム ver.-.flac
-Time: 352
-mtime: 1365178790
-song_end
-end: いきものがかり(Ikimono.Gakari).-.[NEWTRAL].专辑.(FLAC)/Disc 2
-end: いきものがかり(Ikimono.Gakari).-.[NEWTRAL].专辑.(FLAC)
-directory: いきものがかり(Ikimono.Gakari).-.[YELL／じょいふる].单曲.(MP3)
-mtime: 1253529841
-begin: いきものがかり(Ikimono.Gakari).-.[YELL／じょいふる].单曲.(MP3)
-song_begin: 01.YELL.mp3
-Time: 358
-Artist: いきものがかり
-Title: YELL
-Album: YELL／じょいふる
-Track: 1/4
-Genre: Jpop
-mtime: 1253529830
-song_end
-song_begin: 02.じょいふる.mp3
-Time: 199
-Artist: いきものがかり
-Title: じょいふる
-Album: YELL／じょいふる
-Track: 2/4
-Genre: Jpop
-mtime: 1253529822
-song_end
-song_begin: 03.YELL -instrumental-.mp3
-Time: 358
-Artist: いきものがかり
-Title: YELL -instrumental-
-Album: YELL／じょいふる
-Track: 3/4
-Genre: Jpop
-mtime: 1253529841
-song_end
-song_begin: 04.じょいふる -instrumental-.mp3
-Time: 196
-Artist: いきものがかり
-Title: じょいふる -instrumental-
-Album: YELL／じょいふる
-Track: 4/4
-Genre: Jpop
-mtime: 1253529841
-song_end
-end: いきものがかり(Ikimono.Gakari).-.[YELL／じょいふる].单曲.(MP3)
-directory: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～]
-mtime: 1365178809
-begin: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～]
-directory: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc01].专辑.(FLAC)
-mtime: 1365178790
-begin: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～]/いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc01].专辑.(FLAC)
-song_begin: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc01].专辑.(FLAC).flac
-Time: 4749
-mtime: 1365178809
-song_end
-playlist_begin: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc01].专辑.(FLAC).cue
-mtime: 1365178790
-playlist_end
-end: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～]/いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc01].专辑.(FLAC)
-directory: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc02].专辑.(FLAC)
-mtime: 1365178809
-begin: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～]/いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc02].专辑.(FLAC)
-song_begin: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc02].专辑.(FLAC).flac
-Time: 4785
-mtime: 1365178827
-song_end
-playlist_begin: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc02].专辑.(FLAC).cue
-mtime: 1365178809
-playlist_end
-end: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～]/いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～.Disc02].专辑.(FLAC)
-end: いきものがかり(Ikimono.Gakari).-.[いきものばかり～メンバーズBESTセレクション～]
-directory: いきものがかり(Ikimono.Gakari).-.[うるわしきひと／青春のとびら].单曲.(FLAC)
-mtime: 1365178831
-begin: いきものがかり(Ikimono.Gakari).-.[うるわしきひと／青春のとびら].单曲.(FLAC)
-song_begin: いきものがかり(Ikimono.Gakari).-.[うるわしきひと／青春のとびら].单曲.(FLAC).flac
-Time: 1114
-Playlist: yes
-Album: うるわしきひと／青春のとびら
-AlbumArtist: いきものがかり
-mtime: 1365178836
-song_end
-playlist_begin: いきものがかり(Ikimono.Gakari).-.[うるわしきひと／青春のとびら].单曲.(FLAC).cue
-mtime: 1365178831
-playlist_end
-end: いきものがかり(Ikimono.Gakari).-.[うるわしきひと／青春のとびら].单曲.(FLAC)
-directory: いきものがかり(Ikimono.Gakari).-.[とってもええぞう].MV.(DVDRip)
-mtime: 1365178836
-begin: いきものがかり(Ikimono.Gakari).-.[とってもええぞう].MV.(DVDRip)
-song_begin: いきものがかり(Ikimono.Gakari).-.[とってもええぞう].MV.(DVDRip).mkv
-Time: 5350
-Title: Music Audio
-mtime: 1365178865
-song_end
-end: いきものがかり(Ikimono.Gakari).-.[とってもええぞう].MV.(DVDRip)
-directory: いきものがかり(Ikimono.Gakari).-.[ブルーバード].单曲.(MP3)
-mtime: 1368085900
-begin: いきものがかり(Ikimono.Gakari).-.[ブルーバード].单曲.(MP3)
-song_begin: 1 ブルーバード.mp3
-Time: 219
-Artist: ¤¤¤­¤â¤Î¤¬¤«¤ê
-Title: ¥Ö¥ë©`¥Ð©`¥É
-Album: ¥Ö¥ë©`¥Ð©`¥É
-Track: 1
-Date: 2008
-Genre: J-Pop
-mtime: 1215527020
-song_end
-song_begin: 2 夏色惑星.mp3
-Time: 257
-Artist: ¤¤¤­¤â¤Î¤¬¤«¤ê
-Title: ÏÄÉ«»óÐÇ
-Album: ¥Ö¥ë©`¥Ð©`¥É
-Track: 2
-Date: 2008
-Genre: J-Pop
-mtime: 1215527021
-song_end
-song_begin: 3 ブルーバード-instrumental-.mp3
-Time: 216
-Artist: ¤¤¤­¤â¤Î¤¬¤«¤ê
-Title: ¥Ö¥ë©`¥Ð©`¥É-instrumental-
-Album: ¥Ö¥ë©`¥Ð©`¥É
-Track: 3
-Date: 2008
-Genre: J-Pop
-mtime: 1215504643
-song_end
-end: いきものがかり(Ikimono.Gakari).-.[ブルーバード].单曲.(MP3)
-directory: いきものがかり(Ikimono.Gakari).-.[ホタルノヒカリ].单曲.(APE)
-mtime: 1368085720
-begin: いきものがかり(Ikimono.Gakari).-.[ホタルノヒカリ].单曲.(APE)
-song_begin: いきものがかり(Ikimono.Gakari).-.[ホタルノヒカリ].单曲.(APE).ape
-Time: 811
-Playlist: yes
-Artist: いきものがかり
-Album: ホタルノヒカリ
-Genre: JPop
-Date: 2009
-mtime: 1368085598
-song_end
-playlist_begin: いきものがかり(Ikimono.Gakari).-.[ホタルノヒカリ].单曲.(APE).cue
-mtime: 1368085572
-playlist_end
-end: いきものがかり(Ikimono.Gakari).-.[ホタルノヒカリ].单曲.(APE)
-directory: いきものがかり(Ikimono.Gakari).-.[七色こんにゃく].专辑.(MP3)
-mtime: 1275887513
-begin: いきものがかり(Ikimono.Gakari).-.[七色こんにゃく].专辑.(MP3)
-song_begin: 01.真夏のエレジー.mp3
-Time: 298
-Artist: いきものがかり
-AlbumArtist: いきものがかり
-Title: 真夏のエレジー
-Album: 七色こんにゃく
-Track: 1
-Date: 2004
-mtime: 1275836208
-song_end
-song_begin: 02.からくり.mp3
-Time: 414
-Artist: いきものがかり
-AlbumArtist: いきものがかり
-Title: からくり
-Album: 七色こんにゃく
-Track: 2
-Date: 2004
-mtime: 1275836299
-song_end
-song_begin: 03.あまあし.mp3
-Time: 287
-Artist: いきものがかり
-AlbumArtist: いきものがかり
-Title: あまあし
-Album: 七色こんにゃく
-Track: 3
-Date: 2004
-mtime: 1275836374
-song_end
-song_begin: 04.赤いかさ.mp3
-Time: 275
-Artist: いきものがかり
-AlbumArtist: いきものがかり
-Title: 赤いかさ
-Album: 七色こんにゃく
-Track: 4
-Date: 2004
-mtime: 1275836575
-song_end
-song_begin: 05.無題～遠くへ～.mp3
-Time: 379
-Artist: いきものがかり
-AlbumArtist: いきものがかり
-Title: 無題～遠くへ～
-Album: 七色こんにゃく
-Track: 5
-Date: 2004
-mtime: 1275836571
-song_end
-end: いきものがかり(Ikimono.Gakari).-.[七色こんにゃく].专辑.(MP3)
-directory: いきものがかり(Ikimono.Gakari).-.[人生すごろくだべ。].专辑.(MP3)
-mtime: 1367853940
-begin: いきものがかり(Ikimono.Gakari).-.[人生すごろくだべ。].专辑.(MP3)
-song_begin: 01 コイスルオトメ.mp3
-Time: 273
-Title: ̂ - RCXIg]jRjR()
-mtime: 1249816886
-song_end
-song_begin: 02 ちこくしちゃうよ.mp3
-Time: 228
-Title: ̂ - Ⴄ]jRjR()
-mtime: 1249816886
-song_end
-song_begin: 03 くちづけ.mp3
-Time: 335
-Title: ̂ - Â]jRjR()
-mtime: 1249816886
-song_end
-song_begin: 04 月とあたしと冷蔵庫.mp3
-Time: 289
-Title: ̂ - ƂƗ①Ɂ]jRjR()
-mtime: 1249816887
-song_end
-end: いきものがかり(Ikimono.Gakari).-.[人生すごろくだべ。].专辑.(MP3)
-directory: いきものがかり(Ikimono.Gakari).–.[誠に僭越ながらファーストアルバムを拵えました…].专辑.(MP3)
-mtime: 1326271515
-begin: いきものがかり(Ikimono.Gakari).–.[誠に僭越ながらファーストアルバムを拵えました…].专辑.(MP3)
-song_begin: 1 花は桜君は美し.mp3
-Time: 318
-Artist: ¤¤¤­¤â¤Î¤¬¤«¤ê
-Title: »¨¤Ï@¾ý¤ÏÃÀ¤·
-Album: Õ\¤ËÙÔÔ½¤Ê¤¬¤é¥Õ¥¡©`¥¹¥È¥¢¥ë¥Ð
-Track: 1
-Date: 2003
-Genre: JPop
-mtime: 1326271535
-song_end
-song_begin: 2 歌姫.mp3
-Time: 417
-Artist: ¤¤¤­¤â¤Î¤¬¤«¤ê
-Title: ¸èª
-Album: Õ\¤ËÙÔÔ½¤Ê¤¬¤é¥Õ¥¡©`¥¹¥È¥¢¥ë¥Ð
-Track: 2
-Date: 2003
-Genre: JPop
-mtime: 1326271537
-song_end
-song_begin: 3 地球.mp3
-Time: 389
-Artist: ¤¤¤­¤â¤Î¤¬¤«¤ê
-Title: µØÇò
-Album: Õ\¤ËÙÔÔ½¤Ê¤¬¤é¥Õ¥¡©`¥¹¥È¥¢¥ë¥Ð
-Track: 3
-Date: 2003
-Genre: JPop
-mtime: 1326271537
-song_end
-song_begin: 4 秋桜.mp3
-Time: 286
-Artist: ¤¤¤­¤â¤Î¤¬¤«¤ê
-Title: Çï@
-Album: Õ\¤ËÙÔÔ½¤Ê¤¬¤é¥Õ¥¡©`¥¹¥È¥¢¥ë¥Ð
-Track: 4
-Date: 2003
-Genre: JPop
-mtime: 1326271537
-song_end
-song_begin: 5 ノスタルジア.mp3
-Time: 322
-Artist: ¤¤¤­¤â¤Î¤¬¤«¤ê
-Title: ¥Î¥¹¥¿¥ë¥¸¥¢
-Album: Õ\¤ËÙÔÔ½¤Ê¤¬¤é¥Õ¥¡©`¥¹¥È¥¢¥ë¥Ð
-Track: 5
-Date: 2003
-Genre: JPop
-mtime: 1326271537
-song_end
-song_begin: 6 夏・コイ.mp3
-Time: 449
-Artist: ¤¤¤­¤â¤Î¤¬¤«¤ê
-Title: ÏÄ?¥³¥¤
-Album: Õ\¤ËÙÔÔ½¤Ê¤¬¤é¥Õ¥¡©`¥¹¥È¥¢¥ë¥Ð
-Track: 6
-Date: 2003
-Genre: JPop
-mtime: 1326271535
-song_end
-end: いきものがかり(Ikimono.Gakari).–.[誠に僭越ながらファーストアルバムを拵えました…].专辑.(MP3)
-directory: いきものがかり-NEWTRAL
-mtime: 1367505192
-begin: いきものがかり-NEWTRAL
-song_begin: いきものがかり-NEWTRAL-CD1.wav
-Time: 3396
-mtime: 1361602378
-song_end
-song_begin: いきものがかり-NEWTRAL-CD2.wav
-Time: 3689
-mtime: 1361602580
-song_end
-playlist_begin: いきものがかり-NEWTRAL-CD1.cue
-mtime: 1361602210
-playlist_end
-playlist_begin: いきものがかり-NEWTRAL-CD2.cue
-mtime: 1361602582
-playlist_end
-end: いきものがかり-NEWTRAL
-directory: けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 
-mtime: 1365863841
-begin: けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 
-directory: けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 Disk01『StudioMix』
-mtime: 1368372526
-begin: けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 /けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 Disk01『StudioMix』
-song_begin: CDImage.ape
-Time: 933
-mtime: 1248153416
-song_end
-playlist_begin: CDImage.ape.cue
-mtime: 1248152842
-playlist_end
-playlist_begin: CDImage.cue
-mtime: 1248152770
-playlist_end
-end: けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 /けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 Disk01『StudioMix』
-directory: けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 Disk02『LiveMix』
-mtime: 1368372524
-begin: けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 /けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 Disk02『LiveMix』
-song_begin: CDImage.ape
-Time: 954
-mtime: 1248154183
-song_end
-playlist_begin: CDImage.ape.cue
-mtime: 1248153683
-playlist_end
-playlist_begin: CDImage.cue
-mtime: 1248153660
-playlist_end
-end: けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 /けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 Disk02『LiveMix』
-end: けいおん！ 劇中歌ミニアルバム 「放課後ティータイム」 
-directory: なんで泣きたくなっちゃうんだろう
-mtime: 1369802461
-begin: なんで泣きたくなっちゃうんだろう
-song_begin: 01 なんで泣きたくなっちゃうんだろう.m4a
-Time: 236
-Title: なんで泣きたくなっちゃうんだろう
-Artist: 福原美穂
-Composer: MIHO HUKUHARA and HYOE YASUHARA
-Album: なんで泣きたくなっちゃうんだろう
-Genre: Pop
-Track: 1
-Disc: 1
-Date: 2009
-mtime: 1365179557
-song_end
-song_begin: 02 Cry No More.m4a
-Time: 322
-Title: Cry No More
-Artist: 福原美穂
-Composer: MIHO HUKUHARA and HIROO YAMAGUCHI
-Album: なんで泣きたくなっちゃうんだろう
-Genre: Pop
-Track: 2
-Disc: 1
-Date: 2009
-mtime: 1365179557
-song_end
-song_begin: 03 HAPPY Xmas (War Is Over)_duet wit.m4a
-Time: 286
-Title: HAPPY Xmas (War Is Over)<duet with Eric Martin>
-Artist: 福原美穂
-Composer: John Lennon & Yoko Ono
-Album: なんで泣きたくなっちゃうんだろう
-Genre: Pop
-Track: 3
-Disc: 1
-Date: 2009
-mtime: 1365179558
-song_end
-song_begin: 04 なんで泣きたくなっちゃうんだろう (NANDE ANOTHER M.m4a
-Time: 231
-Title: なんで泣きたくなっちゃうんだろう (NANDE ANOTHER MIX)
-Artist: 福原美穂
-Composer: MIHO HUKUHARA and HYOE YASUHARA
-Album: なんで泣きたくなっちゃうんだろう
-Genre: Pop
-Track: 4
-Disc: 1
-Date: 2009
-mtime: 1365179558
-song_end
-end: なんで泣きたくなっちゃうんだろう
-directory: オムニバス.-.[SHE.LOVES.YOU].专辑.(FLAC)
-mtime: 1365178468
-begin: オムニバス.-.[SHE.LOVES.YOU].专辑.(FLAC)
-directory: SHE LOVES YOU
-mtime: 1365178480
-begin: オムニバス.-.[SHE.LOVES.YOU].专辑.(FLAC)/SHE LOVES YOU
-song_begin: 01 How crazy.flac
-Time: 224
-Title: How crazy
-Artist: SCANDAL
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 1
-Disc: 1
-mtime: 1365178469
-song_end
-song_begin: 02 Tomorrow's way.flac
-Time: 226
-Title: Tomorrow's way
-Artist: ねごと
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 2
-Disc: 1
-mtime: 1365178470
-song_end
-song_begin: 03 Good-bye days.flac
-Time: 274
-Title: Good-bye days
-Artist: miwa
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 3
-Disc: 1
-mtime: 1365178471
-song_end
-song_begin: 04 LIFE.flac
-Time: 244
-Title: LIFE
-Artist: Goose house
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 4
-Disc: 1
-mtime: 1365178471
-song_end
-song_begin: 05 Rolling star.flac
-Time: 188
-Title: Rolling star
-Artist: 中川翔子
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 5
-Disc: 1
-mtime: 1365178472
-song_end
-song_begin: 06 Namidairo.flac
-Time: 267
-Title: Namidairo
-Artist: 井手綾香
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 6
-Disc: 1
-mtime: 1365178473
-song_end
-song_begin: 07 My Generation.flac
-Time: 237
-Title: My Generation
-Artist: Kylee
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 7
-Disc: 1
-mtime: 1365178474
-song_end
-song_begin: 08 again.flac
-Time: 257
-Title: again
-Artist: ステレオポニー
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 8
-Disc: 1
-mtime: 1365178475
-song_end
-song_begin: 09 I remember you.flac
-Time: 268
-Title: I remember you
-Artist: 沢井美空
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 9
-Disc: 1
-mtime: 1365178476
-song_end
-song_begin: 10 HELLO.flac
-Time: 225
-Title: HELLO
-Artist: Dancing Dolls
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 10
-Disc: 1
-mtime: 1365178477
-song_end
-song_begin: 11 GLORIA.flac
-Time: 209
-Title: GLORIA
-Artist: 藍井エイル
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 11
-Disc: 1
-mtime: 1365178478
-song_end
-song_begin: 12 feel my soul.flac
+Artist: NERDHEAD
+Title: I'm OK£¨Feat.Michi£©
+Album: CRUISE WITH YOU
+mtime: 1338715915
+song_end
+song_begin: NERDHEAD - Like This Like That By So'fly.mp3
 Time: 223
-Title: feel my soul
-Artist: joy
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 12
-Disc: 1
-mtime: 1365178479
+Artist: NERDHEAD
+Title: Like This Like That By So'fly
+Album: CRUISE WITH YOU
+mtime: 1338716113
 song_end
-song_begin: 13 CHE.R.RY ~Bossa Live Version~.flac
-Time: 247
-Title: CHE.R.RY ~Bossa Live Version~
-Artist: YUI
-Album: SHE LOVES YOU
-Date: 2012
-AlbumArtist: YUI
-Track: 13
-Disc: 1
-mtime: 1365178480
+song_begin: NERDHEAD - Tomorrow（feat.hiroko from mihimaru GT）.mp3
+Time: 323
+Artist: NERDHEAD
+Title: Tomorrow£¨feat.hiroko from mihimaru GT£©
+Album: CRUISE WITH YOU
+mtime: 1338716071
 song_end
-end: オムニバス.-.[SHE.LOVES.YOU].专辑.(FLAC)/SHE LOVES YOU
-end: オムニバス.-.[SHE.LOVES.YOU].专辑.(FLAC)
-directory: ダイアトニック／石敢當
-mtime: 1365178517
-begin: ダイアトニック／石敢當
-directory: ダイアトニック／石敢當
-mtime: 1365178519
-begin: ダイアトニック／石敢當/ダイアトニック／石敢當
-song_begin: 01 リトルトラベラ.mp3
-Time: 269
-Artist: Ê¯¸Ò®
-Title: ¥ê¥È¥ë¥È¥é¥Ù¥é
-Album: ¥À¥¤¥¢¥È¥Ë¥Ã¥¯
+song_begin: NERDHEAD - サヨナラマイラブ（feat.中村舞子）.mp3
+Time: 278
+Artist: NERDHEAD
+Title: ¥µ¥è¥Ê¥é¥Þ¥¤¥é¥Ö£¨feat.ÖÐ´åÎè×Ó£©
+Album: CRUISE WITH YOU
+mtime: 1338716001
+song_end
+song_begin: NERDHEAD - 言葉にできないほど好きなのに（feat.Mai.K [DJ MITSU THE BEATS Remix]）.mp3
+Time: 345
+Artist: NERDHEAD
+Title: ÑÔÈ~¤Ë¤Ç¤­¤Ê¤¤¤Û¤ÉºÃ¤­¤Ê¤Î¤Ë£¨feat.Mai.K [DJ MITSU THE BEATS Remix]£©
+Album: CRUISE WITH YOU
+mtime: 1338716070
+song_end
+end: NERDHEAD/CRUISE_WITH_YOU
+directory: どうして好きなんだろう_feat.Mai.K
+mtime: 1307725063
+begin: NERDHEAD/どうして好きなんだろう_feat.Mai.K
+song_begin: 01 NERDHEAD Feat. Mai. K - どうして好きなんだろう.flac
+Time: 356
+Title: どうして好きなんだろう
+Artist: NERDHEAD Feat. Mai. K
+Album: どうして好きなんだろう Feat. Mai. K
+Genre: Rap
 Track: 1
-Date: 2012
-mtime: 1365178517
+Disc: 1
+Date: 2011
+mtime: 1307620498
 song_end
-song_begin: 02 想定値.mp3
-Time: 239
-Artist: Ê¯¸Ò®
-Title: Ïë¶¨
-Album: ¥À¥¤¥¢¥È¥Ë¥Ã¥¯
+song_begin: 02 NERDHEAD - Life is beautiful.flac
+Time: 295
+Title: Life is beautiful
+Artist: NERDHEAD
+Album: どうして好きなんだろう Feat. Mai. K
+Genre: Rap
 Track: 2
-Date: 2012
-mtime: 1365178517
+Disc: 1
+Date: 2011
+mtime: 1307620497
 song_end
-song_begin: 03 境界線.mp3
-Time: 252
-Artist: Ê¯¸Ò®
-Title: ¾³½ç¾
-Album: ¥À¥¤¥¢¥È¥Ë¥Ã¥¯
+song_begin: 03 NERDHEAD Feat. Mai. K - どうして好きなんだろう (Instrumental).flac
+Time: 356
+Title: どうして好きなんだろう (Instrumental)
+Artist: NERDHEAD Feat. Mai. K
+Album: どうして好きなんだろう Feat. Mai. K
+Genre: Rap
 Track: 3
-Date: 2012
-mtime: 1365178518
+Disc: 1
+Date: 2011
+mtime: 1307620497
 song_end
-song_begin: 04 タイムカプセル.mp3
-Time: 248
-Artist: Ê¯¸Ò®
-Title: ¥¿¥¤¥à¥«¥×¥»¥ë
-Album: ¥À¥¤¥¢¥È¥Ë¥Ã¥¯
+song_begin: 04 NERDHEAD - Life is beautiful (Instrumental).flac
+Time: 290
+Title: Life is beautiful (Instrumental)
+Artist: NERDHEAD
+Album: どうして好きなんだろう Feat. Mai. K
+Genre: Rap
 Track: 4
-Date: 2012
-mtime: 1365178518
+Disc: 1
+Date: 2011
+mtime: 1307620496
 song_end
-song_begin: 05 自分.mp3
-Time: 250
-Artist: Ê¯¸Ò®
-Title: ×Ô·Ö
-Album: ¥À¥¤¥¢¥È¥Ë¥Ã¥¯
-Track: 5
-Date: 2012
-mtime: 1365178518
+end: NERDHEAD/どうして好きなんだろう_feat.Mai.K
+end: NERDHEAD
+directory: Tank
+mtime: 1373302437
+begin: Tank
+directory: Fighting!生存之道
+mtime: 1382104410
+begin: Tank/Fighting!生存之道
+song_begin: Fighting生存之道.ape
+Time: 2785
+Title: CD 音轨 11
+Track: 11
+mtime: 1370936116
 song_end
-song_begin: 06 ｒｅｄ　ｔｒｅａｄ.mp3
-Time: 247
-Artist: Ê¯¸Ò®
-Title: £ò£å£ä¡¡£ô£ò£å£á£ä
-Album: ¥À¥¤¥¢¥È¥Ë¥Ã¥¯
-Track: 6
-Date: 2012
-mtime: 1365178519
-song_end
-song_begin: 07 多機能不全レプリカ.mp3
-Time: 224
-Artist: Ê¯¸Ò®
-Title: ¶àCÄÜ²»È«¥ì¥×¥ê¥«
-Album: ¥À¥¤¥¢¥È¥Ë¥Ã¥¯
-Track: 7
-Date: 2012
-mtime: 1365178519
-song_end
-song_begin: 08 ダイアトニック.mp3
-Time: 228
-Artist: Ê¯¸Ò®
-Title: ¥À¥¤¥¢¥È¥Ë¥Ã¥¯
-Album: ¥À¥¤¥¢¥È¥Ë¥Ã¥¯
-Track: 8
-Date: 2012
-mtime: 1365178519
-song_end
-end: ダイアトニック／石敢當/ダイアトニック／石敢當
-end: ダイアトニック／石敢當
-directory: 中島美嘉(Mika.Nakashima).-.[明日世界が終わるなら].单曲.(FLAC)
-mtime: 1365179904
-begin: 中島美嘉(Mika.Nakashima).-.[明日世界が終わるなら].单曲.(FLAC)
-song_begin: 中島美嘉(Mika.Nakashima).-.[明日世界が終わるなら].单曲.(FLAC).flac
-Time: 1035
-Artist: 中島美嘉
-Date: 2012-09-19
-Genre: J-pop
-mtime: 1365179908
-song_end
-playlist_begin: 中島美嘉(Mika.Nakashima).-.[明日世界が終わるなら].单曲.(FLAC).cue
-mtime: 1365179904
+playlist_begin: Fighting生存之道.cue
+mtime: 1370936079
 playlist_end
-end: 中島美嘉(Mika.Nakashima).-.[明日世界が終わるなら].单曲.(FLAC)
-directory: 中島美嘉(Nakashima Mika).-.[ORION].单曲.(MP3)
-mtime: 1226401176
-begin: 中島美嘉(Nakashima Mika).-.[ORION].单曲.(MP3)
-song_begin: 01 ORION.mp3
-Time: 291
-Artist: ÖÐuÃÀ¼Î
-Title: ORION
-Album: ORION
-Track: 1
-Date: 2008
-Genre: Pop
-mtime: 1226735030
+end: Tank/Fighting!生存之道
+directory: 延长比赛
+mtime: 1382104387
+begin: Tank/延长比赛
+song_begin: 延长比赛.ape
+Time: 2534
+mtime: 1370929680
 song_end
-song_begin: 02 FOCUS.mp3
-Time: 283
-Artist: ÖÐuÃÀ¼Î
-Title: FOCUS
-Album: ORION
-Track: 2
-Date: 2008
-Genre: Pop
-mtime: 1226735022
+playlist_begin: 延长比赛.cue
+mtime: 1370929648
+playlist_end
+end: Tank/延长比赛
+end: Tank
+directory: いきものがかり_Ikimono.Gakari
+mtime: 1382688305
+begin: いきものがかり_Ikimono.Gakari
+directory: ハルウタ
+mtime: 1365178873
+begin: いきものがかり_Ikimono.Gakari/ハルウタ
+song_begin: いきものがかり(Ikimono.Gakari).-.[ハルウタ].单曲.(FLAC).flac
+Time: 588
+mtime: 1365178875
 song_end
-song_begin: 03 ORION (Instrumental).mp3
-Time: 289
-Artist: ÖÐuÃÀ¼Î
-Title: ORION (Instrumental)
-Album: ORION
-Track: 3
-Date: 2008
-Genre: Pop
-mtime: 1226735026
-song_end
-song_begin: 04 FOCUS (Instrumental).mp3
-Time: 281
-Artist: ÖÐuÃÀ¼Î
-Title: FOCUS (Instrumental)
-Album: ORION
-Track: 4
-Date: 2008
-Genre: Pop
-mtime: 1226735034
-song_end
-end: 中島美嘉(Nakashima Mika).-.[ORION].单曲.(MP3)
-directory: 五月天.-.[后青春期的诗].专辑.(ape)
+playlist_begin: いきものがかり(Ikimono.Gakari).-.[ハルウタ].单曲.(FLAC).cue
+mtime: 1365178873
+playlist_end
+end: いきものがかり_Ikimono.Gakari/ハルウタ
+end: いきものがかり_Ikimono.Gakari
+directory: 五月天
+mtime: 1373313976
+begin: 五月天
+directory: 后青春期的诗
 mtime: 1244436837
-begin: 五月天.-.[后青春期的诗].专辑.(ape)
+begin: 五月天/后青春期的诗
 song_begin: 01 突然好想你.ape
 Time: 265
 Artist: 五月天
@@ -4423,196 +1148,93 @@ Track: 12/12
 Date: 2008
 mtime: 1226043505
 song_end
-end: 五月天.-.[后青春期的诗].专辑.(ape)
-directory: 五月天.-.[知足.Disc.Sky].专辑.(FLAC)
-mtime: 1366974795
-begin: 五月天.-.[知足.Disc.Sky].专辑.(FLAC)
-song_begin: 五月天.-.[知足.Disc.Sky].专辑.(FLAC).flac
+end: 五月天/后青春期的诗
+directory: 知足
+mtime: 1382103326
+begin: 五月天/知足
+song_begin: 知足.flac
 Time: 3926
 mtime: 1365177030
 song_end
-end: 五月天.-.[知足.Disc.Sky].专辑.(FLAC)
-directory: 井手綾香(Ide.Ayaka).-.[atelier].专辑.(MP3)
-mtime: 1335354534
-begin: 井手綾香(Ide.Ayaka).-.[atelier].专辑.(MP3)
-song_begin: 01 風をつかまえて[sky blue].mp3
-Time: 276
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: ïL¤ò¤Ä¤«¤Þ¤¨¤Æ[sky blue]
-Album: atelier
-Track: 1/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354442
+end: 五月天/知足
+end: 五月天
+directory: 仓木麻衣
+mtime: 1382257128
+begin: 仓木麻衣
+directory: Growing_of_my_heart
+mtime: 1382256780
+begin: 仓木麻衣/Growing_of_my_heart
+song_begin: Growing.of.my.heart.ape
+Time: 742
+mtime: 1365177977
 song_end
-song_begin: 02 雲の向こう[cyan].mp3
-Time: 237
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: ë¤ÎÏò¤³¤¦[cyan]
-Album: atelier
-Track: 2/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354444
-song_end
-song_begin: 03 ヒカリ.mp3
-Time: 322
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: ¥Ò¥«¥ê
-Album: atelier
-Track: 3/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354446
-song_end
-song_begin: 04 きっと、ずっと.mp3
-Time: 268
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: ¤­¤Ã¤È¡¢¤º¤Ã¤È
-Album: atelier
-Track: 4/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354446
-song_end
-song_begin: 05 震える瞳の下で.mp3
-Time: 271
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: Õð¤¨¤ëÍ«¤ÎÏÂ¤Ç
-Album: atelier
-Track: 5/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354447
-song_end
-song_begin: 06 輝く海.mp3
-Time: 281
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: Ýx¤¯º£
-Album: atelier
-Track: 6/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354448
-song_end
-song_begin: 07 どんなときも.mp3
-Time: 307
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: ¤É¤ó¤Ê¤È¤­¤â
-Album: atelier
-Track: 7/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354448
-song_end
-song_begin: 08 ひだり手.mp3
-Time: 285
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: ¤Ò¤À¤êÊÖ
-Album: atelier
-Track: 8/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354449
-song_end
-song_begin: 09 あのね[garnet].mp3
-Time: 344
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: ¤¢¤Î¤Í[garnet]
-Album: atelier
-Track: 9/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354450
-song_end
-song_begin: 10 少しずつ[maize].mp3
-Time: 291
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: ÉÙ¤·¤º¤Ä[maize]
-Album: atelier
-Track: 10/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354450
-song_end
-song_begin: 11 君からのメッセージ[poppy red].mp3
-Time: 274
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: ¾ý¤«¤é¤Î¥á¥Ã¥»©`¥¸[poppy red]
-Album: atelier
-Track: 11/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354451
-song_end
-song_begin: 12 輝きの中で.mp3
-Time: 260
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: Ýx¤­¤ÎÖÐ¤Ç
-Album: atelier
-Track: 12/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354451
-song_end
-song_begin: 13 愛をつなごう[mauve].mp3
-Time: 316
-Artist: ¾®ÊÖ¾cÏã
-AlbumArtist: 井手綾香
-Title: Û¤ò¤Ä¤Ê¤´¤¦[mauve]
-Album: atelier
-Track: 13/13
-Date: 2012
-Genre: J-Pop
-Disc: 1/1
-mtime: 1335354452
-song_end
-end: 井手綾香(Ide.Ayaka).-.[atelier].专辑.(MP3)
-directory: 亡念之Xam'd主题曲.-.[Xam'dLost.Memories][ED.Single-VACANCY][Kylee].单曲.(Wav)
-mtime: 1365177950
-begin: 亡念之Xam'd主题曲.-.[Xam'dLost.Memories][ED.Single-VACANCY][Kylee].单曲.(Wav)
-directory: [EAC][081203]亡念のザムド ED] VACANCY／Kylee (wav+cue+jpg)
-mtime: 1365177951
-begin: 亡念之Xam'd主题曲.-.[Xam'dLost.Memories][ED.Single-VACANCY][Kylee].单曲.(Wav)/[EAC][081203]亡念のザムド ED] VACANCY／Kylee (wav+cue+jpg)
-song_begin: [EAC][亡念のザムド ED] VACANCY.wav
-Time: 714
-mtime: 1365177955
-song_end
-playlist_begin: cue.cue
-mtime: 1365177951
+playlist_begin: Growing.of.my.heart.cue
+mtime: 1365177977
 playlist_end
-end: 亡念之Xam'd主题曲.-.[Xam'dLost.Memories][ED.Single-VACANCY][Kylee].单曲.(Wav)/[EAC][081203]亡念のザムド ED] VACANCY／Kylee (wav+cue+jpg)
-end: 亡念之Xam'd主题曲.-.[Xam'dLost.Memories][ED.Single-VACANCY][Kylee].单曲.(Wav)
-directory: 仓木麻衣(Mai.Kuraki).-.[OVER.THE.RAINBOW].专辑.(FLAC)
-mtime: 1365177955
-begin: 仓木麻衣(Mai.Kuraki).-.[OVER.THE.RAINBOW].专辑.(FLAC)
-directory: OVER THE RAINBOW
+end: 仓木麻衣/Growing_of_my_heart
+directory: Love,Day.After.Tomorrow
+mtime: 1374050096
+begin: 仓木麻衣/Love,Day.After.Tomorrow
+song_begin: 01 Never Gonna Give You Up.ape
+Time: 201
+mtime: 1365178318
+song_end
+song_begin: 02 Love,Day After Tomorrow.ape
+Time: 202
+mtime: 1365178319
+song_end
+song_begin: 03 Secret of My Heart.ape
+Time: 236
+mtime: 1365178319
+song_end
+song_begin: 04 Stay by My Side.ape
+Time: 208
+mtime: 1365178320
+song_end
+song_begin: 05 Everything's All Right.ape
+Time: 186
+mtime: 1365178320
+song_end
+song_begin: 06 Delicious Way.ape
+Time: 200
+mtime: 1365178321
+song_end
+song_begin: 07 Just Like You Smile Baby.ape
+Time: 219
+mtime: 1365178321
+song_end
+song_begin: 08 Stepping ∞ Out .ape
+Time: 215
+mtime: 1365178322
+song_end
+song_begin: 09 Baby Tonight ~You&Me~.ape
+Time: 216
+mtime: 1365178322
+song_end
+song_begin: 10 Can't Get Enough ~gimme your love~.ape
+Time: 199
+mtime: 1365178323
+song_end
+song_begin: 11 Happy Days.ape
+Time: 193
+mtime: 1365178324
+song_end
+song_begin: 12 This is your life.ape
+Time: 212
+mtime: 1365178324
+song_end
+song_begin: 13 Trying to Find My Way.ape
+Time: 182
+mtime: 1365178325
+song_end
+song_begin: 14 君の時間.ape
+Time: 230
+mtime: 1365178325
+song_end
+end: 仓木麻衣/Love,Day.After.Tomorrow
+directory: OVER_THE_RAINBOW
 mtime: 1365177967
-begin: 仓木麻衣(Mai.Kuraki).-.[OVER.THE.RAINBOW].专辑.(FLAC)/OVER THE RAINBOW
+begin: 仓木麻衣/OVER_THE_RAINBOW
 song_begin: Track 1.flac
 Time: 261
 mtime: 1365177956
@@ -4661,11 +1283,21 @@ song_begin: Track 9.flac
 Time: 242
 mtime: 1365177968
 song_end
-end: 仓木麻衣(Mai.Kuraki).-.[OVER.THE.RAINBOW].专辑.(FLAC)/OVER THE RAINBOW
-end: 仓木麻衣(Mai.Kuraki).-.[OVER.THE.RAINBOW].专辑.(FLAC)
-directory: 仓木麻衣(Mai.Kuraki).-.[Strong.Heart].单曲.(FLAC)
+end: 仓木麻衣/OVER_THE_RAINBOW
+directory: PUZZLE.Revive
+mtime: 1382256944
+begin: 仓木麻衣/PUZZLE.Revive
+song_begin: PUZZLE.Revive.tta
+Time: 1199
+mtime: 1365177997
+song_end
+playlist_begin: PUZZLE.Revive.cue
+mtime: 1365177993
+playlist_end
+end: 仓木麻衣/PUZZLE.Revive
+directory: Strong_Heart
 mtime: 1368082673
-begin: 仓木麻衣(Mai.Kuraki).-.[Strong.Heart].单曲.(FLAC)
+begin: 仓木麻衣/Strong_Heart
 song_begin: 01 Mai Kuraki 倉木麻衣 - Strong Heart.flac
 Time: 261
 Album: Strong Heart
@@ -4696,21 +1328,10 @@ Title: Strong Heart(Instrumental)
 Track: 3
 mtime: 1365177975
 song_end
-end: 仓木麻衣(Mai.Kuraki).-.[Strong.Heart].单曲.(FLAC)
-directory: 仓木麻衣(Mai.Kuraki).-.[もう一度].单曲.(APE)
-mtime: 1367035466
-begin: 仓木麻衣(Mai.Kuraki).-.[もう一度].单曲.(APE)
-song_begin: 2011.05.25 - もう一度.ape
-Time: 471
-mtime: 1307381010
-song_end
-playlist_begin: 2011.05.25 - もう一度.cue
-mtime: 1307382114
-playlist_end
-end: 仓木麻衣(Mai.Kuraki).-.[もう一度].单曲.(APE)
-directory: 仓木麻衣.-.[Time.after.time.～花舞う街で～].单曲.(APE)
+end: 仓木麻衣/Strong_Heart
+directory: Time_after_time_~花舞う街で~
 mtime: 1368913550
-begin: 仓木麻衣.-.[Time.after.time.～花舞う街で～].单曲.(APE)
+begin: 仓木麻衣/Time_after_time_~花舞う街で~
 song_begin: 01 Time after time ～花舞う街で～.ape
 Time: 242
 Artist: 仓木麻衣
@@ -4741,42 +1362,18 @@ Genre: JPop
 Date: 2003
 mtime: 1139573184
 song_end
-end: 仓木麻衣.-.[Time.after.time.～花舞う街で～].单曲.(APE)
-directory: 仓木麻衣.-.[growing.of.my.heart].单曲.(ape)
-mtime: 1365177975
-begin: 仓木麻衣.-.[growing.of.my.heart].单曲.(ape)
-directory: 倉木麻衣 - Growing of my heart
-mtime: 1368904672
-begin: 仓木麻衣.-.[growing.of.my.heart].单曲.(ape)/倉木麻衣 - Growing of my heart
-song_begin: Growing of my heart.ape
-Time: 742
-mtime: 1365177977
+end: 仓木麻衣/Time_after_time_~花舞う街で~
+directory: Wish_You_The_Best
+mtime: 1382256977
+begin: 仓木麻衣/Wish_You_The_Best
+song_begin: Wish.You.The.Best.ape
+Time: 4238
+mtime: 1365179075
 song_end
-playlist_begin: Growing of my heart.ape.cue
-mtime: 1365177977
-playlist_end
-playlist_begin: Growing of my heart.cue
-mtime: 1365177977
-playlist_end
-end: 仓木麻衣.-.[growing.of.my.heart].单曲.(ape)/倉木麻衣 - Growing of my heart
-end: 仓木麻衣.-.[growing.of.my.heart].单曲.(ape)
-directory: 倉木麻衣(Mai.Kuraki).-.[PUZZLE／Revive].单曲.(tta)
-mtime: 1365177993
-begin: 倉木麻衣(Mai.Kuraki).-.[PUZZLE／Revive].单曲.(tta)
-song_begin: 倉木麻衣(Mai.Kuraki).-.[PUZZLE／Revive].单曲.(tta).tta
-Time: 1199
-mtime: 1365177997
-song_end
-playlist_begin: 倉木麻衣(Mai.Kuraki).-.[PUZZLE／Revive].单曲.(tta).cue
-mtime: 1365177993
-playlist_end
-end: 倉木麻衣(Mai.Kuraki).-.[PUZZLE／Revive].单曲.(tta)
-directory: 倉木麻衣(Mai.Kuraki).-.[Your.Best.Friend].单曲.(FLAC)
-mtime: 1365179154
-begin: 倉木麻衣(Mai.Kuraki).-.[Your.Best.Friend].单曲.(FLAC)
-directory: 倉木麻衣(Mai.Kuraki).-.[Your.Best.Friend].单曲.(FLAC)
-mtime: 1365179160
-begin: 倉木麻衣(Mai.Kuraki).-.[Your.Best.Friend].单曲.(FLAC)/倉木麻衣(Mai.Kuraki).-.[Your.Best.Friend].单曲.(FLAC)
+end: 仓木麻衣/Wish_You_The_Best
+directory: Your_Best_Friend
+mtime: 1373308378
+begin: 仓木麻衣/Your_Best_Friend
 song_begin: 01 倉木麻衣 - Your Best Friend.flac
 Time: 354
 Title: Your Best Friend
@@ -4810,363 +1407,138 @@ Disc: 1
 Date: 2011
 mtime: 1365179160
 song_end
-end: 倉木麻衣(Mai.Kuraki).-.[Your.Best.Friend].单曲.(FLAC)/倉木麻衣(Mai.Kuraki).-.[Your.Best.Friend].单曲.(FLAC)
-end: 倉木麻衣(Mai.Kuraki).-.[Your.Best.Friend].单曲.(FLAC)
-directory: 倉木麻衣(Mai.Kuraki).-.[恋に恋して／Special.morning.day.to.you].单曲.(FLAC)
-mtime: 1365179051
-begin: 倉木麻衣(Mai.Kuraki).-.[恋に恋して／Special.morning.day.to.you].单曲.(FLAC)
-song_begin: 倉木麻衣(Mai.Kuraki).-.[恋に恋して／Special.morning.day.to.you].单曲.(FLAC).flac
+end: 仓木麻衣/Your_Best_Friend
+directory: もう一度
+mtime: 1382257007
+begin: 仓木麻衣/もう一度
+song_begin: もう一度.ape
+Time: 471
+mtime: 1307381010
+song_end
+playlist_begin: もう一度.cue
+mtime: 1307382114
+playlist_end
+end: 仓木麻衣/もう一度
+directory: 恋に恋して\Special_morning_day_to_you
+mtime: 1382257043
+begin: 仓木麻衣/恋に恋して\Special_morning_day_to_you
+song_begin: 恋に恋して.Special.morning.day.to.you.flac
 Time: 1060
 Artist: 倉木麻衣
 mtime: 1365179055
 song_end
-playlist_begin: 倉木麻衣(Mai.Kuraki).-.[恋に恋して／Special.morning.day.to.you].单曲.(FLAC).cue
+playlist_begin: 恋に恋して.Special.morning.day.to.you.cue
 mtime: 1365179051
 playlist_end
-end: 倉木麻衣(Mai.Kuraki).-.[恋に恋して／Special.morning.day.to.you].单曲.(FLAC)
-directory: 倉木麻衣(Mai.Kuraki).-.[永遠より.ながく／Drive.me.crazy].单曲.(FLAC)
-mtime: 1365179055
-begin: 倉木麻衣(Mai.Kuraki).-.[永遠より.ながく／Drive.me.crazy].单曲.(FLAC)
-song_begin: 倉木麻衣(Mai.Kuraki).-.[永遠より.ながく／Drive.me.crazy].单曲.(FLAC).flac
+end: 仓木麻衣/恋に恋して\Special_morning_day_to_you
+directory: 永遠より.ながく\Drive_me_crazy
+mtime: 1382257081
+begin: 仓木麻衣/永遠より.ながく\Drive_me_crazy
+song_begin: 永遠より.ながく.Drive.me.crazy.flac
 Time: 937
 mtime: 1365179058
 song_end
-playlist_begin: 倉木麻衣(Mai.Kuraki).-.[永遠より.ながく／Drive.me.crazy].单曲.(FLAC).cue
+playlist_begin: 永遠より.ながく.Drive.me.crazy.cue
 mtime: 1365179055
 playlist_end
-end: 倉木麻衣(Mai.Kuraki).-.[永遠より.ながく／Drive.me.crazy].单曲.(FLAC)
-directory: 倉木麻衣.-.[Wish.You.The.Best].专辑.(APE)
-mtime: 1365179058
-begin: 倉木麻衣.-.[Wish.You.The.Best].专辑.(APE)
-song_begin: 倉木麻衣.-.[Wish.You.The.Best].专辑.(APE).ape
-Time: 4238
-mtime: 1365179075
-song_end
-end: 倉木麻衣.-.[Wish.You.The.Best].专辑.(APE)
-directory: 前田敦子(Atsuko.Maeda).-.[Flower(ACT.2)].单曲.(FLAC)
-mtime: 1309829106
-begin: 前田敦子(Atsuko.Maeda).-.[Flower(ACT.2)].单曲.(FLAC)
-directory: 前田敦子 – Flower [ACT 2]
-mtime: 1367035445
-begin: 前田敦子(Atsuko.Maeda).-.[Flower(ACT.2)].单曲.(FLAC)/前田敦子 – Flower [ACT 2]
-song_begin: 01 – Flower.flac
-Time: 258
-Title: Flower
-Composer: 若田部誠
-Artist: 前田敦子
-AlbumArtist: 前田敦子
-Album: Flower [ACT 2]
-Genre: J-Pop
-Date: 2011
-Disc: 1/1
-Track: 1
-mtime: 1309762478
-song_end
-song_begin: 02 – この胸のメロディー.flac
-Time: 262
-Title: この胸のメロディー
-Composer: myu:
-Artist: 前田敦子
-AlbumArtist: 前田敦子
-Album: Flower [ACT 2]
-Genre: J-Pop
-Date: 2011
-Disc: 1/1
-Track: 2
-mtime: 1309762478
-song_end
-song_begin: 03 – 夜明けまで.flac
-Time: 269
-Title: 夜明けまで
-Composer: 春行
-Artist: 前田敦子
-AlbumArtist: 前田敦子
-Album: Flower [ACT 2]
-Genre: J-Pop
-Date: 2011
-Disc: 1/1
-Track: 3
-mtime: 1309762478
-song_end
-song_begin: 04 – Flower (off vocal ver.).flac
-Time: 258
-Title: Flower (off vocal ver.)
-Composer: 若田部誠
-Artist: 前田敦子
-AlbumArtist: 前田敦子
-Album: Flower [ACT 2]
-Genre: J-Pop
-Date: 2011
-Disc: 1/1
-Track: 4
-mtime: 1309762478
-song_end
-song_begin: 05 – この胸のメロディー (off vocal ver.).flac
-Time: 262
-Title: この胸のメロディー (off vocal ver.)
-Composer: myu:
-Artist: 前田敦子
-AlbumArtist: 前田敦子
-Album: Flower [ACT 2]
-Genre: J-Pop
-Date: 2011
-Disc: 1/1
-Track: 5
-mtime: 1309762478
-song_end
-song_begin: 06 – 夜明けまで (off vocal ver.).flac
-Time: 270
-Title: 夜明けまで (off vocal ver.)
-Composer: 春行
-Artist: 前田敦子
-AlbumArtist: 前田敦子
-Album: Flower [ACT 2]
-Genre: J-Pop
-Date: 2011
-Disc: 1/1
-Track: 6
-mtime: 1309762478
-song_end
-end: 前田敦子(Atsuko.Maeda).-.[Flower(ACT.2)].单曲.(FLAC)/前田敦子 – Flower [ACT 2]
-end: 前田敦子(Atsuko.Maeda).-.[Flower(ACT.2)].单曲.(FLAC)
-directory: 剧场版空之境界主题曲集.-.[the.Gerden.of.Sinners][Re／oblivious][Kalafina].专辑.(TTA)
-mtime: 1368797075
-begin: 剧场版空之境界主题曲集.-.[the.Gerden.of.Sinners][Re／oblivious][Kalafina].专辑.(TTA)
-song_begin: Kalafina - Re／oblivious.tta
-Time: 1266
-mtime: 1208869160
-song_end
-playlist_begin: Kalafina - Re／oblivious.tta(UTF-8).cue
-mtime: 1208911772
+end: 仓木麻衣/永遠より.ながく\Drive_me_crazy
+end: 仓木麻衣
+directory: 周杰伦
+mtime: 1382104222
+begin: 周杰伦
+directory: 11月的萧邦
+mtime: 1382104214
+begin: 周杰伦/11月的萧邦
+playlist_begin: 11月的萧邦.cue
+mtime: 1376751811
 playlist_end
-playlist_begin: Kalafina - Re／oblivious.cue
-mtime: 1208869189
+end: 周杰伦/11月的萧邦
+directory: 2004無與倫比演唱會LIVE
+mtime: 1382103438
+begin: 周杰伦/2004無與倫比演唱會LIVE
+directory: 2004無與倫比演唱會LIVE_CD1
+mtime: 1376397218
+begin: 周杰伦/2004無與倫比演唱會LIVE/2004無與倫比演唱會LIVE_CD1
+song_begin: CDImage.ape
+Time: 3903
+mtime: 1106513006
+song_end
+playlist_begin: CDImage.cue
+mtime: 1106513069
 playlist_end
-end: 剧场版空之境界主题曲集.-.[the.Gerden.of.Sinners][Re／oblivious][Kalafina].专辑.(TTA)
-directory: 加藤ミリヤ(Kato.Miliyah).-.[TRUE.LOVERS].专辑.(FLAC)
-mtime: 1367275953
-begin: 加藤ミリヤ(Kato.Miliyah).-.[TRUE.LOVERS].专辑.(FLAC)
-song_begin: 01 HEART BEAT.flac
-Time: 343
-mtime: 1357472930
+end: 周杰伦/2004無與倫比演唱會LIVE/2004無與倫比演唱會LIVE_CD1
+directory: 2004無與倫比演唱會LIVE_CD2
+mtime: 1106631348
+begin: 周杰伦/2004無與倫比演唱會LIVE/2004無與倫比演唱會LIVE_CD2
+song_begin: CDImage.ape
+Time: 3654
+mtime: 1106512622
 song_end
-song_begin: 02 今夜はブギー・バック feat. 清水翔太 & SHUN.flac
-Time: 356
-mtime: 1357472961
-song_end
-song_begin: 03 LOVERS partII feat. 若旦那.flac
-Time: 402
-mtime: 1357472994
-song_end
-song_begin: 04 眠れぬ夜のせいで.flac
-Time: 304
-mtime: 1357473017
-song_end
-song_begin: 05 True.flac
-Time: 306
-mtime: 1357473039
-song_end
-song_begin: 06 With U.flac
-Time: 293
-mtime: 1357473059
-song_end
-song_begin: 07 Baby Love.flac
-Time: 243
-mtime: 1357473075
-song_end
-song_begin: 08 Heartbreaker.flac
-Time: 335
-mtime: 1357473096
-song_end
-song_begin: 09 AIAIAI.flac
-Time: 270
-mtime: 1357473112
-song_end
-song_begin: 10 All I Want Is You.flac
-Time: 231
-mtime: 1357473126
-song_end
-song_begin: 11 ROMAN (Album ver.).flac
-Time: 276
-mtime: 1357473142
-song_end
-song_begin: 12 愛しい人.flac
-Time: 294
-mtime: 1357473158
-song_end
-song_begin: 13 勇者たち.flac
-Time: 377
-mtime: 1357473178
-song_end
-song_begin: 14 UGLY.flac
-Time: 312
-mtime: 1357473194
-song_end
-end: 加藤ミリヤ(Kato.Miliyah).-.[TRUE.LOVERS].专辑.(FLAC)
-directory: 加藤ミリヤ(Kato.Miriya).[20-CRY-].单曲.(MP3)
-mtime: 1233500206
-begin: 加藤ミリヤ(Kato.Miriya).[20-CRY-].单曲.(MP3)
-song_begin: 01 20-CRY-.mp3
-Time: 252
-Artist: ¼ÓÌÙ¥ß¥ê¥ä
-Title: 20-CRY-
-Album: 20-CRY-
-Track: 1
-Date: 2009
-Genre: JPop
-mtime: 1233329222
-song_end
-song_begin: 02 悲しみブルー.mp3
-Time: 269
-Artist: ¼ÓÌÙ¥ß¥ê¥ä
-Title: ±¯¤·¤ß¥Ö¥ë©`
-Album: 20-CRY-
-Track: 2
-Date: 2009
-Genre: JPop
-mtime: 1233329222
-song_end
-song_begin: 03 Let'em go.mp3
-Time: 304
-Artist: ¼ÓÌÙ¥ß¥ê¥ä
-Title: Let'em go
-Album: 20-CRY-
-Track: 3
-Date: 2009
-Genre: JPop
-mtime: 1233329222
-song_end
-song_begin: 04 20-CRY- INSTRUMENTAL.mp3
-Time: 250
-Artist: ¼ÓÌÙ¥ß¥ê¥ä
-Title: 20-CRY- INSTRUMENTAL
-Album: 20-CRY-
-Track: 4
-Date: 2009
-Genre: JPop
-mtime: 1233329222
-song_end
-end: 加藤ミリヤ(Kato.Miriya).[20-CRY-].单曲.(MP3)
-directory: 加藤ミリヤ.&.清水翔太.-.[Love.Forever].单曲.(FLAC)
-mtime: 1367035181
-begin: 加藤ミリヤ.&.清水翔太.-.[Love.Forever].单曲.(FLAC)
-song_begin: 加藤ミリヤ.&.清水翔太.-.[Love.Forever].单曲.(FLAC).flac
-Time: 1279
-Playlist: yes
-Album: Love Forever
-Artist: 加藤ミリヤ·清水翔太
-Date: 2009
-Genre: R&B
-mtime: 1366984657
-song_end
-playlist_begin: 加藤ミリヤ.&.清水翔太.-.[Love.Forever].单曲.(FLAC).cue
-mtime: 1366950365
+playlist_begin: CDImage.cue
+mtime: 1106513085
 playlist_end
-end: 加藤ミリヤ.&.清水翔太.-.[Love.Forever].单曲.(FLAC)
-directory: 加藤ミリヤ×清水翔太(Kato.Miriya×.Shimizu.Shota).-.[LOVE.STORY].单曲.(MP3)
-mtime: 1367209353
-begin: 加藤ミリヤ×清水翔太(Kato.Miriya×.Shimizu.Shota).-.[LOVE.STORY].单曲.(MP3)
-song_begin: 01 LOVE STORY.mp3
-Time: 319
-Artist: 加藤ミリヤ×清水翔太
-Title: LOVE STORY
-Album: LOVE STORY
-Track: 1
-Date: 2013
-Genre: J-Pop
-mtime: 1366369029
-song_end
-song_begin: 02 Youre the only one for me.mp3
-Time: 316
-Artist: 加藤ミリヤ×清水翔太
-Title: You're the only one for me
-Album: LOVE STORY
-Track: 2
-Date: 2013
-Genre: J-Pop
-mtime: 1366369029
-song_end
-song_begin: 03 BELIEVE (2 Step Remix).mp3
-Time: 268
-Artist: 加藤ミリヤ×清水翔太
-Title: BELIEVE (2 Step Remix)
-Album: LOVE STORY
-Track: 3
-Date: 2013
-Genre: J-Pop
-mtime: 1366369029
-song_end
-song_begin: 04 LOVE STORY Instrumental.mp3
-Time: 316
-Artist: 加藤ミリヤ×清水翔太
-Title: LOVE STORY (Instrumental)
-Album: LOVE STORY
-Track: 4
-Date: 2013
-Genre: J-Pop
-mtime: 1366369029
-song_end
-end: 加藤ミリヤ×清水翔太(Kato.Miriya×.Shimizu.Shota).-.[LOVE.STORY].单曲.(MP3)
-directory: 周杰伦.-.[Jay].专辑.(ape)
-mtime: 1368942363
-begin: 周杰伦.-.[Jay].专辑.(ape)
-song_begin: 周杰伦.-.[Jay].专辑.(ape).ape
+end: 周杰伦/2004無與倫比演唱會LIVE/2004無與倫比演唱會LIVE_CD2
+end: 周杰伦/2004無與倫比演唱會LIVE
+directory: Jay
+mtime: 1382103462
+begin: 周杰伦/Jay
+song_begin: Jay.ape
 Time: 2598
 mtime: 1368942286
 song_end
-playlist_begin: 周杰伦.-.[Jay].专辑.(ape).cue
+playlist_begin: Jay.cue
 mtime: 1368942248
 playlist_end
-end: 周杰伦.-.[Jay].专辑.(ape)
-directory: 周杰伦.-.[七里香].专辑.(APE)
-mtime: 1368955328
-begin: 周杰伦.-.[七里香].专辑.(APE)
-song_begin: 周杰伦.-.[七里香].专辑.(APE).ape
+end: 周杰伦/Jay
+directory: 七里香
+mtime: 1382103486
+begin: 周杰伦/七里香
+song_begin: 七里香.ape
 Time: 2554
 mtime: 1290229745
 song_end
-playlist_begin: 周杰伦.-.[七里香].专辑.(APE).cue
+playlist_begin: 七里香.cue
 mtime: 1290229939
 playlist_end
-end: 周杰伦.-.[七里香].专辑.(APE)
-directory: 周杰伦.-.[八度空间].专辑.(APE)
-mtime: 1368962194
-begin: 周杰伦.-.[八度空间].专辑.(APE)
-song_begin: 周杰伦.-.[八度空间].专辑.(APE).ape
+end: 周杰伦/七里香
+directory: 八度空间
+mtime: 1382103513
+begin: 周杰伦/八度空间
+song_begin: 八度空间.ape
 Time: 2591
 Artist: 周杰伦
 Album: 八度空间
 mtime: 1368959402
 song_end
-playlist_begin: 周杰伦.-.[八度空间].专辑.(APE).cue
+playlist_begin: 八度空间.cue
 mtime: 1368959368
 playlist_end
-end: 周杰伦.-.[八度空间].专辑.(APE)
-directory: 周杰伦.-.[叶惠美].专辑.(ape)
-mtime: 1368945192
-begin: 周杰伦.-.[叶惠美].专辑.(ape)
-song_begin: 周杰伦.-.[叶惠美].专辑.(ape).ape
+end: 周杰伦/八度空间
+directory: 叶惠美
+mtime: 1382103536
+begin: 周杰伦/叶惠美
+song_begin: 叶惠美.ape
 Time: 2886
 mtime: 1368945084
 song_end
-playlist_begin: 周杰伦.-.[叶惠美].专辑.(ape).cue
+playlist_begin: 叶惠美.cue
 mtime: 1368945045
 playlist_end
-end: 周杰伦.-.[叶惠美].专辑.(ape)
-directory: 周杰伦.-.[寻找周杰伦EP].专辑.(ape)
-mtime: 1368940091
-begin: 周杰伦.-.[寻找周杰伦EP].专辑.(ape)
-song_begin: 周杰伦.-.[寻找周杰伦EP].专辑.(ape).ape
+end: 周杰伦/叶惠美
+directory: 寻找周杰伦EP
+mtime: 1382103560
+begin: 周杰伦/寻找周杰伦EP
+song_begin: 寻找周杰伦EP.ape
 Time: 1244
 mtime: 1368939973
 song_end
-playlist_begin: 周杰伦.-.[寻找周杰伦EP].专辑.(ape).cue
+playlist_begin: 寻找周杰伦EP.cue
 mtime: 1368939957
 playlist_end
-end: 周杰伦.-.[寻找周杰伦EP].专辑.(ape)
-directory: 周杰伦.-.[范特西Fantasy].专辑.(ape)
-mtime: 1366897791
-begin: 周杰伦.-.[范特西Fantasy].专辑.(ape)
+end: 周杰伦/寻找周杰伦EP
+directory: 范特西Fantasy
+mtime: 1373314057
+begin: 周杰伦/范特西Fantasy
 song_begin: 01.爱在西元前.ape
 Time: 234
 Artist: 周杰倫
@@ -5267,2976 +1639,379 @@ Genre: 不明
 Composer: 周杰倫
 mtime: 1116558075
 song_end
-end: 周杰伦.-.[范特西Fantasy].专辑.(ape)
-directory: 大冢爱(Otsuka.Ai).-.[爱.am.Best].专辑.(FLAC)
-mtime: 1366974837
-begin: 大冢爱(Otsuka.Ai).-.[爱.am.Best].专辑.(FLAC)
-song_begin: 大冢爱(Otsuka.Ai).-.[爱.am.Best].专辑.(FLAC).flac
-Time: 3966
-mtime: 1365178460
+end: 周杰伦/范特西Fantasy
+directory: 霍元甲
+mtime: 1382103590
+begin: 周杰伦/霍元甲
+song_begin: 霍元甲.ape
+Time: 552
+mtime: 1376237028
 song_end
-end: 大冢爱(Otsuka.Ai).-.[爱.am.Best].专辑.(FLAC)
-directory: 好想告诉你主题曲.-.[Kimi_Ni_Todoke][OP.Single.-.きみにとどけ][タニザワトモフミ].单曲.(FLAC)
-mtime: 1365179942
-begin: 好想告诉你主题曲.-.[Kimi_Ni_Todoke][OP.Single.-.きみにとどけ][タニザワトモフミ].单曲.(FLAC)
-directory: Kimi ni Todoke OP Single
-mtime: 1365179943
-begin: 好想告诉你主题曲.-.[Kimi_Ni_Todoke][OP.Single.-.きみにとどけ][タニザワトモフミ].单曲.(FLAC)/Kimi ni Todoke OP Single
-song_begin: タニザワトモフミ - きみにとどけ.flac
-Time: 206
-Album: きみにとどけ
-Artist: タニザワトモフミ
-Date: 2009
+playlist_begin: 霍元甲.cue
+mtime: 1376236848
+playlist_end
+end: 周杰伦/霍元甲
+end: 周杰伦
+directory: 曹格
+mtime: 1382415954
+begin: 曹格
+directory: Super.Sunshine
+mtime: 1382415904
+begin: 曹格/Super.Sunshine
+song_begin: 曹格.-.[Super.Sunshine].专辑.(FLAC).flac
+Time: 2673
+Playlist: yes
+Album: Super Sunshine
+Artist: 曹格
+Date: 2008
 Disc: 1
-Title: きみにとどけ
+Genre: Pop
+mtime: 1382369653
+song_end
+playlist_begin: 曹格.-.[Super.Sunshine].专辑.(FLAC).cue
+mtime: 1382369653
+playlist_end
+end: 曹格/Super.Sunshine
+end: 曹格
+directory: 李玖哲
+mtime: 1382104278
+begin: 李玖哲
+directory: 不,完美
+mtime: 1379996572
+begin: 李玖哲/不,完美
+song_begin: 01.苍天.APE
+Time: 201
+Artist: 李玖哲
+Album: 不，完美
+Title: 苍天
 Track: 1
-mtime: 1365179943
+Genre: POP
+Date: 2008
+mtime: 1379996550
 song_end
-song_begin: タニザワトモフミ - 宇宙旅行.flac
-Time: 259
-Album: きみにとどけ
-Artist: タニザワトモフミ
-Date: 2009
-Disc: 1
-Title: 宇宙旅行
+song_begin: 02.别说.APE
+Time: 201
+Artist: 李玖哲
+Album: 不，完美
+Title: 别说
 Track: 2
-mtime: 1365179944
-song_end
-song_begin: タニザワトモフミ - ベテルギウス・ガール(instrumental).flac
-Time: 116
-Album: きみにとどけ
-Artist: タニザワトモフミ
-Date: 2009
-Disc: 1
-Title: ベテルギウス・ガール(instrumental)
-Track: 3
-mtime: 1365179943
-song_end
-end: 好想告诉你主题曲.-.[Kimi_Ni_Todoke][OP.Single.-.きみにとどけ][タニザワトモフミ].单曲.(FLAC)/Kimi ni Todoke OP Single
-end: 好想告诉你主题曲.-.[Kimi_Ni_Todoke][OP.Single.-.きみにとどけ][タニザワトモフミ].单曲.(FLAC)
-directory: 安室奈美恵(NAMIE.AMURO).-.[NEVER.END].单曲.(FLAC)
-mtime: 1257871000
-begin: 安室奈美恵(NAMIE.AMURO).-.[NEVER.END].单曲.(FLAC)
-song_begin: 01NEVER END(Radio Edit).flac
-Time: 387
-Album: NEVER END
-Artist: 安室奈美恵
-Date: 2000
-Genre: J-Pop
-Title: NEVER END(Radio Edit)
-Track: 1
-mtime: 1257870908
-song_end
-song_begin: 02NEVER END(Original Mix).flac
-Time: 387
-Album: NEVER END
-Artist: 安室奈美恵
-Date: 2000
-Genre: J-Pop
-Title: NEVER END(Original Mix)
-Track: 2
-mtime: 1257870927
-song_end
-song_begin: 03NEVER END(Chanpuru Mix).flac
-Time: 369
-Album: NEVER END
-Artist: 安室奈美恵
-Date: 2000
-Genre: J-Pop
-Title: NEVER END(Chanpuru Mix)
-Track: 3
-mtime: 1257870943
-song_end
-song_begin: 04NEVER END(Acappella).flac
-Time: 365
-Album: NEVER END
-Artist: 安室奈美恵
-Date: 2000
-Genre: J-Pop
-Title: NEVER END(Acappella)
-Track: 4
-mtime: 1257870958
-song_end
-end: 安室奈美恵(NAMIE.AMURO).-.[NEVER.END].单曲.(FLAC)
-directory: 安良城紅(Beni.Arashiro).-.[もう二度と…].单曲.(MP3)
-mtime: 1367595225
-begin: 安良城紅(Beni.Arashiro).-.[もう二度と…].单曲.(MP3)
-song_begin: 01 - もう二度と....mp3
-Time: 349
-Artist: 安良城紅
-Title: もう二度と…
-Album: もう二度と…
-Track: 1
+Genre: POP
 Date: 2008
-Genre: R&B
-mtime: 1231256115
+mtime: 1234147560
 song_end
-song_begin: 02 - STAY.mp3
-Time: 283
-Artist: 安良城紅
-Title: STAY
-Album: もう二度と…
-Track: 2
-Date: 2008
-Genre: R&B
-mtime: 1231256115
-song_end
-song_begin: 03 - もう二度と... (Instrumental).mp3
-Time: 348
-Artist: 安良城紅
-Title: もう二度と…(Instrumental)
-Album: もう二度と…
-Track: 3
-Date: 2008
-Genre: R&B
-mtime: 1231256115
-song_end
-song_begin: 04 - STAY (Instrumental).mp3
-Time: 279
-Artist: 安良城紅
-Title: STAY(Instrumental)
-Album: もう二度と…
-Track: 4
-Date: 2008
-Genre: R&B
-mtime: 1231256115
-song_end
-end: 安良城紅(Beni.Arashiro).-.[もう二度と…].单曲.(MP3)
-directory: 川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)
-mtime: 1365179165
-begin: 川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)
-directory: 川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)
-mtime: 1365179165
-begin: 川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)/川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)
-directory: My Favorite Songs ～旅立ち～
-mtime: 1365179170
-begin: 川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)/川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)/My Favorite Songs ～旅立ち～
-song_begin: 1. 12個の季節 ～4度目の春～ .mp3
-Time: 304
-mtime: 1365179165
-song_end
-song_begin: 10. Precious Days .mp3
-Time: 294
-mtime: 1365179166
-song_end
-song_begin: 11. さよなら大好きな人.mp3
-Time: 235
-mtime: 1365179166
-song_end
-song_begin: 12. compass .mp3
-Time: 342
-mtime: 1365179166
-song_end
-song_begin: 13. 卒業 -GRADUATION- .mp3
-Time: 260
-mtime: 1365179167
-song_end
-song_begin: 14. 僕たちの失敗.mp3
-Time: 199
-mtime: 1365179167
-song_end
-song_begin: 15. 未来予想図Ⅱ.mp3
-Time: 403
-mtime: 1365179168
-song_end
-song_begin: 16. 旅立ちの日に…(合唱ver) .mp3
-Time: 355
-mtime: 1365179168
-song_end
-song_begin: 2. 空も飛べるはず.mp3
-Time: 273
-mtime: 1365179168
-song_end
-song_begin: 3. 旅立ちの朝 .mp3
-Time: 285
-mtime: 1365179169
-song_end
-song_begin: 4. 絶望と希望 .mp3
-Time: 296
-mtime: 1365179169
-song_end
-song_begin: 5. なごり雪.mp3
-Time: 232
-mtime: 1365179169
-song_end
-song_begin: 6. 未来へ .mp3
-Time: 310
-mtime: 1365179170
-song_end
-song_begin: 7. 卒業写真.mp3
+song_begin: 03.不完美.APE
 Time: 220
-mtime: 1365179170
-song_end
-song_begin: 8. 制服.mp3
-Time: 221
-mtime: 1365179170
-song_end
-song_begin: 9. 未来への道 .mp3
-Time: 296
-mtime: 1365179171
-song_end
-end: 川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)/川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)/My Favorite Songs ～旅立ち～
-end: 川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)/川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)
-end: 川嶋あい(Ai.Kawashima).-.[My.Favorite.Songs～旅立ち～].专辑.(MP3)
-directory: 川嶋あい(Kawashima.Ai).-.[24／24].专辑.(FLAC)
-mtime: 1366974902
-begin: 川嶋あい(Kawashima.Ai).-.[24／24].专辑.(FLAC)
-song_begin: 川嶋あい(Kawashima.Ai).-.[24／24].专辑.(FLAC).flac
-Time: 3377
-mtime: 1365177180
-song_end
-end: 川嶋あい(Kawashima.Ai).-.[24／24].专辑.(FLAC)
-directory: 川嶋あい-絶望と希望
-mtime: 1366727013
-begin: 川嶋あい-絶望と希望
-song_begin: 01.絶望と希望.mp3
-Time: 295
-Artist: ´¨ë¤¢¤¤
-Title: 01.½~Íû¤ÈÏ£Íû
-Album: ½~Íû¤ÈÏ£Íû [MAXI]
-Track: 1
-Date: 2005
-mtime: 1361601596
-song_end
-song_begin: 02.天使降臨.mp3
-Time: 249
-Artist: ´¨ë¤¢¤¤
-Title: 02.ÌìÊ¹½µÅR
-Album: ½~Íû¤ÈÏ£Íû [MAXI]
-Track: 2
-Date: 2005
-mtime: 1361601596
-song_end
-song_begin: 03.絶望と希望 (Instrumental).mp3
-Time: 295
-Artist: ´¨ë¤¢¤¤
-Title: 03.½~Íû¤ÈÏ£Íû (Instrumental)
-Album: ½~Íû¤ÈÏ£Íû [MAXI]
+Artist: 李玖哲
+Album: 不，完美
+Title: 不完美
 Track: 3
-Date: 2005
-mtime: 1361601598
+Genre: POP
+Date: 2008
+mtime: 1234147580
 song_end
-song_begin: 04.天使降臨 (Instrumental).mp3
-Time: 247
-Artist: ´¨ë¤¢¤¤
-Title: 04.ÌìÊ¹½µÅR (Instrumental)
-Album: ½~Íû¤ÈÏ£Íû [MAXI]
+song_begin: 04.不只是场梦.APE
+Time: 212
+Artist: 李玖哲
+Album: 不，完美
+Title: 不只是场梦
 Track: 4
-Date: 2005
-mtime: 1361601598
+Genre: POP
+Date: 2008
+mtime: 1234147614
 song_end
-end: 川嶋あい-絶望と希望
-directory: 平井.堅.-.[瞳をとじて].單曲.(mp3)
-mtime: 1366205828
-begin: 平井.堅.-.[瞳をとじて].單曲.(mp3)
-directory: 瞳をとじて
-mtime: 1147431464
-begin: 平井.堅.-.[瞳をとじて].單曲.(mp3)/瞳をとじて
-song_begin: 01 瞳をとじて .mp3
-Time: 343
-Artist: Æ½¾® Ô
-Title: Í«¤ò¤È¤¸¤Æ
-Album: Í«¤ò¤È¤¸¤Æ
-Track: 1
-Date: 2004
-Genre: Jp Pop
-mtime: 1147353063
-song_end
-song_begin: 02 DESPERADO.mp3
-Time: 245
-Artist: Æ½¾® Ô
-Title: DESPERADO
-Album: Í«¤ò¤È¤¸¤Æ
-Track: 2
-Date: 2004
-Genre: Jp Pop
-mtime: 1147267287
-song_end
-song_begin: 03 瞳をとじて(less vocal) .mp3
-Time: 341
-Artist: Æ½¾® Ô
-Title: Í«¤ò¤È¤¸¤Æ less vocal
-Album: Í«¤ò¤È¤¸¤Æ
-Track: 3
-Date: 2004
-Genre: Jp Pop
-mtime: 1147353669
-song_end
-end: 平井.堅.-.[瞳をとじて].單曲.(mp3)/瞳をとじて
-end: 平井.堅.-.[瞳をとじて].單曲.(mp3)
-directory: 新垣結衣(Aragaki.Yui).-.[小さな恋のうた]
-mtime: 1365177229
-begin: 新垣結衣(Aragaki.Yui).-.[小さな恋のうた]
-directory: 新垣結衣 - 小さな恋のうた (2009.11.06)
-mtime: 1365420902
-begin: 新垣結衣(Aragaki.Yui).-.[小さな恋のうた]/新垣結衣 - 小さな恋のうた (2009.11.06)
-song_begin: 新垣結衣-小さな恋のうた.ape
-Time: 324
-Artist: 新垣結衣
-Album: 小さな恋のうた
-Title: 小さな恋のうた
-Track: 03
-Genre: Pop
-Date: 2010
-mtime: 1365177231
-song_end
-end: 新垣結衣(Aragaki.Yui).-.[小さな恋のうた]/新垣結衣 - 小さな恋のうた (2009.11.06)
-end: 新垣結衣(Aragaki.Yui).-.[小さな恋のうた]
-directory: 新垣结衣(Aragaki.Yui).-.[赤い糸].单曲.(FLAC)
-mtime: 1309272450
-begin: 新垣结衣(Aragaki.Yui).-.[赤い糸].单曲.(FLAC)
-song_begin: 01.赤い糸.flac
-Time: 384
-mtime: 1309240988
-song_end
-song_begin: 02.つないだ手.flac
-Time: 293
-mtime: 1309241028
-song_end
-song_begin: 03.あいたい.flac
-Time: 269
-mtime: 1309241042
-song_end
-song_begin: 04赤い糸(naked voice ver.).flac
-Time: 189
-mtime: 1309241052
-song_end
-song_begin: 05.赤い糸（instrumental）.flac
-Time: 382
-mtime: 1309241070
-song_end
-end: 新垣结衣(Aragaki.Yui).-.[赤い糸].单曲.(FLAC)
-directory: 星村麻衣(Mai.Hoshimura).-.[MY.LIFE].专辑.(FLAC)
-mtime: 1365177231
-begin: 星村麻衣(Mai.Hoshimura).-.[MY.LIFE].专辑.(FLAC)
-directory: MY LIFE
-mtime: 1365177243
-begin: 星村麻衣(Mai.Hoshimura).-.[MY.LIFE].专辑.(FLAC)/MY LIFE
-song_begin: 01. 青空スケッチ.flac
-Time: 270
-Title: 青空スケッチ
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 01
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177232
-song_end
-song_begin: 02. 瞬間、ストロボ。.flac
-Time: 264
-Title: 瞬間、ストロボ。
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 02
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177233
-song_end
-song_begin: 03. ひかり.flac
-Time: 320
-Title: ひかり
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 03
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177234
-song_end
-song_begin: 04. The Best Of My Life.flac
-Time: 265
-Title: The Best Of My Life
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 04
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177235
-song_end
-song_begin: 05. Popping.flac
-Time: 232
-Title: Popping
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 05
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177236
-song_end
-song_begin: 06. 桜日和.flac
-Time: 261
-Title: 桜日和
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 06
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177237
-song_end
-song_begin: 07. ゆびきり.flac
-Time: 317
-Title: ゆびきり
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 07
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177238
-song_end
-song_begin: 08. Crash!.flac
-Time: 217
-Title: Crash!
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 08
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177239
-song_end
-song_begin: 09. regret.flac
-Time: 256
-Title: regret
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 09
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177240
-song_end
-song_begin: 10. Flower.flac
-Time: 239
-Title: Flower
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 10
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177241
-song_end
-song_begin: 11. かけがえのない人へ.flac
-Time: 268
-Title: かけがえのない人へ
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 11
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177242
-song_end
-song_begin: 12. そっと、さよなら.flac
-Time: 242
-Title: 桜日和
-Artist: 星村麻衣
-Album: MY LIFE
-Genre: JPop
-Track: 12
-Date: 2008-09-17
-AlbumArtist: Hoshimura Mai
-mtime: 1365177243
-song_end
-end: 星村麻衣(Mai.Hoshimura).-.[MY.LIFE].专辑.(FLAC)/MY LIFE
-end: 星村麻衣(Mai.Hoshimura).-.[MY.LIFE].专辑.(FLAC)
-directory: 松下優也(Matsushita.Yuya).-.[SEE.YOU].单曲.(FLAC)
-mtime: 1368629135
-begin: 松下優也(Matsushita.Yuya).-.[SEE.YOU].单曲.(FLAC)
-song_begin: 松下優也(Matsushita.Yuya).-.[SEE.YOU].单曲.(FLAC).flac
-Time: 899
-mtime: 1366887683
-song_end
-playlist_begin: 松下優也(Matsushita.Yuya).-.[SEE.YOU].单曲.(FLAC).cue
-mtime: 1366887659
-playlist_end
-end: 松下優也(Matsushita.Yuya).-.[SEE.YOU].单曲.(FLAC)
-directory: 松下優也(Matsushita.Yuya).-.[Trust.me]
-mtime: 1365179830
-begin: 松下優也(Matsushita.Yuya).-.[Trust.me]
-directory: 松下優也(Matsushita Yuya).-.[Trust me].单曲.(MP3)
-mtime: 1365179830
-begin: 松下優也(Matsushita.Yuya).-.[Trust.me]/松下優也(Matsushita Yuya).-.[Trust me].单曲.(MP3)
-directory: 松下優也 - Trust me
-mtime: 1366630655
-begin: 松下優也(Matsushita.Yuya).-.[Trust.me]/松下優也(Matsushita Yuya).-.[Trust me].单曲.(MP3)/松下優也 - Trust me
-song_begin: 01 Trust Me.mp3
-Time: 280
-Artist: 松下優也
-Title: Trust Me
-Album: Trust Me
-Track: 1/4
-Date: 2010
-Genre: R&B
-mtime: 1365179831
-song_end
-song_begin: 02 ふたり.mp3
-Time: 299
-Artist: 松下優也
-Title: ふたり
-Album: Trust Me
-Track: 2/4
-Date: 2010
-Genre: R&B
-mtime: 1365179831
-song_end
-song_begin: 03 Trust Me (Instrumental).mp3
-Time: 280
-Artist: 松下優也
-Title: Trust Me (Instrumental)
-Album: Trust Me
-Track: 3/4
-Date: 2010
-Genre: R&B
-mtime: 1365179832
-song_end
-song_begin: 04 ふたり (Instrumental).mp3
-Time: 299
-Artist: 松下優也
-Title: ふたり (Instrumental)
-Album: Trust Me
-Track: 4/4
-Date: 2010
-Genre: R&B
-mtime: 1365179832
-song_end
-end: 松下優也(Matsushita.Yuya).-.[Trust.me]/松下優也(Matsushita Yuya).-.[Trust me].单曲.(MP3)/松下優也 - Trust me
-end: 松下優也(Matsushita.Yuya).-.[Trust.me]/松下優也(Matsushita Yuya).-.[Trust me].单曲.(MP3)
-end: 松下優也(Matsushita.Yuya).-.[Trust.me]
-directory: 松下優也(Yuya.Matsushita).-.[I.AM.ME]
-mtime: 1365179832
-begin: 松下優也(Yuya.Matsushita).-.[I.AM.ME]
-directory: Yuya Matsushita - I AM ME
-mtime: 1365179837
-begin: 松下優也(Yuya.Matsushita).-.[I.AM.ME]/Yuya Matsushita - I AM ME
-song_begin: 01 Prologue -I AM ME-.mp3
-Time: 35
-Artist: 松下優也
-Title: Prologue -I AM ME-
-Album: I AM ME
-Track: 1
-Date: 2010
-Genre: Pop
-mtime: 1365179832
-song_end
-song_begin: 02 YOU.mp3
-Time: 252
-Artist: 松下優也
-Title: YOU
-Album: I AM ME
-Track: 2
-Date: 2010
-Genre: Pop
-mtime: 1365179832
-song_end
-song_begin: 03 foolish foolish.mp3
-Time: 269
-Artist: 松下優也
-Title: foolish foolish
-Album: I AM ME
-Track: 3
-Date: 2010
-Genre: Pop
-mtime: 1365179833
-song_end
-song_begin: 04 Interlude I.mp3
-Time: 39
-Artist: 松下優也
-Title: Interlude I
-Album: I AM ME
-Track: 4
-Date: 2010
-Genre: Pop
-mtime: 1365179833
-song_end
-song_begin: 05 Mr Broken Heart.mp3
-Time: 218
-Artist: 松下優也
-Title: Mr. "Broken Heart"
-Album: I AM ME
+song_begin: 05.坏习惯.APE
+Time: 227
+Artist: 李玖哲
+Album: 不，完美
+Title: 坏习惯
 Track: 5
-Date: 2010
-Genre: Pop
-mtime: 1365179833
+Genre: POP
+Date: 2008
+mtime: 1234147620
 song_end
-song_begin: 06 LAST SNOW.mp3
-Time: 287
-Artist: 松下優也
-Title: LAST SNOW
-Album: I AM ME
+song_begin: 06.死结.APE
+Time: 274
+Artist: 李玖哲
+Album: 不，完美
+Title: 死结
 Track: 6
-Date: 2010
-Genre: Pop
-mtime: 1365179833
+Genre: POP
+Date: 2008
+mtime: 1379996572
 song_end
-song_begin: 07 Koe ni Naranakute feat. Sista.mp3
-Time: 245
-Artist: 松下優也 Feat. Sista
-Title: 声にならなくて
-Album: I AM ME
+song_begin: 07.顽皮鬼.APE
+Time: 214
+Artist: 李玖哲
+Album: 不，完美
+Title: 顽皮鬼
 Track: 7
-Date: 2010
-Genre: Pop
-mtime: 1365179834
+Genre: POP
+Date: 2008
+mtime: 1234147638
 song_end
-song_begin: 08 Agitation.mp3
-Time: 257
-Artist: 松下優也
-Title: Agitation
-Album: I AM ME
+song_begin: 08.你不懂我的明白.APE
+Time: 199
+Artist: 李玖哲/Jae Chong
+Album: 不，完美
+Title: 你不懂我的明白
 Track: 8
-Date: 2010
-Genre: Pop
-mtime: 1365179834
-song_end
-song_begin: 09 Interlude II.mp3
-Time: 37
-Artist: 松下優也
-Title: Interlude II
-Album: I AM ME
-Track: 9
-Date: 2010
-Genre: Pop
-mtime: 1365179832
-song_end
-song_begin: 10 Koe ni Naranakute feat. Sista.mp3
-Time: 293
-Artist: 松下優也
-Title: ふたり
-Album: I AM ME
-Track: 10
-Date: 2010
-Genre: Pop
-mtime: 1365179834
-song_end
-song_begin: 11 Negai ga Kanau Kara (Album version).mp3
-Time: 297
-Artist: 松下優也
-Title: 願いがかなうなら… (Album version)
-Album: I AM ME
-Track: 11
-Date: 2010
-Genre: Pop
-mtime: 1365179835
-song_end
-song_begin: 12 Trust Me.mp3
-Time: 275
-Artist: 松下優也
-Title: Trust Me
-Album: I AM ME
-Track: 12
-Date: 2010
-Genre: Pop
-mtime: 1365179835
-song_end
-song_begin: 13 first snow.mp3
-Time: 308
-Artist: 松下優也 Feat. Sista
-Title: first snow
-Album: I AM ME
-Track: 13
-Date: 2010
-Genre: Pop
-mtime: 1365179836
-song_end
-song_begin: 14 Sono Toki Made no Sayonara.mp3
-Time: 310
-Artist: 松下優也
-Title: その時までのサヨナラ
-Album: I AM ME
-Track: 14
-Date: 2010
-Genre: Pop
-mtime: 1365179836
-song_end
-song_begin: 15 Interlude III.mp3
-Time: 46
-Artist: 松下優也
-Title: Interlude III
-Album: I AM ME
-Track: 15
-Date: 2010
-Genre: Pop
-mtime: 1365179836
-song_end
-song_begin: 16 Hallucination.mp3
-Time: 352
-Artist: 松下優也
-Title: Hallucination
-Album: I AM ME
-Track: 16
-Date: 2010
-Genre: Pop
-mtime: 1365179837
-song_end
-song_begin: 17 Kiss me.mp3
-Time: 267
-Artist: 松下優也
-Title: Kiss me
-Album: I AM ME
-Track: 17
-Date: 2010
-Genre: Pop
-mtime: 1365179837
-song_end
-song_begin: 18 Honesty.mp3
-Time: 298
-Artist: 松下優也
-Title: Honesty
-Album: I AM ME
-Track: 18
-Date: 2010
-Genre: Pop
-mtime: 1365179837
-song_end
-end: 松下優也(Yuya.Matsushita).-.[I.AM.ME]/Yuya Matsushita - I AM ME
-end: 松下優也(Yuya.Matsushita).-.[I.AM.ME]
-directory: 椎名林檎(Shiina.Ringo).-.[カーネーション].单曲.(FLAC)
-mtime: 1365179840
-begin: 椎名林檎(Shiina.Ringo).-.[カーネーション].单曲.(FLAC)
-song_begin: 01 カーネーション.flac
-Time: 181
-Album: カーネーション
-Artist: 椎名林檎
-Date: 2011
-Genre: JPop
-Title: カーネーション
-Track: 1
-mtime: 1365179840
-song_end
-song_begin: 02 私の愛するひと.flac
-Time: 182
-Album: カーネーション
-Artist: 椎名林檎
-Date: 2011
-Genre: JPop
-Title: 私の愛するひと
-Track: 2
-mtime: 1365179840
-song_end
-song_begin: 03 人生は思い通り.flac
-Time: 269
-Album: カーネーション
-Artist: 椎名林檎
-Date: 2011
-Genre: JPop
-Title: 人生は思い通り
-Track: 3
-mtime: 1365179841
-song_end
-end: 椎名林檎(Shiina.Ringo).-.[カーネーション].单曲.(FLAC)
-directory: 死神主题曲.-.[BLEACH][ED18.Single-Sky.chord〜大人になる君へ〜][辻詩音]
-mtime: 1365177997
-begin: 死神主题曲.-.[BLEACH][ED18.Single-Sky.chord〜大人になる君へ〜][辻詩音]
-directory: 死神主题曲-[BLEACH][ED18 Single-Sky chord〜大人になる君へ〜][辻詩音]单曲
-mtime: 1365177999
-begin: 死神主题曲.-.[BLEACH][ED18.Single-Sky.chord〜大人になる君へ〜][辻詩音]/死神主题曲-[BLEACH][ED18 Single-Sky chord〜大人になる君へ〜][辻詩音]单曲
-song_begin: 01.Sky chord~大人になる君へ~.mp3
-Time: 265
-Artist: ÞyÔÒô
-AlbumArtist: ÞyÔÒô
-Title: Sky chord~´óÈË¤Ë¤Ê¤ë¾ý¤Ø~
-Album: Sky chord〜大人になる君へ〜
-Track: 1
-Date: 2009
-Genre: J-POP
-mtime: 1365177998
-song_end
-song_begin: 02.Brand new day.mp3
-Time: 224
-Artist: ÞyÔÒô
-AlbumArtist: ÞyÔÒô
-Title: Brand new day
-Album: Sky chord〜大人になる君へ〜
-Track: 2
-Date: 2009
-Genre: J-POP
-mtime: 1365177998
-song_end
-song_begin: 03.Candy Kicks (Acoustic Version).mp3
-Time: 237
-Artist: ÞyÔÒô
-AlbumArtist: ÞyÔÒô
-Title: Candy Kicks (Acoustic Version)
-Album: Sky chord〜大人になる君へ〜
-Track: 3
-Date: 2009
-Genre: J-POP
-mtime: 1365177998
-song_end
-song_begin: 04.Sky chord ~大人になる君へ~(Instrumental).mp3
-Time: 264
-Artist: ÞyÔÒô
-AlbumArtist: ÞyÔÒô
-Title: Sky chord~´óÈË¤Ë¤Ê¤ë¾ý¤Ø~ (Instrumental)
-Album: Sky chord〜大人になる君へ〜
-Track: 4
-Date: 2009
-Genre: J-POP
-mtime: 1365177999
-song_end
-end: 死神主题曲.-.[BLEACH][ED18.Single-Sky.chord〜大人になる君へ〜][辻詩音]/死神主题曲-[BLEACH][ED18 Single-Sky chord〜大人になる君へ〜][辻詩音]单曲
-end: 死神主题曲.-.[BLEACH][ED18.Single-Sky.chord〜大人になる君へ〜][辻詩音]
-directory: 死神主题曲.-.[BLEACH][ED2.Single-サンキュー!!][HOME.MADE.家族].单曲.(MP3)
-mtime: 1367035557
-begin: 死神主题曲.-.[BLEACH][ED2.Single-サンキュー!!][HOME.MADE.家族].单曲.(MP3)
-song_begin: 01 - サンキュー!!.mp3
-Time: 254
-Artist: HOME MADE ¼Ò×å
-Title: ¥µ¥ó¥­¥å©`!!
-Album: ¥µ¥ó¥­¥å©`!!
-Track: 1
-mtime: 1229842694
-song_end
-song_begin: 02 - HOME SWEET HOME(Reborn).mp3
-Time: 270
-Artist: HOME MADE ¼Ò×å
-Title: HOME SWEET HOME(Reborn)
-Album: ¥µ¥ó¥­¥å©`!!
-Track: 2
-mtime: 1229842750
-song_end
-end: 死神主题曲.-.[BLEACH][ED2.Single-サンキュー!!][HOME.MADE.家族].单曲.(MP3)
-directory: 水樹奈々(Mizuki.Nana).-.[ROCKBOUND.NEIGHBORS].专辑.(FLAC)
-mtime: 1356668333
-begin: 水樹奈々(Mizuki.Nana).-.[ROCKBOUND.NEIGHBORS].专辑.(FLAC)
-song_begin: 01. アヴァロンの王冠.flac
-Time: 311
-mtime: 1356666902
-song_end
-song_begin: 02. Naked Soldier.flac
-Time: 225
-mtime: 1356667862
-song_end
-song_begin: 03. Get my drift？.flac
-Time: 196
-mtime: 1356668319
-song_end
-song_begin: 04. Lovely Fruit.flac
-Time: 231
-mtime: 1356667414
-song_end
-song_begin: 05. ダーリンプラスティック.flac
-Time: 268
-mtime: 1356666233
-song_end
-song_begin: 06. BRIGHT STREAM.flac
-Time: 252
-mtime: 1356665685
-song_end
-song_begin: 07. 星屑シンフォニー.flac
-Time: 260
-mtime: 1356661529
-song_end
-song_begin: 08. LINKAGE.flac
-Time: 268
-mtime: 1356662458
-song_end
-song_begin: 09. STAR ROAD.flac
-Time: 276
-mtime: 1356662011
-song_end
-song_begin: 10. Synchrogazer -Aufwachen Form-.flac
-Time: 322
-mtime: 1356663072
-song_end
-song_begin: 11. Crescent Child.flac
-Time: 251
-mtime: 1356663532
-song_end
-song_begin: 12. 奇跡のメロディア.flac
-Time: 252
-mtime: 1356664559
-song_end
-song_begin: 13. METRO BAROQUE.flac
-Time: 273
-mtime: 1356664468
-song_end
-song_begin: 14. Happy☆Go-Round!.flac
-Time: 254
-mtime: 1356664201
-song_end
-song_begin: 15. Sacred Force -Extended Mix-.flac
-Time: 267
-mtime: 1356665140
-song_end
-song_begin: 16. 約束.flac
-Time: 299
-mtime: 1356664706
-song_end
-end: 水樹奈々(Mizuki.Nana).-.[ROCKBOUND.NEIGHBORS].专辑.(FLAC)
-directory: 水樹奈々(Nana.Mizuki).-.[BRIGHT.STREAM].单曲.(AAC)
-mtime: 1365178018
-begin: 水樹奈々(Nana.Mizuki).-.[BRIGHT.STREAM].单曲.(AAC)
-directory: 水樹奈々(Nana.Mizuki).-.[BRIGHT.STREAM].单曲.(AAC)
-mtime: 1365178018
-begin: 水樹奈々(Nana.Mizuki).-.[BRIGHT.STREAM].单曲.(AAC)/水樹奈々(Nana.Mizuki).-.[BRIGHT.STREAM].单曲.(AAC)
-song_begin: 01 BRIGHT STREAM.m4a
-Time: 251
-Track: 1
-Album: BRIGHT STREAM
-Artist: 水樹奈々
-Title: BRIGHT STREAM
-Date: 2012
-mtime: 1365178018
-song_end
-song_begin: 02 FEARLESS HERO.m4a
-Time: 257
-Track: 2
-Album: BRIGHT STREAM
-Artist: 水樹奈々
-Title: FEARLESS HERO
-Date: 2012
-mtime: 1365178018
-song_end
-song_begin: 03 Sacred Force.m4a
-Time: 187
-Track: 3
-Album: BRIGHT STREAM
-Artist: 水樹奈々
-Title: Sacred Force
-Date: 2012
-mtime: 1365178019
-song_end
-end: 水樹奈々(Nana.Mizuki).-.[BRIGHT.STREAM].单曲.(AAC)/水樹奈々(Nana.Mizuki).-.[BRIGHT.STREAM].单曲.(AAC)
-end: 水樹奈々(Nana.Mizuki).-.[BRIGHT.STREAM].单曲.(AAC)
-directory: 水樹奈々(Nana.Mizuki).-.[TIME.SPACE.EP].单曲.(FLAC)
-mtime: 1365178019
-begin: 水樹奈々(Nana.Mizuki).-.[TIME.SPACE.EP].单曲.(FLAC)
-song_begin: 水樹奈々(Nana.Mizuki).-.[TIME.SPACE.EP].单曲.(FLAC).flac
-Time: 961
-mtime: 1365178022
-song_end
-playlist_begin: 水樹奈々(Nana.Mizuki).-.[TIME.SPACE.EP].单曲.(FLAC).cue
-mtime: 1365178019
-playlist_end
-end: 水樹奈々(Nana.Mizuki).-.[TIME.SPACE.EP].单曲.(FLAC)
-directory: 沢井美空(Miku Sawai).-.[あたし、今日、失恋しました。].单曲.(MP3)
-mtime: 1306074688
-begin: 沢井美空(Miku Sawai).-.[あたし、今日、失恋しました。].单曲.(MP3)
-directory: あたし、今日、失恋しました。(2011.05.11)
-mtime: 1306074670
-begin: 沢井美空(Miku Sawai).-.[あたし、今日、失恋しました。].单曲.(MP3)/あたし、今日、失恋しました。(2011.05.11)
-song_begin: 01 あたし、今日、失恋しました。.mp3
-Time: 224
-Artist: g¾®ÃÀ¿Õ
-Title: ¤¢¤¿¤·¡¢½ñÈÕ¡¢Ê§Áµ¤·¤Þ¤·¤¿¡£
-Album: ¤¢¤¿¤·¡¢½ñÈÕ¡¢Ê§Áµ¤·¤Þ¤·¤¿¡£
-Track: 1
-Date: 2011
-mtime: 1306074681
-song_end
-song_begin: 02 ばいばいサヨナラただのヒト.mp3
-Time: 278
-Artist: g¾®ÃÀ¿Õ
-Title: ¤Ð¤¤¤Ð¤¤¥µ¥è¥Ê¥é¤¿¤À¤Î¥Ò¥È
-Album: ¤¢¤¿¤·¡¢½ñÈÕ¡¢Ê§Áµ¤·¤Þ¤·¤¿¡£
-Track: 2
-Date: 2011
-mtime: 1306074681
-song_end
-song_begin: 03 あの子のキミ.mp3
-Time: 295
-Artist: g¾®ÃÀ¿Õ
-Title: ¤¢¤Î×Ó¤Î¥­¥ß
-Album: ¤¢¤¿¤·¡¢½ñÈÕ¡¢Ê§Áµ¤·¤Þ¤·¤¿¡£
-Track: 3
-Date: 2011
-mtime: 1306074681
-song_end
-song_begin: 04 あたし、今日、失恋しました。 (Instrumental).mp3
-Time: 221
-Artist: g¾®ÃÀ¿Õ
-Title: ¤¢¤¿¤·¡¢½ñÈÕ¡¢Ê§Áµ¤·¤Þ¤·¤¿¡£ (
-Album: ¤¢¤¿¤·¡¢½ñÈÕ¡¢Ê§Áµ¤·¤Þ¤·¤¿¡£
-Track: 4
-Date: 2011
-mtime: 1306074681
-song_end
-end: 沢井美空(Miku Sawai).-.[あたし、今日、失恋しました。].单曲.(MP3)/あたし、今日、失恋しました。(2011.05.11)
-end: 沢井美空(Miku Sawai).-.[あたし、今日、失恋しました。].单曲.(MP3)
-directory: 沢井美空(Sawai Miku).-.[卒業メモリーズ~サヨナラ、あなた。~].单曲.(MP3)
-mtime: 1333355766
-begin: 沢井美空(Sawai Miku).-.[卒業メモリーズ~サヨナラ、あなた。~].单曲.(MP3)
-song_begin: 01.卒業メモリーズ~サヨナラ、あなた。~.mp3
-Time: 356
-Artist: g¾®ÃÀ¿Õ
-Title: ×äI¥á¥â¥ê©`¥º~¥µ¥è¥Ê¥é¡¢¤¢¤Ê¤¿¡£~
-Album: ×äI¥á¥â¥ê©`¥º~¥µ¥è¥Ê¥é¡¢¤¢¤Ê¤¿¡£~
-Track: 1
-Date: 2012
-Genre: Jpop
-mtime: 1333355988
-song_end
-song_begin: 02.愛しい人.mp3
-Time: 258
-Artist: g¾®ÃÀ¿Õ
-Title: Û¤·¤¤ÈË
-Album: ×äI¥á¥â¥ê©`¥º~¥µ¥è¥Ê¥é¡¢¤¢¤Ê¤¿¡£~
-Track: 2
-Date: 2012
-Genre: Jpop
-mtime: 1333355998
-song_end
-song_begin: 03.青空恋模様.mp3
-Time: 245
-Artist: g¾®ÃÀ¿Õ
-Title: Çà¿ÕÁµÄ£
-Album: ×äI¥á¥â¥ê©`¥º~¥µ¥è¥Ê¥é¡¢¤¢¤Ê¤¿¡£~
-Track: 3
-Date: 2012
-Genre: Jpop
-mtime: 1333356010
-song_end
-song_begin: 04.卒業メモリーズ~サヨナラ、あなた。~ (Instrumental).mp3
-Time: 353
-Artist: g¾®ÃÀ¿Õ
-Title: ×äI¥á¥â¥ê©`¥º~¥µ¥è¥Ê¥é¡¢¤¢¤Ê¤¿¡£~ (Instrumental)
-Album: ×äI¥á¥â¥ê©`¥º~¥µ¥è¥Ê¥é¡¢¤¢¤Ê¤¿¡£~
-Track: 4
-Date: 2012
-Genre: Jpop
-mtime: 1333356022
-song_end
-end: 沢井美空(Sawai Miku).-.[卒業メモリーズ~サヨナラ、あなた。~].单曲.(MP3)
-directory: 沢井美空(Sawai.Miku).-.[指輪～あたし、今日、結婚します。～].单曲.(MP3)
-mtime: 1367051823
-begin: 沢井美空(Sawai.Miku).-.[指輪～あたし、今日、結婚します。～].单曲.(MP3)
-song_begin: 01. Ö¸Ý¡«¤¢¤¿¤·¡¢½ñÈÕ¡¢½Y»é¤·¤Þ¤¹¡£¡«.mp3
-Time: 385
-Artist: 沢井 美空
-Title: 指輪～あたし、今日、結婚します。～
-Album: 指輪～あたし、今日、結婚します。～
-Track: 1
-Composer: 吾郷水木生
-Disc: 1
-mtime: 1352271043
-song_end
-song_begin: 02. ¥À©`¥ê¥ó.mp3
-Time: 249
-Artist: 沢井 美空
-Title: ダーリン
-Album: 指輪～あたし、今日、結婚します。～
-Track: 2
-Composer: 沢井美空
-Disc: 1
-mtime: 1352271038
-song_end
-song_begin: 03. ¥Ò¥È¥·¥º¥¯.mp3
-Time: 251
-Artist: 沢井 美空
-Title: ヒトシズク
-Album: 指輪～あたし、今日、結婚します。～
-Track: 3
-Composer: 沢井美空
-Disc: 1
-mtime: 1352271038
-song_end
-end: 沢井美空(Sawai.Miku).-.[指輪～あたし、今日、結婚します。～].单曲.(MP3)
-directory: 清水翔太(Shimizu.Shota).-.[Umbrella].专辑.(FLAC)
-mtime: 1365178050
-begin: 清水翔太(Shimizu.Shota).-.[Umbrella].专辑.(FLAC)
-song_begin: 清水翔太(Shimizu.Shota).-.[Umbrella].专辑.(FLAC).flac
-Time: 3952
-mtime: 1365178065
-song_end
-playlist_begin: 清水翔太(Shimizu.Shota).-.[Umbrella].专辑.(FLAC).cue
-mtime: 1365178050
-playlist_end
-end: 清水翔太(Shimizu.Shota).-.[Umbrella].专辑.(FLAC)
-directory: 清水翔太(Shimizu.Shota).-.[love].单曲.(FLAC)
-mtime: 1309771992
-begin: 清水翔太(Shimizu.Shota).-.[love].单曲.(FLAC)
-song_begin: 01.love.flac
-Time: 348
-mtime: 1309706281
-song_end
-song_begin: 02.Song for you.flac
-Time: 296
-mtime: 1309706280
-song_end
-song_begin: 03.まっすぐに.flac
-Time: 281
-mtime: 1309706290
-song_end
-song_begin: 04.love -instrumental-.flac
-Time: 345
-mtime: 1309706290
-song_end
-end: 清水翔太(Shimizu.Shota).-.[love].单曲.(FLAC)
-directory: 清水翔太x加藤ミリヤ-FOREVER.LOVE
-mtime: 1366727000
-begin: 清水翔太x加藤ミリヤ-FOREVER.LOVE
-song_begin: 01 FOREVER LOVE.mp3
-Time: 351
-Artist: ´ãÄ¾~Á¡~
-Title: FOREVER LOVE
-Album: FOREVER LOVE
-Track: 1
-Date: 2010
-Genre: JPop
-mtime: 1361601500
-song_end
-song_begin: 02 Jewelry.mp3
-Time: 300
-Artist: ´ãÄ¾~Á¡~
-Title: Jewelry
-Album: FOREVER LOVE
-Track: 2
-Date: 2010
-Genre: JPop
-mtime: 1361601504
-song_end
-song_begin: 03 Love Forever～Happy Wedding Remix～.mp3
-Time: 337
-Artist: ´ãÄ¾~Á¡~
-Title: Love Forever`Happy Wedding Remix`
-Album: FOREVER LOVE
-Track: 3
-Date: 2010
-Genre: JPop
-mtime: 1361601506
-song_end
-song_begin: 04 FOREVER LOVE(Instrumental).mp3
-Time: 348
-Artist: ´ãÄ¾~Á¡~
-Title: FOREVER LOVE(Instrumental)
-Album: FOREVER LOVE
-Track: 4
-Date: 2010
-Genre: JPop
-mtime: 1361601508
-song_end
-end: 清水翔太x加藤ミリヤ-FOREVER.LOVE
-directory: 灌篮高手主题曲.-.[SLAM.DUNK][OP1.Single－君が好きだと叫びたい][BAAD].单曲.(FLAC)
-mtime: 1368102459
-begin: 灌篮高手主题曲.-.[SLAM.DUNK][OP1.Single－君が好きだと叫びたい][BAAD].单曲.(FLAC)
-song_begin: BAAD - 君が好きだと叫びたい.flac
-Time: 732
-Album: 君が好きだと叫びたい
-Artist: BAAD
-Track: 02
-Title: テイク?マイ?デザイアー
-Date: 1994
-Genre: JPop
-mtime: 1232368870
-song_end
-playlist_begin: BAAD - 君が好きだと叫びたい.cue
-mtime: 1233215462
-playlist_end
-end: 灌篮高手主题曲.-.[SLAM.DUNK][OP1.Single－君が好きだと叫びたい][BAAD].单曲.(FLAC)
-directory: 火影忍者疾风传主题曲.-.[NARUTO.Shippuuden][OP3.Single-ブルーバード][いきものがかり].单曲.(FLAC)
-mtime: 1368085792
-begin: 火影忍者疾风传主题曲.-.[NARUTO.Shippuuden][OP3.Single-ブルーバード][いきものがかり].单曲.(FLAC)
-song_begin: 01 BLUE BIRD.flac
-Time: 219
-Title: BLUE BIRD
-Artist: ikimono-gakari
-Album: Naruto Shippuuden OP3 Single - BLUE BIRD
-Genre: Anime
+Genre: POP
 Date: 2008
-Track: 01
-mtime: 1215452406
+mtime: 1234147926
 song_end
-song_begin: 02 Natsuiro Wakusei.flac
-Time: 258
-Title: Natsuiro Wakusei
-Artist: ikimono-gakari
-Album: Naruto Shippuuden OP3 Single - BLUE BIRD
-Genre: Anime
-Date: 2008
-Track: 02
-mtime: 1215452414
-song_end
-song_begin: 03 BLUE BIRD -instrumental-.flac
-Time: 216
-Title: BLUE BIRD -instrumental-
-Artist: ikimono-gakari
-Album: Naruto Shippuuden OP3 Single - BLUE BIRD
-Genre: Anime
-Date: 2008
-Track: 03
-mtime: 1215452421
-song_end
-end: 火影忍者疾风传主题曲.-.[NARUTO.Shippuuden][OP3.Single-ブルーバード][いきものがかり].单曲.(FLAC)
-directory: 牧野由依(Makino.Yui).-.[ふわふわ_.].单曲.(MP3)
-mtime: 1365179777
-begin: 牧野由依(Makino.Yui).-.[ふわふわ_.].单曲.(MP3)
-song_begin: 牧野由依 - ふわふわ_.mp3
-Time: 286
-Artist: ÄÁÒ°ÓÉÒÀ
-Title: ¤Õ¤ï¤Õ¤ï?
-Album: ¤Õ¤ï¤Õ¤ï
-Track: 1
-mtime: 1365179777
-song_end
-song_begin: 牧野由依 - the never ending rainbows.mp3
-Time: 258
-Artist: ÄÁÒ°ÓÉÒÀ
-Title: the never ending rainbows
-Album: ¤Õ¤ï¤Õ¤ï
-Track: 2
-mtime: 1365179776
-song_end
-song_begin: 牧野由依 - ふわふわ_(instrumental).mp3
-Time: 285
-Artist: ÄÁÒ°ÓÉÒÀ
-Title: ¤Õ¤ï¤Õ¤ï?(instrumental)
-Album: ¤Õ¤ï¤Õ¤ï
-Track: 3
-mtime: 1365179777
-song_end
-end: 牧野由依(Makino.Yui).-.[ふわふわ_.].单曲.(MP3)
-directory: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme].专辑.(FLAC)
-mtime: 1368365603
-begin: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme].专辑.(FLAC)
-directory: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD1].专辑.(FLAC)
-mtime: 1368365590
-begin: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme].专辑.(FLAC)/福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD1].专辑.(FLAC)
-song_begin: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD1].专辑.(FLAC).flac
-Time: 3089
-Artist: Fukuhara Miho
-Date: 2012
-Genre: Jpop
-mtime: 1365177255
-song_end
-playlist_begin: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD1].专辑.(FLAC).cue
-mtime: 1365177243
-playlist_end
-end: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme].专辑.(FLAC)/福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD1].专辑.(FLAC)
-directory: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD2].专辑.(FLAC)
-mtime: 1368365603
-begin: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme].专辑.(FLAC)/福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD2].专辑.(FLAC)
-song_begin: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD2].专辑.(FLAC).flac
-Time: 2253
-Artist: Fukuhara Miho
-Date: 2012
-Genre: Jpop
-mtime: 1365177262
-song_end
-playlist_begin: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD2].专辑.(FLAC).cue
-mtime: 1365177255
-playlist_end
-end: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme].专辑.(FLAC)/福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme.CD2].专辑.(FLAC)
-end: 福原美穂(Fukuhara.Miho).-.[The.Best.of.Soul.Extreme].专辑.(FLAC)
-directory: 福原美穗-let_it_out
-mtime: 1365179541
-begin: 福原美穗-let_it_out
-song_begin: 02 優しい赤 -another version-.mp3
-Time: 296
-Artist: ¸£Ô­ÃÀ·[
-Title: ¤·¤¤³à -another version-
-Album: LET IT OUT
-Track: 2
-Date: 2009
-mtime: 1365179541
-song_end
-song_begin: 03 BEN.mp3
-Time: 178
-Artist: ¸£Ô­ÃÀ·[
-Title: BEN
-Album: LET IT OUT
-Track: 3
-Date: 2009
-mtime: 1365179541
-song_end
-song_begin: 01 LET IT OUT.mp3
-Time: 260
-Artist: ¸£Ô­ÃÀ·[
-AlbumArtist: ¸£Ô­ÃÀ·[
-Title: LET IT OUT
-Album: LET IT OUT
-Track: 1/4
-Date: 2009
-Genre: J-Pop
-Composer: ¸£Ô­ÃÀ·[¡¢É½¿ÚÐÛ
-Disc: 1/1
-mtime: 1365179541
-song_end
-end: 福原美穗-let_it_out
-directory: 福原美穗-ひまわり
-mtime: 1365177263
-begin: 福原美穗-ひまわり
-song_begin: 01 ひまわり.m4a
-Time: 295
-Title: ひまわり
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: ひまわり
-Track: 1
-Disc: 1
-mtime: 1365177262
-song_end
-song_begin: 02 Everybody Needs Someone.m4a
-Time: 221
-Title: Everybody Needs Someone
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: ひまわり
-Track: 2
-Disc: 1
-mtime: 1365177262
-song_end
-song_begin: 03 No Warning (When You're Hit By Lo.m4a
-Time: 233
-Title: No Warning (When You're Hit By Love)
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: ひまわり
-Track: 3
-Disc: 1
-mtime: 1365177263
-song_end
-song_begin: 04 ひまわり(instrumental).m4a
-Time: 294
-Title: ひまわり(instrumental)
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: ひまわり
-Track: 4
-Disc: 1
-mtime: 1365177263
-song_end
-end: 福原美穗-ひまわり
-directory: 福原美穗-優しい赤
-mtime: 1365179562
-begin: 福原美穗-優しい赤
-song_begin: 01 優しい赤.m4a
-Time: 297
-Title: 優しい赤
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: 優しい赤
-Track: 1
-Disc: 1
-mtime: 1365179559
-song_end
-song_begin: 02 UPSIDE DOWN.m4a
+song_begin: 09.FOREVER.APE
 Time: 222
-Title: UPSIDE DOWN
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: 優しい赤
-Track: 2
-Disc: 1
-mtime: 1365179560
-song_end
-song_begin: 03 ひまわり(acoustic version).m4a
-Time: 314
-Title: ひまわり(acoustic version)
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: 優しい赤
-Track: 3
-Disc: 1
-mtime: 1365179560
-song_end
-song_begin: 04 優しい赤 -instrumental-.m4a
-Time: 295
-Title: 優しい赤 -instrumental-
-Artist: 福原美穂
-AlbumArtist: 福原美穂
-Album: 優しい赤
-Track: 4
-Disc: 1
-mtime: 1365179562
-song_end
-end: 福原美穗-優しい赤
-directory: 童子-T(Douzi-T).-.[12.Love.Stories].专辑
-mtime: 1365247397
-begin: 童子-T(Douzi-T).-.[12.Love.Stories].专辑
-directory: 童子-T-[12 Love Stories]
-mtime: 1365247400
-begin: 童子-T(Douzi-T).-.[12.Love.Stories].专辑/童子-T-[12 Love Stories]
-song_begin: 01. もう一度… feat.BENI.mp3
-Time: 288
-Artist: Í¯×Ó-T
-Title: ¤â¤¦Ò»¶È¡­ feat.BENI
-Album: 12 Love Stories
-Track: 1
-Date: 2008
-Genre: JPop
-mtime: 1365177269
-song_end
-song_begin: 02. better days feat.加藤ミリヤ,田中ロウマ.mp3
-Time: 283
-Artist: Í¯×Ó-T
-Title: better days feat.¼ÓÌÙ¥ß¥ê¥ä,Ìï
-Album: 12 Love Stories
-Track: 2
-Date: 2008
-Genre: JPop
-mtime: 1365177269
-song_end
-song_begin: 03. 約束の日 feat.青山テルマ.mp3
-Time: 339
-Artist: Í¯×Ó-T
-Title: ¼sÊø¤ÎÈÕ feat.ÇàÉ½¥Æ¥ë¥Þ
-Album: 12 Love Stories
-Track: 3
-Date: 2008
-Genre: JPop
-mtime: 1365177269
-song_end
-song_begin: 04. ONE LOVE feat.清水翔太.mp3
-Time: 246
-Artist: Í¯×Ó-T
-Title: ONE LOVE feat.ÇåË®ÏèÌ«
-Album: 12 Love Stories
-Track: 4
-Date: 2008
-Genre: JPop
-mtime: 1365177270
-song_end
-song_begin: 05. 願い feat.YU-A(Foxxi misQ).mp3
-Time: 341
-Artist: Í¯×Ó-T
-Title: î¤¤ feat.YU-A(Foxxi misQ)
-Album: 12 Love Stories
-Track: 5
-Date: 2008
-Genre: JPop
-mtime: 1365177270
-song_end
-song_begin: 06. アイノカチ feat.KREVA.mp3
-Time: 219
-Artist: Í¯×Ó-T
-Title: ¥¢¥¤¥Î¥«¥Á feat.KREVA
-Album: 12 Love Stories
-Track: 6
-Date: 2008
-Genre: JPop
-mtime: 1365177270
-song_end
-song_begin: 07. Good Night.mp3
-Time: 217
-Artist: Í¯×Ó-T
-Title: Good Night
-Album: 12 Love Stories
-Track: 7
-Date: 2008
-Genre: JPop
-mtime: 1365177271
-song_end
-song_begin: 08. In-mail feat.JUJU.mp3
-Time: 280
-Artist: Í¯×Ó-T
-Title: In-mail feat.JUJU
-Album: 12 Love Stories
-Track: 8
-Date: 2008
-Genre: JPop
-mtime: 1365177271
-song_end
-song_begin: 09. 実りある人生を.mp3
-Time: 331
-Artist: Í¯×Ó-T
-Title: g¤ê¤¢¤ëÈËÉú¤ò
-Album: 12 Love Stories
+Artist: 李玖哲
+Album: 不，完美
+Title: FOREVER
 Track: 9
+Genre: POP
 Date: 2008
-Genre: JPop
-mtime: 1365177271
+mtime: 1234147900
 song_end
-song_begin: 10. 光る未来 feat.加藤ミリヤ.mp3
-Time: 295
-Artist: Í¯×Ó-T
-Title: ¹â¤ëÎ´À´ feat.¼ÓÌÙ¥ß¥ê¥ä
-Album: 12 Love Stories
+song_begin: 10.预感.APE
+Time: 198
+Artist: 李玖哲/李冰冰
+Album: 不，完美
+Title: 预感(电影功夫之王中文主题曲)
 Track: 10
+Genre: POP
 Date: 2008
-Genre: JPop
-mtime: 1365177272
+mtime: 1234147940
 song_end
-song_begin: 11. 会いにいこう.mp3
-Time: 248
-Artist: Í¯×Ó-T
-Title: »á¤¤¤Ë¤¤¤³¤¦
-Album: 12 Love Stories
+end: 李玖哲/不,完美
+directory: 想太多
+mtime: 1382104262
+begin: 李玖哲/想太多
+song_begin: 想太多.ape
+Time: 2241
+mtime: 1193663382
+song_end
+playlist_begin: 想太多.cue
+mtime: 1193664862
+playlist_end
+end: 李玖哲/想太多
+end: 李玖哲
+directory: 林俊杰
+mtime: 1373314259
+begin: 林俊杰
+directory: 江南
+mtime: 1370123217
+begin: 林俊杰/江南
+song_begin: 01.一开始….ape
+Time: 60
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: Ò»¿ªÊ¼¡­
+Track: 1
+Genre: R&B
+Date: 2004
+mtime: 1135249176
+song_end
+song_begin: 02.江南.ape
+Time: 267
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: ½­ÄÏ
+Track: 2
+Genre: R&B
+Date: 2004
+mtime: 1135249480
+song_end
+song_begin: 03.子弹列车.ape
+Time: 204
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: ×Óµ¯ÁÐ³µ
+Track: 3
+Genre: R&B
+Date: 2004
+mtime: 1135249850
+song_end
+song_begin: 04.起床了.ape
+Time: 25
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: Æð´²ÁË
+Track: 4
+Genre: R&B
+Date: 2004
+mtime: 1135249866
+song_end
+song_begin: 05.豆浆油条.ape
+Time: 255
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: ¶¹½¬ÓÍÌõ
+Track: 5
+Genre: R&B
+Date: 2004
+mtime: 1135250166
+song_end
+song_begin: 06.害怕.ape
+Time: 282
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: º¦ÅÂ
+Track: 6
+Genre: R&B
+Date: 2004
+mtime: 1135250596
+song_end
+song_begin: 07.天使心.ape
+Time: 239
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: ÌìÊ¹ÐÄ
+Track: 7
+Genre: R&B
+Date: 2004
+mtime: 1135251008
+song_end
+song_begin: 08.森林浴.ape
+Time: 23
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: É­ÁÖÔ¡
+Track: 8
+Genre: R&B
+Date: 2004
+mtime: 1135251160
+song_end
+song_begin: 09.精灵.ape
+Time: 245
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: ¾«Áé
+Track: 9
+Genre: R&B
+Date: 2004
+mtime: 1135251428
+song_end
+song_begin: 10.相信无限.ape
+Time: 201
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: ÏàÐÅÎÞÏÞ
+Track: 10
+Genre: R&B
+Date: 2004
+mtime: 1135251814
+song_end
+song_begin: 11.美人鱼.ape
+Time: 254
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: ÃÀÈËÓã
 Track: 11
-Date: 2008
-Genre: JPop
-mtime: 1365177272
+Genre: R&B
+Date: 2004
+mtime: 1135252254
 song_end
-song_begin: 12. summer days feat.BENI('08 ver.).mp3
-Time: 285
-Artist: Í¯×Ó-T
-Title: summer days feat.BENI('08 ver.
-Album: 12 Love Stories
+song_begin: 12.距离.ape
+Time: 253
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: ¾àÀë
 Track: 12
-Date: 2008
-Genre: JPop
-mtime: 1365177272
+Genre: R&B
+Date: 2004
+mtime: 1135252654
 song_end
-song_begin: 13. 君だけを＜Remix＞(Bonus Track).mp3
-Time: 340
-Artist: Í¯×Ó-T
-Title: ¾ý¤À¤±¤ò£¼Remix£¾(Bonus Track)
-Album: 12 Love Stories
+song_begin: 13.未完成.ape
+Time: 21
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: Î´Íê³É
 Track: 13
-Date: 2008
-Genre: JPop
-mtime: 1365177273
+Genre: R&B
+Date: 2004
+mtime: 1135252804
 song_end
-end: 童子-T(Douzi-T).-.[12.Love.Stories].专辑/童子-T-[12 Love Stories]
-end: 童子-T(Douzi-T).-.[12.Love.Stories].专辑
-directory: 童子-T(Douzi-T).-.[もう一度….feat.BENI].单曲.(MP3)
-mtime: 1365177273
-begin: 童子-T(Douzi-T).-.[もう一度….feat.BENI].单曲.(MP3)
-directory: 童子-T-[もう一度… feat.BENI]
-mtime: 1365177274
-begin: 童子-T(Douzi-T).-.[もう一度….feat.BENI].单曲.(MP3)/童子-T-[もう一度… feat.BENI]
-song_begin: 01.もう一度… feat.BENI.mp3
-Time: 289
-Artist: Í¯×Ó-T feat.BENI
-Title: ¤â¤¦Ò»¶È¡­ feat.BENI
-Album: ¤â¤¦Ò»¶È¡­ feat.BENI
-Track: 1
-Date: 2008
-Genre: JPop
-mtime: 1365177273
+song_begin: 14.Endless Road.ape
+Time: 278
+Artist: ÁÖ¿¡½Ü
+Album: ½­ÄÏ
+Title: Endless Road
+Track: 14
+Genre: R&B
+Date: 2004
+mtime: 1135253102
 song_end
-song_begin: 02.ONE LOVE feat.清水翔太'[08ver.].mp3
-Time: 230
-Artist: Í¯×Ó-T feat. ÇåË®ÏèÌ«
-Title: ONE LOVE feat.ÇåË®ÏèÌ«'[08ver.
-Album: ¤â¤¦Ò»¶È¡­ feat.BENI
-Track: 2
+end: 林俊杰/江南
+end: 林俊杰
+directory: 江语晨
+mtime: 1381556880
+begin: 江语晨
+directory: 晴天娃娃
+mtime: 1382101438
+begin: 江语晨/晴天娃娃
+song_begin: 晴天娃娃.ape
+Time: 2320
 Date: 2008
-Genre: JPop
-mtime: 1365177274
+mtime: 1381590589
 song_end
-song_begin: 03.もう一度… feat.BENI-Instrumental-.mp3
-Time: 289
-Artist: Í¯×Ó-T feat. BENI
-Title: ¤â¤¦Ò»¶È¡­ feat.BENI-Instrumen
-Album: ¤â¤¦Ò»¶È¡­ feat.BENI
-Track: 3
-Date: 2008
-Genre: JPop
-mtime: 1365177274
-song_end
-song_begin: 04.ONE LOVE feat.清水翔太['08ver.] -Instrumental-.mp3
-Time: 228
-Artist: Í¯×Ó-T feat.ÇåË®ÏèÌ«
-Title: ONE LOVE feat.ÇåË®ÏèÌ«['08ver.
-Album: ¤â¤¦Ò»¶È¡­ feat.BENI
-Track: 4
-Date: 2008
-Genre: JPop
-mtime: 1365177274
-song_end
-end: 童子-T(Douzi-T).-.[もう一度….feat.BENI].单曲.(MP3)/童子-T-[もう一度… feat.BENI]
-end: 童子-T(Douzi-T).-.[もう一度….feat.BENI].单曲.(MP3)
-directory: 童子-T-[もう一度… feat.BENI]
-mtime: 1366727031
-begin: 童子-T-[もう一度… feat.BENI]
-song_begin: 01.もう一度… feat.BENI.mp3
-Time: 289
-Artist: Í¯×Ó-T feat.BENI
-Title: ¤â¤¦Ò»¶È¡­ feat.BENI
-Album: ¤â¤¦Ò»¶È¡­ feat.BENI
-Track: 1
-Date: 2008
-Genre: JPop
-mtime: 1362912268
-song_end
-song_begin: 02.ONE LOVE feat.清水翔太'[08ver.].mp3
-Time: 230
-Artist: Í¯×Ó-T feat. ÇåË®ÏèÌ«
-Title: ONE LOVE feat.ÇåË®ÏèÌ«'[08ver.
-Album: ¤â¤¦Ò»¶È¡­ feat.BENI
-Track: 2
-Date: 2008
-Genre: JPop
-mtime: 1362912270
-song_end
-song_begin: 03.もう一度… feat.BENI-Instrumental-.mp3
-Time: 289
-Artist: Í¯×Ó-T feat. BENI
-Title: ¤â¤¦Ò»¶È¡­ feat.BENI-Instrumen
-Album: ¤â¤¦Ò»¶È¡­ feat.BENI
-Track: 3
-Date: 2008
-Genre: JPop
-mtime: 1362912280
-song_end
-song_begin: 04.ONE LOVE feat.清水翔太['08ver.] -Instrumental-.mp3
-Time: 228
-Artist: Í¯×Ó-T feat.ÇåË®ÏèÌ«
-Title: ONE LOVE feat.ÇåË®ÏèÌ«['08ver.
-Album: ¤â¤¦Ò»¶È¡­ feat.BENI
-Track: 4
-Date: 2008
-Genre: JPop
-mtime: 1362912282
-song_end
-end: 童子-T-[もう一度… feat.BENI]
-directory: 苏打绿.-.[小宇宙].专辑.(APE)
-mtime: 1369347514
-begin: 苏打绿.-.[小宇宙].专辑.(APE)
-song_begin: 苏打绿-《小宇宙》专辑.ape
+playlist_begin: 晴天娃娃.cue
+mtime: 1381555711
+playlist_end
+end: 江语晨/晴天娃娃
+end: 江语晨
+directory: 苏打绿
+mtime: 1373314656
+begin: 苏打绿
+directory: 小宇宙
+mtime: 1382103873
+begin: 苏打绿/小宇宙
+song_begin: 小宇宙.ape
 Time: 2793
 mtime: 1182878087
 song_end
-playlist_begin: 苏打绿-《小宇宙》专辑.cue
+playlist_begin: 小宇宙.cue
 mtime: 1182879151
 playlist_end
-end: 苏打绿.-.[小宇宙].专辑.(APE)
-directory: 苏打绿.-.[苏打绿].专辑.(APE)
-mtime: 1368970696
-begin: 苏打绿.-.[苏打绿].专辑.(APE)
-song_begin: 苏打绿.-.[苏打绿].专辑.(APE).ape
+end: 苏打绿/小宇宙
+directory: 苏打绿
+mtime: 1382103894
+begin: 苏打绿/苏打绿
+song_begin: 苏打绿.ape
 Time: 3240
 Album: ËÕ´òÂÌ
 Title: C:\Users\¶¹¶¹\Desktop\ËÕ´òÂÌ
 Date: 2005
 mtime: 1368970582
 song_end
-playlist_begin: 苏打绿.-.[苏打绿].专辑.(APE).cue
+playlist_begin: 苏打绿.cue
 mtime: 1368970540
 playlist_end
-end: 苏打绿.-.[苏打绿].专辑.(APE)
-directory: 菅原紗由理 - [Final Fantasy XIII.Theme - 君がいるから]
-mtime: 1365178974
-begin: 菅原紗由理 - [Final Fantasy XIII.Theme - 君がいるから]
-directory: [YaKi] Sugawara Sayuri - Kimi ga iru kara [FLAC + cover]
-mtime: 1365178981
-begin: 菅原紗由理 - [Final Fantasy XIII.Theme - 君がいるから]/[YaKi] Sugawara Sayuri - Kimi ga iru kara [FLAC + cover]
-song_begin: 01 Kimi ga iru kara.flac
-Time: 355
-Artist: 菅原紗由理
-Title: 01 君がいるから
-mtime: 1365178976
+end: 苏打绿/苏打绿
+end: 苏打绿
+directory: 薛凯琪
+mtime: 1373314720
+begin: 薛凯琪
+directory: It's_My_Day
+mtime: 1382104473
+begin: 薛凯琪/It's_My_Day
+song_begin: Its.My.Day.ape
+Time: 2465
+mtime: 1371932530
 song_end
-song_begin: 02 Eternal Love.flac
-Time: 276
-Artist: 菅原紗由理
-Title: 02 Eternal Love
-mtime: 1365178977
-song_end
-song_begin: 03 Christmas Again.flac
-Time: 275
-Artist: 菅原紗由理
-Title: 03 Christmas Again
-mtime: 1365178978
-song_end
-song_begin: 04 Kimi ga iru kara (Instrumental).flac
-Time: 354
-Artist: 菅原紗由理
-Title: 04 君がいるから (Instrumental)
-mtime: 1365178979
-song_end
-song_begin: 05 Eternal Love (Instrumental).flac
-Time: 276
-Artist: 菅原紗由理
-Title: 05 Eternal Love (Instrumental)
-mtime: 1365178980
-song_end
-song_begin: 06 Christmas Again (Instrumental).flac
-Time: 272
-Artist: 菅原紗由理
-Title: 06 Christmas Again (Instrumental)
-mtime: 1365178981
-song_end
-end: 菅原紗由理 - [Final Fantasy XIII.Theme - 君がいるから]/[YaKi] Sugawara Sayuri - Kimi ga iru kara [FLAC + cover]
-end: 菅原紗由理 - [Final Fantasy XIII.Theme - 君がいるから]
-directory: 菅原紗由理(Sugawara.Sayuri).-.[First.Story].专辑.(FLAC)
-mtime: 1367290445
-begin: 菅原紗由理(Sugawara.Sayuri).-.[First.Story].专辑.(FLAC)
-song_begin: 菅原紗由理(Sugawara.Sayuri).-.[First.Story].专辑.(FLAC).flac
-Time: 3896
-mtime: 1365178996
-song_end
-playlist_begin: 菅原紗由理(Sugawara.Sayuri).-.[First.Story].专辑.(FLAC).cue
-mtime: 1367039265
+playlist_begin: Its.My.Day.cue
+mtime: 1371931354
 playlist_end
-end: 菅原紗由理(Sugawara.Sayuri).-.[First.Story].专辑.(FLAC)
-directory: 薄樱鬼主题曲.-.[Hakuoki][ED.Single.-.君ノ記憶][mao]
-mtime: 1365179219
-begin: 薄樱鬼主题曲.-.[Hakuoki][ED.Single.-.君ノ記憶][mao]
-song_begin: CDImage.ape
-Time: 1080
-mtime: 1365179219
-song_end
-playlist_begin: CDImage.ape.cue
-mtime: 1365179219
-playlist_end
-playlist_begin: CDImage.cue
-mtime: 1365179219
-playlist_end
-end: 薄樱鬼主题曲.-.[Hakuoki][ED.Single.-.君ノ記憶][mao]
-directory: 西野カナ(Nishino.Kana).-.[Distance].单曲.(FLAC)
-mtime: 1369561088
-begin: 西野カナ(Nishino.Kana).-.[Distance].单曲.(FLAC)
-song_begin: 1. Distance.flac
-Time: 229
-Title: Distance
-AlbumArtist: Kana Nishino
-Composer: MATS LIE SKARE, FAST LANE : HIRO DOI (NICHION)
-Album: Distance
-Artist: 西野カナ
-Genre: J-Pop/R&B
-Disc: 1/1
-Date: 2011
-Track: 1
-mtime: 1297282550
-song_end
-song_begin: 2. beloved.flac
-Time: 276
-Title: beloved
-AlbumArtist: Kana Nishino
-Composer: VIVID Neon* & Takashi Yamaguchi
-Album: Distance
-Artist: 西野カナ
-Genre: J-Pop/R&B
-Disc: 1/1
-Date: 2011
-Track: 2
-mtime: 1297282551
-song_end
-song_begin: 3. Call Me Up.flac
-Time: 205
-AlbumArtist: KanaNishino
-Title: Call Me Up
-Composer: HIRO
-Album: Distance
-Artist: 西野カナ
-Genre: J-Pop/R&B
-Disc: 1/1
-Date: 2011
-Track: 3
-mtime: 1297282550
-song_end
-end: 西野カナ(Nishino.Kana).-.[Distance].单曲.(FLAC)
-directory: 西野カナ(Nishino.Kana).-.[LOVE.one].专辑.(FLAC)
-mtime: 1369405839
-begin: 西野カナ(Nishino.Kana).-.[LOVE.one].专辑.(FLAC)
-song_begin: 西野カナ(Nishino.Kana).-.[LOVE.one].专辑.(FLAC).flac
-Time: 3351
-Playlist: yes
-Album: LOVE one.
-Artist: 西野カナ
-Date: 2009
-Genre: JPop
-mtime: 1365178113
-song_end
-playlist_begin: 西野カナ(Nishino.Kana).-.[LOVE.one].专辑.(FLAC).cue
-mtime: 1365178098
-playlist_end
-end: 西野カナ(Nishino.Kana).-.[LOVE.one].专辑.(FLAC)
-directory: 西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)
-mtime: 1365177384
-begin: 西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)
-directory: 西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)
-mtime: 1365177384
-begin: 西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)/西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)
-directory: Thank you,Love
-mtime: 1365177398
-begin: 西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)/西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)/Thank you,Love
-song_begin: 1. Prologue~Sunrise~.flac
-Time: 107
-Title: CD音轨01
-Track: 1
-mtime: 1365177384
-song_end
-song_begin: 2. Esperanza.flac
-Time: 324
-Title: CD音轨02
-Track: 2
-mtime: 1365177391
-song_end
-song_begin: 3. Clap Clap!! .flac
-Time: 213
-Title: CD音轨03
-Track: 3
-mtime: 1365177392
-song_end
-song_begin: 4. Together .flac
-Time: 316
-Title: CD音轨04
-Track: 4
-mtime: 1365177393
-song_end
-song_begin: 5. Distance .flac
-Time: 228
-Title: CD音轨05
-Track: 5
-mtime: 1365177394
-song_end
-song_begin: 6. I’ll be there.flac
-Time: 225
-Title: CD音轨06
-Track: 6
-mtime: 1365177395
-song_end
-song_begin: 7. Flower .flac
-Time: 354
-Title: CD音轨07
-Track: 7
-mtime: 1365177396
-song_end
-song_begin: 8. Every Boy Every Girl .flac
-Time: 257
-Title: CD音轨08
-Track: 8
-mtime: 1365177398
-song_end
-song_begin: 9. Where are you .flac
-Time: 199
-Title: CD音轨09
-Track: 9
-mtime: 1365177398
-song_end
-song_begin: 10. if .flac
-Time: 281
-Title: CD音轨10
-Track: 10
-mtime: 1365177385
-song_end
-song_begin: 11. Alright .flac
-Time: 304
-Title: CD音轨11
-Track: 11
-mtime: 1365177387
-song_end
-song_begin: 12. 君って.flac
-Time: 330
-Title: CD音轨12
-Track: 12
-mtime: 1365177388
-song_end
-song_begin: 13.Wishing .flac
-Time: 283
-Title: CD音轨13
-Track: 13
-mtime: 1365177389
-song_end
-song_begin: 14.Epilogue~Thank you, Love~.flac
-Time: 73
-Title: CD音轨14
-Track: 14
-mtime: 1365177389
-song_end
-end: 西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)/西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)/Thank you,Love
-end: 西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)/西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)
-end: 西野カナ(Nishino.Kana).-.[Thank.you,Love].专辑.(FLAC)
-directory: 西野カナ(Nishino.Kana).-.[もっと…].单曲.(FLAC)
-mtime: 1366974938
-begin: 西野カナ(Nishino.Kana).-.[もっと…].单曲.(FLAC)
-song_begin: 西野カナ(Nishino.Kana).-.[もっと…].单曲.(FLAC).flac
-Time: 942
-Playlist: yes
-Album: もっと…
-Artist: 西野カナ 
-mtime: 1365177410
-song_end
-end: 西野カナ(Nishino.Kana).-.[もっと…].单曲.(FLAC)
-directory: 西野カナ(Nishino.Kana).-.[遠くても.feat.WISE]
-mtime: 1365177414
-begin: 西野カナ(Nishino.Kana).-.[遠くても.feat.WISE]
-directory: 遠くても feat.WISE
-mtime: 1365177415
-begin: 西野カナ(Nishino.Kana).-.[遠くても.feat.WISE]/遠くても feat.WISE
-song_begin: 01 Tokutemo feat. WISE.mp3
-Time: 345
-Artist: Î÷Ò°¥«¥Ê
-AlbumArtist: Î÷Ò°¥«¥Ê
-Title: ßh¤¯¤Æ¤â feat.WISE
-Album: ßh¤¯¤Æ¤â feat.WISE
-Track: 1
-Date: 2009
-Genre: Pop
-Composer: Giorgio Cancemi
-mtime: 1365177414
-song_end
-song_begin: 02 GIRLS JUST WANT TO HAVE FUN.mp3
-Time: 291
-Artist: Î÷Ò°¥«¥Ê
-Title: GIRLS JUST WANT TO HAVE FUN
-Album: ßh¤¯¤Æ¤â feat.WISE
-Track: 2
-Date: 2009
-Genre: Pop
-mtime: 1365177415
-song_end
-song_begin: 03 Saturday Night feat. GIORGIO 13.mp3
-Time: 285
-Artist: Î÷Ò°¥«¥Ê
-Title: Saturday ¡ï Night feat. GIORGI
-Album: ßh¤¯¤Æ¤â feat.WISE
-Track: 3
-Date: 2009
-Genre: Pop
-mtime: 1365177415
-song_end
-end: 西野カナ(Nishino.Kana).-.[遠くても.feat.WISE]/遠くても feat.WISE
-end: 西野カナ(Nishino.Kana).-.[遠くても.feat.WISE]
-directory: 轻音少女第二季主题曲.-.[K-ON!!][ED2.Single－NO,Thank.You!][放课后ティータイム].单曲.(ape)
-mtime: 1365177423
-begin: 轻音少女第二季主题曲.-.[K-ON!!][ED2.Single－NO,Thank.You!][放课后ティータイム].单曲.(ape)
-song_begin: CDImage.ape
-Time: 939
-mtime: 1365177423
-song_end
-playlist_begin: CDImage.ape.cue
-mtime: 1365177423
-playlist_end
-playlist_begin: CDImage.cue
-mtime: 1365177423
-playlist_end
-end: 轻音少女第二季主题曲.-.[K-ON!!][ED2.Single－NO,Thank.You!][放课后ティータイム].单曲.(ape)
-directory: 辻詩音(Tsuji.Shion).-.[Candy.kicks].单曲.(MP3)
-mtime: 1365177423
-begin: 辻詩音(Tsuji.Shion).-.[Candy.kicks].单曲.(MP3)
-directory: 辻詩音(Tsuji Shion) .-.[Candy kicks].单曲.(MP3)
-mtime: 1365177423
-begin: 辻詩音(Tsuji.Shion).-.[Candy.kicks].单曲.(MP3)/辻詩音(Tsuji Shion) .-.[Candy kicks].单曲.(MP3)
-directory: [Candy kicks]
-mtime: 1365669191
-begin: 辻詩音(Tsuji.Shion).-.[Candy.kicks].单曲.(MP3)/辻詩音(Tsuji Shion) .-.[Candy kicks].单曲.(MP3)/[Candy kicks]
-song_begin: 辻詩音 - Candy kicks.mp3
-Time: 255
-Artist: 辻詩音
-AlbumArtist: 辻詩音
-Title: Candy kicks
-Album: Candy kicks
-Track: 01/04
-Date: 2008
-Genre: Jpop
-Disc: 1/1
-mtime: 1365669191
-song_end
-song_begin: 辻詩音 - 17.mp3
-Time: 230
-Artist: 辻詩音
-AlbumArtist: 辻詩音
-Title: 17
-Album: Candy kicks
-Track: 02/04
-Date: 2008
-Genre: Jpop
-Disc: 1/1
-mtime: 1365669082
-song_end
-song_begin: 辻詩音 - Take me home.mp3
-Time: 272
-Artist: 辻詩音
-AlbumArtist: 辻詩音
-Title: Take me home
-Album: Candy kicks
-Track: 03/04
-Date: 2008
-Genre: Jpop
-Disc: 1/1
-mtime: 1365177424
-song_end
-song_begin: 辻詩音 - Candy kicks (insturumental).mp3
-Time: 255
-Artist: 辻詩音
-AlbumArtist: 辻詩音
-Title: Candy kicks (insturumental)
-Album: Candy kicks
-Track: 04/04
-Date: 2008
-Genre: Jpop
-Disc: 1/1
-mtime: 1365177424
-song_end
-end: 辻詩音(Tsuji.Shion).-.[Candy.kicks].单曲.(MP3)/辻詩音(Tsuji Shion) .-.[Candy kicks].单曲.(MP3)/[Candy kicks]
-end: 辻詩音(Tsuji.Shion).-.[Candy.kicks].单曲.(MP3)/辻詩音(Tsuji Shion) .-.[Candy kicks].单曲.(MP3)
-end: 辻詩音(Tsuji.Shion).-.[Candy.kicks].单曲.(MP3)
-directory: 辻詩音(Tsuji.Shion).-.[ほしいもの].单曲.(MP3)
-mtime: 1365247400
-begin: 辻詩音(Tsuji.Shion).-.[ほしいもの].单曲.(MP3)
-directory: 辻詩音 - ほしいもの
-mtime: 1365247401
-begin: 辻詩音(Tsuji.Shion).-.[ほしいもの].单曲.(MP3)/辻詩音 - ほしいもの
-song_begin: 01 ほしいもの.mp3
-Time: 226
-Artist: 辻詩音
-Title: ほしいもの
-Album: ほしいもの
-Track: 1
-Date: 2009
-Genre: Pop
-Disc: 1/1
-mtime: 1365177425
-song_end
-song_begin: 02 コインロッカーボーイ.mp3
-Time: 213
-Artist: 辻詩音
-Title: コインロッカーボーイ
-Album: ほしいもの
-Track: 2
-Date: 2009
-Genre: Pop
-Disc: 1/1
-mtime: 1365177425
-song_end
-song_begin: 03 M／elody (Acoustic Version).mp3
-Time: 220
-Artist: 辻詩音
-Title: M/elody (Acoustic Version)
-Album: ほしいもの
-Track: 3
-Date: 2009
-Genre: Pop
-Disc: 1/1
-mtime: 1365177425
-song_end
-song_begin: 04 ほしいもの (Instrumental).mp3
-Time: 225
-Artist: 辻詩音
-Title: ほしいもの (Instrumental)
-Album: ほしいもの
-Track: 4
-Date: 2009
-Genre: Pop
-Disc: 1/1
-mtime: 1365177425
-song_end
-end: 辻詩音(Tsuji.Shion).-.[ほしいもの].单曲.(MP3)/辻詩音 - ほしいもの
-end: 辻詩音(Tsuji.Shion).-.[ほしいもの].单曲.(MP3)
-directory: 辻詩音-Sky chord〜大人になる君へ〜
-mtime: 1367505285
-begin: 辻詩音-Sky chord〜大人になる君へ〜
-song_begin: 01.Sky chord~大人になる君へ~.mp3
-Time: 265
-Artist: ÞyÔÒô
-AlbumArtist: ÞyÔÒô
-Title: Sky chord~´óÈË¤Ë¤Ê¤ë¾ý¤Ø~
-Album: Sky chord〜大人になる君へ〜
-Track: 1
-Date: 2009
-Genre: J-POP
-mtime: 1361599708
-song_end
-song_begin: 02.Brand new day.mp3
-Time: 224
-Artist: ÞyÔÒô
-AlbumArtist: ÞyÔÒô
-Title: Brand new day
-Album: Sky chord〜大人になる君へ〜
-Track: 2
-Date: 2009
-Genre: J-POP
-mtime: 1361599714
-song_end
-song_begin: 03.Candy Kicks (Acoustic Version).mp3
-Time: 237
-Artist: ÞyÔÒô
-AlbumArtist: ÞyÔÒô
-Title: Candy Kicks (Acoustic Version)
-Album: Sky chord〜大人になる君へ〜
-Track: 3
-Date: 2009
-Genre: J-POP
-mtime: 1361599714
-song_end
-song_begin: 04.Sky chord ~大人になる君へ~(Instrumental).mp3
-Time: 264
-Artist: ÞyÔÒô
-AlbumArtist: ÞyÔÒô
-Title: Sky chord~´óÈË¤Ë¤Ê¤ë¾ý¤Ø~ (Instrumental)
-Album: Sky chord〜大人になる君へ〜
-Track: 4
-Date: 2009
-Genre: J-POP
-mtime: 1361599724
-song_end
-end: 辻詩音-Sky chord〜大人になる君へ〜
-directory: 辻詩音.-.M／elody.(東京マグニチュード8.0.ED).(lameCBR.192k.rr3%.ジャケット)
-mtime: 1365177425
-begin: 辻詩音.-.M／elody.(東京マグニチュード8.0.ED).(lameCBR.192k.rr3%.ジャケット)
-directory: 辻詩音 - M／elody (東京マグニチュード8.0 ED)
-mtime: 1365177426
-begin: 辻詩音.-.M／elody.(東京マグニチュード8.0.ED).(lameCBR.192k.rr3%.ジャケット)/辻詩音 - M／elody (東京マグニチュード8.0 ED)
-song_begin: 01 M／elody.mp3
-Time: 230
-Artist: Ò¹
-Title: M/elody
-Album: M/elody
-Track: 01
-Date: 2009
-Genre: Anime
-Genre: Anime
-mtime: 1365177426
-song_end
-song_begin: 02 ナミノリ.mp3
-Time: 239
-Artist: Ò¹
-Title: i~m
-Album: M/elody
-Track: 02
-Date: 2009
-Genre: Anime
-Genre: Anime
-mtime: 1365177426
-song_end
-song_begin: 03 M／elody (Instrumental).mp3
-Time: 227
-Artist: mw (ªacgWaddyhñçAä¹F)
-Title: M/elody (Instrumental)
-Album: M/elody
-Track: 03
-Date: 2009
-Genre: Anime
-Genre: Anime
-mtime: 1365177426
-song_end
-end: 辻詩音.-.M／elody.(東京マグニチュード8.0.ED).(lameCBR.192k.rr3%.ジャケット)/辻詩音 - M／elody (東京マグニチュード8.0 ED)
-end: 辻詩音.-.M／elody.(東京マグニチュード8.0.ED).(lameCBR.192k.rr3%.ジャケット)
-directory: 银魂主题曲.-.[Gintama][ED.Single.-.サムライハート(Some.Like.It.Hot!!)][SPYAIR]
-mtime: 1365178133
-begin: 银魂主题曲.-.[Gintama][ED.Single.-.サムライハート(Some.Like.It.Hot!!)][SPYAIR]
-song_begin: SPYAIR - サムライハート（Some Like It Hot！！）.wav
-Time: 630
-mtime: 1365178133
-song_end
-playlist_begin: SPYAIR - サムライハート（Some Like It Hot！！）.cue
-mtime: 1365178130
-playlist_end
-end: 银魂主题曲.-.[Gintama][ED.Single.-.サムライハート(Some.Like.It.Hot!!)][SPYAIR]
-directory: 银魂主题曲.-.[Gintama][ED14.Single.-.ウォーアイニー][高橋瞳×BEAT.CRUSADERS].单曲.(APE)
-mtime: 1365178137
-begin: 银魂主题曲.-.[Gintama][ED14.Single.-.ウォーアイニー][高橋瞳×BEAT.CRUSADERS].单曲.(APE)
-song_begin: 高橋瞳×BEAT CRUSADERS - ウォーアイニー.ape
-Time: 586
-mtime: 1365178137
-song_end
-playlist_begin: 高橋瞳×BEAT CRUSADERS - ウォーアイニー.cue
-mtime: 1365178137
-playlist_end
-end: 银魂主题曲.-.[Gintama][ED14.Single.-.ウォーアイニー][高橋瞳×BEAT.CRUSADERS].单曲.(APE)
-directory: 银魂主题曲.-.[Gintama][ED9.Single-sanagi][POSSIBILITY].单曲.(TTA)
-mtime: 1365179225
-begin: 银魂主题曲.-.[Gintama][ED9.Single-sanagi][POSSIBILITY].单曲.(TTA)
-song_begin: SRCL6798.tta
-Time: 729
-mtime: 1365179225
-song_end
-playlist_begin: SRCL6798.cue
-mtime: 1365179222
-playlist_end
-playlist_begin: SRCL6798.tta.cue
-mtime: 1365179225
-playlist_end
-end: 银魂主题曲.-.[Gintama][ED9.Single-sanagi][POSSIBILITY].单曲.(TTA)
-directory: 陶喆.-.[黑色柳丁].专辑.台湾原版.(APE)
-mtime: 1368967526
-begin: 陶喆.-.[黑色柳丁].专辑.台湾原版.(APE)
-song_begin: 陶喆.-.[黑色柳丁].专辑.台湾原版.(APE).ape
+end: 薛凯琪/It's_My_Day
+end: 薛凯琪
+directory: 陶喆
+mtime: 1373314922
+begin: 陶喆
+directory: 黑色柳丁
+mtime: 1382104047
+begin: 陶喆/黑色柳丁
+song_begin: 黑色柳丁.ape
 Time: 3193
 mtime: 1368967432
 song_end
-playlist_begin: 陶喆.-.[黑色柳丁].专辑.台湾原版.(APE).cue
+playlist_begin: 黑色柳丁.cue
 mtime: 1368967388
 playlist_end
-end: 陶喆.-.[黑色柳丁].专辑.台湾原版.(APE)
-directory: 青山テルマ - SINGLES BEST (2011.08.24)[320k]
-mtime: 1367505318
-begin: 青山テルマ - SINGLES BEST (2011.08.24)[320k]
-song_begin: 01 ONE WAY.mp3
-Time: 252
-Artist: 青山テルマ
-Title: ONE WAY
-Album: SINGLES BEST
-Track: 1/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912184
-song_end
-song_begin: 02 そばにいるね.mp3
-Time: 304
-Artist: 青山テルマ
-Title: そばにいるね
-Album: SINGLES BEST
-Track: 2/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912192
-song_end
-song_begin: 03 何度も.mp3
-Time: 262
-Artist: 青山テルマ
-Title: 何度も
-Album: SINGLES BEST
-Track: 3/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912194
-song_end
-song_begin: 04 守りたいもの.mp3
-Time: 287
-Artist: 青山テルマ
-Title: 守りたいもの
-Album: SINGLES BEST
-Track: 4/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912196
-song_end
-song_begin: 05 大っきらい でもありがと.mp3
-Time: 279
-Artist: 青山テルマ
-Title: 大っきらい でもありがと
-Album: SINGLES BEST
-Track: 5/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912198
-song_end
-song_begin: 06 届けたい….mp3
-Time: 297
-Artist: 青山テルマ Feat. KEN THE 390
-Title: 届けたい…
-Album: SINGLES BEST
-Track: 6/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912200
-song_end
-song_begin: 07 忘れないよ.mp3
-Time: 284
-Artist: 青山テルマ
-Title: 忘れないよ
-Album: SINGLES BEST
-Track: 7/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912208
-song_end
-song_begin: 08 Fall in Love.mp3
-Time: 258
-Artist: 青山テルマ x SOL
-Title: Fall in Love
-Album: SINGLES BEST
-Track: 8/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912210
-song_end
-song_begin: 09 帰る場所.mp3
-Time: 241
-Artist: 青山テルマ
-Title: 帰る場所
-Album: SINGLES BEST
-Track: 9/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912212
-song_end
-song_begin: 10 サマーラブ!!.mp3
-Time: 305
-Artist: 青山テルマ Feat. RED RICE
-Title: サマーラブ!!
-Album: SINGLES BEST
-Track: 10/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912214
-song_end
-song_begin: 11 LET'S PARTY!.mp3
-Time: 241
-Artist: 青山テルマ
-Title: LET'S PARTY!
-Album: SINGLES BEST
-Track: 11/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912228
-song_end
-song_begin: 12 23.mp3
-Time: 234
-Artist: 青山テルマ
-Title: 23
-Album: SINGLES BEST
-Track: 12/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912230
-song_end
-song_begin: 13 ずっと。.mp3
-Time: 307
-Artist: 青山テルマ
-Title: ずっと。
-Album: SINGLES BEST
-Track: 13/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912232
-song_end
-song_begin: 14 WITHOUT U.mp3
-Time: 238
-Artist: 青山テルマ Feat. 4Minute
-Title: WITHOUT U
-Album: SINGLES BEST
-Track: 14/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912232
-song_end
-song_begin: 15 ラヴ・イズ・オーヴァー.mp3
-Time: 258
-Artist: 青山テルマ
-Title: ラヴ・イズ・オーヴァー
-Album: SINGLES BEST
-Track: 15/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1362912234
-song_end
-end: 青山テルマ - SINGLES BEST (2011.08.24)[320k]
-directory: 青山テルマ(Thelma.Aoyama).-.[DIARY].专辑.(FLAC)
-mtime: 1365179009
-begin: 青山テルマ(Thelma.Aoyama).-.[DIARY].专辑.(FLAC)
-song_begin: 青山テルマ(Thelma.Aoyama).-.[DIARY].专辑.(FLAC).flac
-Time: 3571
-mtime: 1365179022
-song_end
-playlist_begin: 青山テルマ(Thelma.Aoyama).-.[DIARY].专辑.(FLAC).cue
-mtime: 1365179009
-playlist_end
-end: 青山テルマ(Thelma.Aoyama).-.[DIARY].专辑.(FLAC)
-directory: 青山テルマ(Thelma.Aoyama).-.[SINGLES.BEST]
-mtime: 1365179022
-begin: 青山テルマ(Thelma.Aoyama).-.[SINGLES.BEST]
-directory: 青山テルマ - SINGLES BEST (2011.08.24)[320k]
-mtime: 1365179027
-begin: 青山テルマ(Thelma.Aoyama).-.[SINGLES.BEST]/青山テルマ - SINGLES BEST (2011.08.24)[320k]
-song_begin: 01 ONE WAY.mp3
-Time: 252
-Artist: 青山テルマ
-Title: ONE WAY
-Album: SINGLES BEST
-Track: 1/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179022
-song_end
-song_begin: 02 そばにいるね.mp3
-Time: 304
-Artist: 青山テルマ
-Title: そばにいるね
-Album: SINGLES BEST
-Track: 2/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179022
-song_end
-song_begin: 03 何度も.mp3
-Time: 262
-Artist: 青山テルマ
-Title: 何度も
-Album: SINGLES BEST
-Track: 3/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179023
-song_end
-song_begin: 04 守りたいもの.mp3
-Time: 287
-Artist: 青山テルマ
-Title: 守りたいもの
-Album: SINGLES BEST
-Track: 4/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179023
-song_end
-song_begin: 05 大っきらい でもありがと.mp3
-Time: 279
-Artist: 青山テルマ
-Title: 大っきらい でもありがと
-Album: SINGLES BEST
-Track: 5/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179024
-song_end
-song_begin: 06 届けたい….mp3
-Time: 297
-Artist: 青山テルマ Feat. KEN THE 390
-Title: 届けたい…
-Album: SINGLES BEST
-Track: 6/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179024
-song_end
-song_begin: 07 忘れないよ.mp3
-Time: 284
-Artist: 青山テルマ
-Title: 忘れないよ
-Album: SINGLES BEST
-Track: 7/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179024
-song_end
-song_begin: 08 Fall in Love.mp3
-Time: 258
-Artist: 青山テルマ x SOL
-Title: Fall in Love
-Album: SINGLES BEST
-Track: 8/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179025
-song_end
-song_begin: 09 帰る場所.mp3
-Time: 241
-Artist: 青山テルマ
-Title: 帰る場所
-Album: SINGLES BEST
-Track: 9/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179025
-song_end
-song_begin: 10 サマーラブ!!.mp3
-Time: 305
-Artist: 青山テルマ Feat. RED RICE
-Title: サマーラブ!!
-Album: SINGLES BEST
-Track: 10/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179025
-song_end
-song_begin: 11 LET'S PARTY!.mp3
-Time: 241
-Artist: 青山テルマ
-Title: LET'S PARTY!
-Album: SINGLES BEST
-Track: 11/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179026
-song_end
-song_begin: 12 23.mp3
-Time: 234
-Artist: 青山テルマ
-Title: 23
-Album: SINGLES BEST
-Track: 12/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179026
-song_end
-song_begin: 13 ずっと。.mp3
-Time: 307
-Artist: 青山テルマ
-Title: ずっと。
-Album: SINGLES BEST
-Track: 13/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179026
-song_end
-song_begin: 14 WITHOUT U.mp3
-Time: 238
-Artist: 青山テルマ Feat. 4Minute
-Title: WITHOUT U
-Album: SINGLES BEST
-Track: 14/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179027
-song_end
-song_begin: 15 ラヴ・イズ・オーヴァー.mp3
-Time: 258
-Artist: 青山テルマ
-Title: ラヴ・イズ・オーヴァー
-Album: SINGLES BEST
-Track: 15/15
-Date: 2011
-Genre: R&B
-Disc: 1/1
-mtime: 1365179027
-song_end
-end: 青山テルマ(Thelma.Aoyama).-.[SINGLES.BEST]/青山テルマ - SINGLES BEST (2011.08.24)[320k]
-end: 青山テルマ(Thelma.Aoyama).-.[SINGLES.BEST]
-directory: 青山黛瑪.feat.Soulja.-.[留在我身邊]
-mtime: 1365179030
-begin: 青山黛瑪.feat.Soulja.-.[留在我身邊]
-directory: 青山テルマ feet. Soulja-[そばにいるね]
-mtime: 1365907676
-begin: 青山黛瑪.feat.Soulja.-.[留在我身邊]/青山テルマ feet. Soulja-[そばにいるね]
-song_begin: 02. My dear friend.mp3
-Time: 230
-Artist: ÇàÉ½¥Æ¥ë¥Þ Feat. Soulja
-Title: My dear friend
-Album: ¤½¤Ð¤Ë¤¤¤ë¤Í
-Track: 2
-Date: 2008
-Genre: JPop
-mtime: 1365179031
-song_end
-song_begin: 03. This day.mp3
-Time: 319
-Artist: ÇàÉ½¥Æ¥ë¥Þ Feat. Í¯×Ó-T
-Title: This day
-Album: ¤½¤Ð¤Ë¤¤¤ë¤Í
-Track: 3
-Date: 2008
-Genre: JPop
-mtime: 1365179031
-song_end
-song_begin: 01. そばにいるね.mp3
-Time: 305
-Artist: 青山テルマ Feat. Soulja
-Title: そばにいるね
-Album: そばにいるね
-Track: 1
-Date: 2008
-Genre: Jpop
-mtime: 1365907676
-song_end
-end: 青山黛瑪.feat.Soulja.-.[留在我身邊]/青山テルマ feet. Soulja-[そばにいるね]
-end: 青山黛瑪.feat.Soulja.-.[留在我身邊]
-directory: 鹿乃(Kano).-.[Sweet.Ices.Cream].专辑.(MP3)
-mtime: 1365179225
-begin: 鹿乃(Kano).-.[Sweet.Ices.Cream].专辑.(MP3)
-directory: Sweet Ices Cream
-mtime: 1365179228
-begin: 鹿乃(Kano).-.[Sweet.Ices.Cream].专辑.(MP3)/Sweet Ices Cream
-song_begin: 01. 小夜子.mp3
-Time: 254
-Artist: ミキトP feat. 鹿乃
-Title: 小夜子
-Album: Sweet Ices Cream
-Track: 1/9
-Date: 2011
-Genre: Nico-singer
-mtime: 1365179226
-song_end
-song_begin: 02. Human -Bambi ver-.mp3
-Time: 222
-Artist: 椎名もた (ぽわぽわP) feat. 鹿乃
-Title: Human -Bambi ver-
-Album: Sweet Ices Cream
-Track: 2/9
-Date: 2011
-Genre: Nico-singer
-mtime: 1365179226
-song_end
-song_begin: 03. 初恋リグレット.mp3
-Time: 189
-Artist: matsukP feat. 鹿乃
-Title: 初恋リグレット
-Album: Sweet Ices Cream
-Track: 3/9
-Date: 2011
-Genre: Nico-singer
-mtime: 1365179226
-song_end
-song_begin: 04. 6900000000.mp3
-Time: 243
-Artist: (∵)キョトンP feat. 鹿乃
-Title: 6900000000
-Album: Sweet Ices Cream
-Track: 4/9
-Date: 2011
-Genre: Nico-singer
-mtime: 1365179226
-song_end
-song_begin: 05. マーメイド.mp3
-Time: 202
-Artist: monaca:factory (10日P) feat. 鹿乃
-Title: マーメイド
-Album: Sweet Ices Cream
-Track: 5/9
-Date: 2011
-Genre: Nico-singer
-mtime: 1365179227
-song_end
-song_begin: 06. Mad Lovers.mp3
-Time: 277
-Artist: 8#Prince (八王子P) feat. 鹿乃
-Title: Mad Lovers
-Album: Sweet Ices Cream
-Track: 6/9
-Date: 2011
-Genre: Nico-singer
-mtime: 1365179227
-song_end
-song_begin: 07. Dear.mp3
-Time: 245
-Artist: U-ske feat. 鹿乃
-Title: Dear
-Album: Sweet Ices Cream
-Track: 7/9
-Date: 2011
-Genre: Nico-singer
-mtime: 1365179227
-song_end
-song_begin: 08. intention.mp3
-Time: 281
-Artist: U-ske feat. 鹿乃
-Title: intention
-Album: Sweet Ices Cream
-Track: 8/9
-Date: 2011
-Genre: Nico-singer
-mtime: 1365179228
-song_end
-song_begin: 09. マッシュルームマザー.mp3
-Time: 229
-Artist: ピノキオP feat. 鹿乃
-Title: マッシュルームマザー
-Album: Sweet Ices Cream
-Track: 9/9
-Date: 2011
-Genre: Nico-singer
-mtime: 1365179228
-song_end
-end: 鹿乃(Kano).-.[Sweet.Ices.Cream].专辑.(MP3)/Sweet Ices Cream
-end: 鹿乃(Kano).-.[Sweet.Ices.Cream].专辑.(MP3)
-directory: 鹿乃(Kano).-.[すきなの。].专辑.(MP3)
-mtime: 1365178900
-begin: 鹿乃(Kano).-.[すきなの。].专辑.(MP3)
-directory: すきなの。
-mtime: 1365178902
-begin: 鹿乃(Kano).-.[すきなの。].专辑.(MP3)/すきなの。
-song_begin: 01. ハロ-ハワユmix.mp3
-Time: 289
-Artist: Kano
-Title: Hello-How Are You -mix-
-Album: Sukinano¡£
-Track: 1
-Date: 10/0
-mtime: 1365178901
-song_end
-song_begin: 02. うたうたいのうた.mp3
-Time: 279
-Artist: Kano
-Title: ¤¦¤¿¤¦¤¿¤¤¤Î¤¦¤¿
-Album: Sukinano¡£
-Track: 2
-Date: 10/0
-mtime: 1365178901
-song_end
-song_begin: 03. [It's not] World's end.mp3
-Time: 335
-Artist: Kano
-Title: [It's not] World's end
-Album: Sukinano¡£
-Track: 3
-Date: 10/0
-mtime: 1365178901
-song_end
-song_begin: 04. 「ねぇ。」.mp3
-Time: 383
-Artist: Kano
-Title: ¡¸¤Í¤§¡£¡¹
-Album: Sukinano¡£
-Track: 4
-Date: 10/0
-mtime: 1365178902
-song_end
-song_begin: 05. 朝焼け、君の唄。.mp3
-Time: 308
-Artist: Kano
-Title: ³¯¤±¡¢¾ý¤Îh¡£
-Album: Sukinano¡£
-Track: 5
-Date: 10/0
-mtime: 1365178902
-song_end
-song_begin: 06. サクラノ前夜.mp3
-Time: 360
-Artist: Kano
-Title: ¥µ¥¯¥é¥ÎÇ°Ò¹
-Album: Sukinano¡£
-Track: 6
-Date: 10/0
-mtime: 1365178903
-song_end
-end: 鹿乃(Kano).-.[すきなの。].专辑.(MP3)/すきなの。
-end: 鹿乃(Kano).-.[すきなの。].专辑.(MP3)
-directory: 鹿乃(Kano).-.[ばんび~の].专辑.(MP3)
-mtime: 1365178903
-begin: 鹿乃(Kano).-.[ばんび~の].专辑.(MP3)
-directory: ばんび~の
-mtime: 1365178906
-begin: 鹿乃(Kano).-.[ばんび~の].专辑.(MP3)/ばんび~の
-song_begin: 01 - ハロ_ハワユ.mp3
-Time: 288
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: ハロ/ハワユ
-Album: ばんび~の
-Track: 1
-Date: 2011
-mtime: 1365178903
-song_end
-song_begin: 02 - メランコリック.mp3
-Time: 221
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: メランコリック
-Album: ばんび~の
-Track: 2
-Date: 2011
-mtime: 1365178903
-song_end
-song_begin: 03 - 微熱.mp3
-Time: 221
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: 微熱
-Album: ばんび~の
-Track: 3
-Date: 2011
-mtime: 1365178904
-song_end
-song_begin: 04 - One Night Disco.mp3
-Time: 237
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: One Night Disco
-Album: ばんび~の
-Track: 4
-Date: 2011
-mtime: 1365178904
-song_end
-song_begin: 05 - セカイにただヒトリの.mp3
-Time: 251
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: セカイにただヒトリの
-Album: ばんび~の
-Track: 5
-Date: 2011
-mtime: 1365178904
-song_end
-song_begin: 06 - 嘘つきイミテーション.mp3
-Time: 248
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: 嘘つきイミテーション
-Album: ばんび~の
-Track: 6
-Date: 2011
-mtime: 1365178905
-song_end
-song_begin: 07 - yumeiro.mp3
-Time: 347
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: yumeiro
-Album: ばんび~の
-Track: 7
-Date: 2011
-mtime: 1365178905
-song_end
-song_begin: 08 - リフレクション.mp3
-Time: 300
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: リフレクション
-Album: ばんび~の
-Track: 8
-Date: 2011
-mtime: 1365178906
-song_end
-song_begin: 09 - crack.mp3
-Time: 271
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: crack
-Album: ばんび~の
-Track: 9
-Date: 2011
-mtime: 1365178906
-song_end
-song_begin: 10 - グッドバイバイ.mp3
-Time: 297
-Artist: Kano
-AlbumArtist: 鹿乃
-Title: グッドバイバイ
-Album: ばんび~の
-Track: 10
-Date: 2011
-mtime: 1365178906
-song_end
-end: 鹿乃(Kano).-.[ばんび~の].专辑.(MP3)/ばんび~の
-end: 鹿乃(Kano).-.[ばんび~の].专辑.(MP3)
-directory: 鹿乃(Kano).-.[曖昧ばんび～な].专辑.(MP3)
-mtime: 1365178906
-begin: 鹿乃(Kano).-.[曖昧ばんび～な].专辑.(MP3)
-directory: 曖昧ばんび～な
-mtime: 1365178910
-begin: 鹿乃(Kano).-.[曖昧ばんび～な].专辑.(MP3)/曖昧ばんび～な
-song_begin: 1 二次元ドリームフィーバー.mp3
-Time: 189
-Artist: 鹿乃
-Title: 二次元ドリームフィーバー
-Album: 曖昧ばんび～な
-Track: 1/11
-Date: 2012
-Genre: Pop
-Composer: PolyphonicBranch
-Disc: 1/1
-mtime: 1365178907
-song_end
-song_begin: 2 六兆年と一夜物語.mp3
-Time: 220
-Artist: 鹿乃
-Title: 六兆年と一夜物語
-Album: 曖昧ばんび～な
-Track: 2/11
-Date: 2012
-Genre: Pop
-Composer: Kemu
-Disc: 1/1
-mtime: 1365178907
-song_end
-song_begin: 3 想像フォレスト.mp3
-Time: 257
-Artist: 鹿乃
-Title: 想像フォレスト
-Album: 曖昧ばんび～な
-Track: 3/11
-Date: 2012
-Genre: Pop
-Composer: じん
-Disc: 1/1
-mtime: 1365178908
-song_end
-song_begin: 4 ghost.mp3
-Time: 294
-Artist: 鹿乃
-Title: ghost
-Album: 曖昧ばんび～な
-Track: 4/11
-Date: 2012
-Genre: Pop
-Composer: minjta
-Disc: 1/1
-mtime: 1365178908
-song_end
-song_begin: 5 世界のはじまり.mp3
-Time: 243
-Artist: 鹿乃
-Title: 世界のはじまり
-Album: 曖昧ばんび～な
-Track: 5/11
-Date: 2012
-Genre: Pop
-Composer: whoo
-Disc: 1/1
-mtime: 1365178908
-song_end
-song_begin: 6 インタビュア.mp3
-Time: 267
-Artist: 鹿乃
-Title: インタビュア
-Album: 曖昧ばんび～な
-Track: 6/11
-Date: 2012
-Genre: Pop
-Composer: クワガタP
-Disc: 1/1
-mtime: 1365178909
-song_end
-song_begin: 7 会いたい.mp3
-Time: 302
-Artist: 鹿乃
-Title: 会いたい
-Album: 曖昧ばんび～な
-Track: 7/11
-Date: 2012
-Genre: Pop
-Composer: シグナルP
-Composer: Dios
-Disc: 1/1
-mtime: 1365178910
-song_end
-song_begin: 8 繰り返し一粒 リンver..mp3
-Time: 256
-Artist: 鹿乃
-Title: 繰り返し一粒 リンver.
-Album: 曖昧ばんび～な
-Track: 8/11
-Date: 2012
-Genre: Pop
-Composer: 猫虫
-Disc: 1/1
-mtime: 1365178910
-song_end
-song_begin: 9 ネコミミアーカイブ(.mp3
-Time: 211
-Artist: 鹿乃
-Title: ネコミミアーカイブ
-Album: 曖昧ばんび～な
-Track: 9/11
-Date: 2012
-Genre: Pop
-Composer: 糞田舎P
-Disc: 1/1
-mtime: 1365178910
-song_end
-song_begin: 10 セツナトリップ.mp3
-Time: 249
-Artist: 鹿乃
-Title: セツナトリップ
-Album: 曖昧ばんび～な
-Track: 10/11
-Date: 2012
-Genre: Pop
-Composer: Last Note.
-Disc: 1/1
-mtime: 1365178907
-song_end
-song_begin: 11 アイロニ.mp3
-Time: 250
-Artist: 鹿乃
-Title: アイロニ
-Album: 曖昧ばんび～な
-Track: 11/11
-Date: 2012
-Genre: Pop
-Composer: すこっぷ
-Disc: 1/1
-mtime: 1365178907
-song_end
-end: 鹿乃(Kano).-.[曖昧ばんび～な].专辑.(MP3)/曖昧ばんび～な
-end: 鹿乃(Kano).-.[曖昧ばんび～な].专辑.(MP3)
+end: 陶喆/黑色柳丁
+end: 陶喆

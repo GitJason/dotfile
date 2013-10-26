@@ -1,15 +1,8 @@
-"colorscheme blackbeauty
-"colorscheme molokai
-"colorscheme solarized
-"colorscheme xterm16
-"
+colorscheme xterm16
 "colorscheme darksea
-"colorscheme natoma
-"colorscheme sunshine
-colorscheme gentooish
 
 syntax on
-filetype on
+filetype off
 filetype plugin indent on
 
 set langmenu=en_US.utf-8
@@ -20,9 +13,10 @@ set fencs=utf-8,gb18030,gbk,gb2312
 set fileencodings=utf-8,gb18030,gbk,big5,gb2312
 
 set nocompatible
+set rnu
 set nu
+set wrap
 set backspace=indent,eol,start
-"set guifont=Consolas-powerline-vim:h10.5:cANSI
 
 set ignorecase
 set ruler
@@ -38,11 +32,8 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set nowrap
-set colorcolumn=80
+"set colorcolumn=80
 highlight ColorColumn ctermbg=233
-
-autocmd FileType python setlocal tabstop=4 shiftwidth=4 softtabstop=4 textwidth=120
-autocmd FileType php,html,css,javascript setlocal tabstop=2 shiftwidth=2 softtabstop=2 textwidth=120
 
 " map
 map <c-j> <c-w>j
@@ -51,36 +42,58 @@ map <c-l> <c-w>l
 map <c-h> <c-w>h
 map <Leader>I :IndentGuidesEnable<CR>
 map <Leader>N :NERDTreeToggle<CR>
-map <Leader>T :retab<CR>
+map <Leader>r :retab<CR>
+
+nmap <Leader>tbn :tabnew<CR>
+nmap <Leader>tbc :tabclose<CR>
+nmap <Leader>tbe :tabedit<CR>
+nmap <Leader>tb. :tabn<CR>
 
 vnoremap <Leader>s :sort<CR>
 " better indentation
 vnoremap < <gv
 vnoremap > >gv
 
-" vim-pathogen
-" runtime path manipulation
-execute pathogen#infect()
+" vundle
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+Bundle 'gmarik/vundle'
+Bundle 'vim-scripts/L9'
+Bundle 'Lokaltog/powerline'
+Bundle 'scrooloose/nerdtree'
+Bundle 'Valloric/YouCompleteMe'
+Bundle 'msanders/snipmate.vim'
+Bundle 'vim-scripts/taglist.vim'
+Bundle 'terryma/vim-multiple-cursors'
+Bundle 'Townk/vim-autoclose'
+Bundle 'kien/rainbow_parentheses.vim'
+Bundle 'nathanaelkane/vim-indent-guides'
+Bundle 'bronson/vim-trailing-whitespace'
+Bundle 'scrooloose/syntastic'
 
-" vim-powerline
+" powerline
+" TODO
+set rtp+=~/.vim/bundle/powerline/powerline/bindings/vim
 set laststatus=2
 set t_Co=256
 let g:Powerline_symbols='fancy'
-"let Powerline_symbols='compatible'
-"set encoding=utf-8
+
+" nerdtree
+let NERDTreeShowHidden=1
+let NERDTreeShowLineNumbers=1
+let NERDTreeWinPos='left'
+
+" rainbow_parentheses
+au VimEnter * RainbowParenthesesToggle
+au Syntax * RainbowParenthesesLoadRound
+au syntax * RainbowParenthesesLoadSquare
+au syntax * RainbowParenthesesLoadBraces
 
 " vim-indent-guides
 let g:indent_guides_start_level=1
 let g:indent_guides_guide_size=1
 let g:indent_guides_auto_colors=1
 set background=dark
-"autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd ctermfg=58
-"autocmd VimEnter,Colorscheme * :hi IndentGuidesEven ctermfg=46
-
-" vim-NERDTree
-let NERDTreeShowHidden=1
-let NERDTreeShowLineNumbers=1
-let NERDTreeWinPos='left'
 
 " taglist
 let Tlist_Show_One_File=1
@@ -88,33 +101,10 @@ let Tlist_Exit_OnlyWindow=1
 let Tlist_Use_Right_Window=1
 let Tlist_Auto_Open=1
 
-" conque-shell
-let g:ConqueTerm_Color = 1
-let g:ConqueTerm_InsertOnEnter = 0
-let g:ConqueTerm_CloseOnEnd = 0
-let g:ConqueTerm_Syntax = 'conque'
-
-" dwm
-set mouse=a
-set ttymouse=xterm2
-
-" rainbow-parentheses
-au VimEnter * RainbowParenthesesToggle
-au Syntax * RainbowParenthesesLoadRound
-au Syntax * RainbowParenthesesLoadSquare
-au Syntax * RainbowParenthesesLoadBraces
-
 " vim-trailing-whitespace
-map <Leader>F :FixWhitespace<CR>
+map <Leader>] :FixWhitespace
 
-" python-syntax
-let OPTION_NAME=1
-let python_highlight_all=1
-
-" closetag
-map <Leader>C <c-_>
-
-" Syntastic
+" syntastic
 map <Leader>\ :SyntasticCheck<CR>
 let g:syntastic_auto_loc_list=0
 let g:syntastic_php_checkers=['php','phpcs','phpmd']
