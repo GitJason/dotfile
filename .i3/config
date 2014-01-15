@@ -12,7 +12,8 @@
 set $mon_lap LVDS
 
 set $mod Mod4
-set $term lilyterm
+#set $term lilyterm
+set $term xfce4-terminal
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below. ISO 10646 = Unicode
@@ -25,7 +26,10 @@ font pango:DejaVu Sans Mono,Terminal Bold Semi-Condensed 11
 workspace "λ" output $mon_lap
 
 # wallpapers
-exec --no-startup-id feh --bg-scale --no-fehbg ~/.i3/star.jpg
+exec --no-startup-id feh --bg-scale --no-fehbg ~/.i3/CrotonDam1920x1200.jpg
+#exec --no-startup-id amule
+exec --no-startup-id dropboxd
+#exec --no-startup-id bitcoin-qt
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -50,6 +54,7 @@ bindsym $mod+d exec --no-startup-id dmenu_run -i -l 5 -f -nb black -nf blue -sb 
 
 # screenshot
 bindsym Print exec --no-startup-id scrot -e 'mv $f ~/Pics/ 2>/dev/null'
+#bindsym Print exec --no-startup-id xfce4-screenshooter
 
 # change focus
 bindsym $mod+h focus left
@@ -115,7 +120,7 @@ bindsym $mod+1 workspace λ
 bindsym $mod+2 workspace read
 bindsym $mod+3 workspace web
 bindsym $mod+4 workspace >_
-bindsym $mod+5 workspace music
+bindsym $mod+5 workspace video
 bindsym $mod+6 workspace 6
 bindsym $mod+7 workspace 7
 bindsym $mod+8 workspace 8
@@ -127,7 +132,7 @@ bindsym $mod+Shift+1 move container to workspace λ
 bindsym $mod+Shift+2 move container to workspace read
 bindsym $mod+Shift+3 move container to workspace web
 bindsym $mod+Shift+4 move container to workspace >_
-bindsym $mod+Shift+5 move container to workspace music
+bindsym $mod+Shift+5 move container to workspace video
 bindsym $mod+Shift+6 move container to workspace 6
 bindsym $mod+Shift+7 move container to workspace 7
 bindsym $mod+Shift+8 move container to workspace 8
@@ -175,10 +180,13 @@ popup_during_fullscreen smart
 # finds out, if available)
 bar {
     position top
+    output LVDS # show on in my laptop
     status_command conky -c ~/.i3/top.conkyrc
+#    status_command py3status -c ~/.i3/i3status-top.conf -i /home/jason/github/py3status-snippet
     colors {
         background #327879
-        statusline #ffffef
+        statusline #ffffff
+#separator #ffffff
         focused_workspace #ffffee #285576
         active_workspace #ffffee #333333
         inactive_workspace #888888 #222222
@@ -186,20 +194,20 @@ bar {
     }
 }
 
-bar {
-    position bottom
-    status_command conky -c ~/.i3/bottom.conkyrc
-    tray_output none
-    workspace_buttons none
-    colors {
-        background #327879
-        statusline #ffffef
-        focused_workspace #ffffee #285576
-        active_workspace #ffffee #333333
-        inactive_workspace #888888 #222222
-        #urgent_workspace
-    }
-}
+#bar {
+#    position bottom
+#    status_command conky -c ~/.i3/bottom.conkyrc
+#    tray_output none
+#    workspace_buttons none
+#    colors {
+#        background #327879
+#        statusline #ffffff
+#        focused_workspace #ffffee #285576
+#        active_workspace #ffffee #333333
+#        inactive_workspace #888888 #222222
+#        #urgent_workspace
+#    }
+#}
 
 bar {
     mode hide
