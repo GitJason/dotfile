@@ -1,5 +1,4 @@
-colorscheme xterm16
-"colorscheme darksea
+colorscheme darkzen
 
 syntax on
 filetype off
@@ -12,8 +11,9 @@ set fenc=utf-8
 set fencs=utf-8,gb18030,gbk,gb2312
 set fileencodings=utf-8,gb18030,gbk,big5,gb2312
 set nocompatible
-set rnu
+"set rnu
 set nu
+set cursorline
 set backspace=indent,eol,start
 set ignorecase
 set ruler
@@ -27,16 +27,26 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set wrap
-"set colorcolumn=80
-highlight ColorColumn ctermbg=233
+set colorcolumn=80
+highlight ColorColumn ctermbg=543
 
-autocmd FileType html,css,javascript,eruby,ruby setlocal tabstop=2 shiftwidth=2 softtabstop=2
+" Highlight current line and column
+set cursorline
+set cursorcolumn
 
-" map
-map <c-j> <c-w>j
-map <c-k> <c-w>k
-map <c-l> <c-w>l
-map <c-h> <c-w>h
+autocmd FileType html,xhtml,css,scss,javascript,eruby,ruby setlocal tabstop=2 shiftwidth=2 softtabstop=2
+
+" window
+map <c-w><c-j> <c-w>+
+map <c-w><c-k> <c-w>-
+map <c-w><c-l> <c-w>>
+map <c-w><c-h> <c-w><
+unmap <c-w>-
+map <c-w>- :split<CR>
+"TODO
+"unknown <c-w>| orz
+map <c-w>\ :vsplit<CR>
+
 map <Leader>r :retab<CR>
 
 nmap <Leader>tbc :tabnew<CR>
@@ -55,18 +65,28 @@ Bundle 'gmarik/vundle'
 Bundle 'vim-scripts/L9'
 Bundle 'Lokaltog/powerline'
 Bundle 'scrooloose/nerdtree'
-Bundle 'Valloric/YouCompleteMe'
-Bundle 'msanders/snipmate.vim'
-Bundle 'vim-scripts/taglist.vim'
+"Bundle 'Valloric/YouCompleteMe'
+"Bundle 'msanders/snipmate.vim'
+Bundle "majutsushi/tagbar"
 Bundle 'terryma/vim-multiple-cursors'
 Bundle 'Townk/vim-autoclose'
 Bundle 'kien/rainbow_parentheses.vim'
 Bundle 'nathanaelkane/vim-indent-guides'
 Bundle 'bronson/vim-trailing-whitespace'
 Bundle 'scrooloose/syntastic'
-Bundle 'vim-scripts/Emmet.vim'
+"Bundle 'vim-scripts/Emmet.vim'
 Bundle 'tpope/vim-rails'
 Bundle 'vim-scripts/FuzzyFinder'
+Bundle 'mattn/webapi-vim'
+Bundle 'mattn/gist-vim'
+Bundle 'Shougo/neocomplete.vim'
+Bundle 'Shougo/neosnippet.vim'
+Bundle 'Shougo/neosnippet-snippets'
+Bundle "tpope/vim-markdown"
+Bundle "pangloss/vim-javascript"
+"Bundle "css_color.vim"
+Bundle "flazz/vim-colorschemes"
+"Bundle "vim-scripts/DrawIt"
 
 " powerline
 " TODO
@@ -79,7 +99,7 @@ let g:Powerline_symbols='fancy'
 let NERDTreeShowHidden=1
 let NERDTreeShowLineNumbers=1
 let NERDTreeWinPos='left'
-map <Leader>N :NERDTreeToggle<CR>
+nmap <Leader>N :NERDTreeToggle<CR>
 
 " rainbow_parentheses
 au VimEnter * RainbowParenthesesToggle
@@ -97,12 +117,6 @@ let g:indent_guides_auto_colors=1
 set background=dark
 map <Leader>I :IndentGuidesEnable<CR>
 
-" taglist
-let Tlist_Show_One_File=1
-let Tlist_Exit_OnlyWindow=1
-let Tlist_Use_Right_Window=1
-let Tlist_Auto_Open=1
-
 " vim-trailing-whitespace
 map <Leader>] :FixWhitespace<CR>
 
@@ -114,3 +128,79 @@ let g:syntastic_php_checkers=['php','phpcs','phpmd']
 " FuzzyFinder
 map <Leader>f :FufFile<CR>
 map <Leader>b :FufBuffer<CR>
+
+" neocomplete
+let g:neocomplete#enable_at_startup=1
+let g:neocomplete#enable_smart_case=1
+autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
+autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
+autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
+autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
+autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
+
+" neosnippet
+let g:neosnippet#enable_snipmate_compatibility = 1
+imap <C-k>     <Plug>(neosnippet_expand_or_jump)
+smap <C-k>     <Plug>(neosnippet_expand_or_jump)
+xmap <C-k>     <Plug>(neosnippet_expand_target)
+
+" pangloss/vim-javascript
+let javascript_enable_domhtmlcss=1
+let g:javascript_conceal=1
+
+" majutsushi/tagbar
+" https://github.com/majutsushi/tagbar/wiki
+nmap <Leader>T :TagbarToggle<CR>
+" Go
+let g:tagbar_type_go = {
+    \ 'ctagstype': 'go',
+    \ 'kinds' : [
+        \ 'p:package',
+        \ 'i:imports:1',
+        \ 'c:constants',
+        \ 'v:variables',
+        \ 't:types',
+        \ 'n:interfaces',
+        \ 'w:fields',
+        \ 'e:embedded',
+        \ 'm:methods',
+        \ 'r:constructor',
+        \ 'f:functions'
+    \],
+    \ 'sro' : '.',
+    \ 'kind2scope' : {
+        \ 't' : 'ctype',
+        \ 'n' : 'ntype'
+    \ },
+    \ 'scope2kind' : {
+        \ 'ctype' : 't',
+        \ 'ntype' : 'n'
+    \ },
+    \ 'ctagsbin'  : 'gotags',
+    \ 'ctagsargs' : '-sort -silent'
+\}
+" markdown
+let g:tagbar_type_markdown = {
+    \ 'ctagstype':'markdown',
+    \ 'kinds':[
+        \ 'h:Heading_L1',
+        \ 'i:Heading_L2',
+        \ 'k:Heading_L3'
+    \ ]
+\ }
+" CoffeeScript
+if executable('coffeetags')
+    let g:tagbar_type_coffee = {
+        \ 'ctagsbin' : 'coffeetags',
+        \ 'ctagsargs' : '',
+        \ 'kinds' : [
+            \ 'f:functions',
+            \ 'o:object',
+        \ ],
+        \ 'sro' : ".",
+        \ 'kind2scope' : {
+            \ 'f' : 'object',
+            \ 'o' : 'object',
+        \ }
+    \ }
+endif
