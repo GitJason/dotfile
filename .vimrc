@@ -13,7 +13,6 @@ set fileencodings=utf-8,gb18030,gbk,big5,gb2312
 set nocompatible
 "set rnu
 set nu
-set cursorline
 set backspace=indent,eol,start
 set ignorecase
 set ruler
@@ -35,6 +34,8 @@ set cursorline
 set cursorcolumn
 
 autocmd FileType html,xhtml,css,scss,javascript,eruby,ruby setlocal tabstop=2 shiftwidth=2 softtabstop=2
+au BufNewFile,BufRead *.less set filetype=less
+au BufNewFile,BufRead *.coffee set filetype=coffee
 
 " window
 map <c-w><c-j> <c-w>+
@@ -75,7 +76,7 @@ Bundle 'nathanaelkane/vim-indent-guides'
 Bundle 'bronson/vim-trailing-whitespace'
 Bundle 'scrooloose/syntastic'
 "Bundle 'vim-scripts/Emmet.vim'
-Bundle 'tpope/vim-rails'
+"Bundle 'tpope/vim-rails'
 Bundle 'vim-scripts/FuzzyFinder'
 Bundle 'mattn/webapi-vim'
 Bundle 'mattn/gist-vim'
@@ -87,9 +88,9 @@ Bundle "pangloss/vim-javascript"
 "Bundle "css_color.vim"
 Bundle "flazz/vim-colorschemes"
 "Bundle "vim-scripts/DrawIt"
+Bundle "kchmck/vim-coffee-script"
 
 " powerline
-" TODO
 set rtp+=~/.vim/bundle/powerline/powerline/bindings/vim
 set laststatus=2
 set t_Co=256
@@ -115,7 +116,7 @@ let g:indent_guides_start_level=1
 let g:indent_guides_guide_size=1
 let g:indent_guides_auto_colors=1
 set background=dark
-map <Leader>I :IndentGuidesEnable<CR>
+map <Leader>I :IndentGuidesToggle<CR>
 
 " vim-trailing-whitespace
 map <Leader>] :FixWhitespace<CR>
@@ -204,3 +205,9 @@ if executable('coffeetags')
         \ }
     \ }
 endif
+
+" kchmck/vim-coffee-script
+" https://github.com/kchmck/vim-coffee-script#configure-syntax-highlighting
+let coffee_indent_keep_current = 1
+autocmd BufNewFile,BufReadPost *.coffee setl foldmethod=indent nofoldenable
+autocmd BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab

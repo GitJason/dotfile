@@ -11,7 +11,9 @@ export EDITOR="/usr/bin/vim"
 export TERM="xterm-256color"
 export GOPATH="/home/jason/github/go-test/"
 export BOOK="/home/jason/temp/book/"
-export PATH=$PATH:/home/jason/.gem/ruby/2.0.0/bin/:/home/jason/node_modules/.bin/
+export PATH=$PATH:/home/jason/github/go-test/bin
+export PATH=$PATH:/home/jason/.gem/ruby/2.1.0/bin
+export PATH=$PATH:/home/jason/node_modules/.bin
 REPO=$HOME/github
 
 alias e="emacs -nw"
