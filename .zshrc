@@ -11,12 +11,14 @@ export EDITOR="/usr/bin/vim"
 export TERM="xterm-256color"
 export GOPATH="/home/jason/github/go-test/"
 export BOOK="/home/jason/temp/book/"
-export PATH=$PATH:/home/jason/github/go-test/bin
-export PATH=$PATH:/home/jason/.gem/ruby/2.1.0/bin
-export PATH=$PATH:/home/jason/node_modules/.bin
+export PATH=$PATH:$HOME/github/go-test/bin
+export PATH=$PATH:$HOME/.gem/ruby/2.1.0/bin
+export PATH=$PATH:$HOME/node_modules/.bin
+export PATH=$PATH:$HOME/github/scripts
 REPO=$HOME/github
+WWWROOT=/srv/http
 
-alias e="emacs -nw"
+alias e="emacs -nw --debug-init"
 alias v="vim"
 alias ll="ls -lhF --color"
 alias tmux="tmux -2"
@@ -39,9 +41,12 @@ alias xunlei="lixian"
 alias q="exit"
 alias baidu="/home/jason/github/baiduPCS_cli/baidupcs.php"
 alias sml="poly"
-alias ruby="ruby -w"
+alias rubyw="ruby -w"
 alias irb="irb -r irb/completion"
 alias ps2="pcsx2"
+alias bt="deluge"
+alias cd..="cd .."
+alias epub="FBReader"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
@@ -76,3 +81,5 @@ alias ps2="pcsx2"
 
 source $ZSH/oh-my-zsh.sh
 eval `dircolors ~/.dir_colors`
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
