@@ -20,5 +20,5 @@ tmux_options: -f ~/.tmux.conf
 
 windows:
   - misc:
-  - ssh:
-      - ssh Illya
+  - WoodFigma:
+      - ssh WoodFigma
