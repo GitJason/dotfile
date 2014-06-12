@@ -9,8 +9,8 @@ export LC_CTYPE=zh_CN.UTF-8
 export LC_ALL=
 export EDITOR="/usr/bin/vim"
 export TERM="xterm-256color"
-export GOPATH="/home/jason/github/go-test/"
-export BOOK="/home/jason/temp/book/"
+export GOPATH="$HOME/github/go-test/"
+export BOOK="$HOME/temp/book/"
 export PATH=$PATH:$HOME/github/go-test/bin
 export PATH=$PATH:$HOME/.gem/ruby/2.1.0/bin
 export PATH=$PATH:$HOME/node_modules/.bin
@@ -30,16 +30,13 @@ alias g++="time g++ -W -Wall"
 alias clang="time clang"
 alias top="htop"
 alias dict="ydcv"
-alias music="mpd;ncmpcpp"
+alias music="ncmpcpp"
 alias sound="alsamixer"
 alias filem="ranger"
 alias iftop="sudo iftop"
 alias screenshot="scrot"
 alias h="history"
-alias pull="git pull"
-alias xunlei="lixian"
 alias q="exit"
-alias baidu="/home/jason/github/baiduPCS_cli/baidupcs.php"
 alias sml="poly"
 alias rubyw="ruby -w"
 alias irb="irb -r irb/completion"
@@ -76,10 +73,10 @@ alias epub="FBReader"
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
-# Example format: plugins=(rails git textmate ruby lighthouse)
-#plugins=(git)
+#plugins=(rails ruby git mercurial tmux)
 
 source $ZSH/oh-my-zsh.sh
+source $HOME/.gem/ruby/2.1.0/gems/tmuxinator-0.6.8/completion/tmuxinator.zsh
 eval `dircolors ~/.dir_colors`
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting

@@ -26,9 +26,13 @@ font pango:DejaVu Sans Mono,Terminal Bold Semi-Condensed 11
 workspace "λ" output $mon_lap
 
 # wallpapers
-exec --no-startup-id feh --bg-scale --no-fehbg ~/.i3/CrotonDam1920x1200.jpg
+#exec --no-startup-id feh --bg-scale --no-fehbg ~/.i3/CrotonDam1920x1200.jpg
+#exec --no-startup-id feh --bg-scale --no-fehbg ~/Pics/desktop.jpg
+exec --no-startup-id feh --bg-scale --no-fehbg ~/.i3/1366-768-344949.jpg
 #exec --no-startup-id amule
 exec --no-startup-id dropboxd
+exec --no-startup-id synergy
+#exec --no-startup-id xrandr --output LVDS --mode 1366x768 --output VGA-0 --mode 1024x768 --right-of LVDS
 #exec --no-startup-id bitcoin-qt
 
 # Use Mouse+$mod to drag floating windows to their wanted position
@@ -39,9 +43,8 @@ bindsym $mod+Return exec $term
 
 # auto start
 exec --no-startup-id xscreensaver -nosplash &
-exec --no-startup-id conky -c ~/.i3/desktop.conkyrc
+#exec --no-startup-id conky -c ~/.i3/desktop.conkyrc
 exec --no-startup-id xmodmap ~/.Xmodmap
-#exec --no-startup-id dropboxd &
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -144,7 +147,6 @@ bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
-#bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
 bindsym $mod+Shift+e exit
 
 # resize window (you can also use the mouse for that)
@@ -180,18 +182,18 @@ popup_during_fullscreen smart
 # finds out, if available)
 bar {
     position top
-    output LVDS # show on in my laptop
     status_command conky -c ~/.i3/top.conkyrc
 #    status_command py3status -c ~/.i3/i3status-top.conf -i /home/jason/github/py3status-snippet
     colors {
         background #327879
         statusline #ffffff
-#separator #ffffff
+        #separator #ffffff
         focused_workspace #ffffee #285576
         active_workspace #ffffee #333333
         inactive_workspace #888888 #222222
         #urgent_workspace
     }
+#output LVDS # show on in my laptop
 }
 
 #bar {
