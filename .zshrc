@@ -1,6 +1,3 @@
-ZSH=$HOME/github/oh-my-zsh
-ZSH_THEME="mine"
-
 export GTK_IM_MODULE=ibus
 export XMODIFIERS="@im=ibus"
 export QT_IM_MODULE=ibus
@@ -15,8 +12,7 @@ export PATH=$PATH:$HOME/github/go-test/bin
 export PATH=$PATH:$HOME/.gem/ruby/2.1.0/bin
 export PATH=$PATH:$HOME/node_modules/.bin
 export PATH=$PATH:$HOME/github/scripts
-REPO=$HOME/github
-WWWROOT=/srv/http
+export REPO=$HOME/repo
 
 alias e="emacs -nw --debug-init"
 alias v="vim"
@@ -76,8 +72,9 @@ alias epub="FBReader"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 #plugins=(rails ruby git mercurial tmux)
 
+ZSH=$REPO/oh-my-zsh
+ZSH_THEME="mine"
+
 source $ZSH/oh-my-zsh.sh
 source $HOME/.gem/ruby/2.1.0/gems/tmuxinator-0.6.8/completion/tmuxinator.zsh
 eval `dircolors ~/.dir_colors`
-
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting

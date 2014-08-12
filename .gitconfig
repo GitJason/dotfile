@@ -1,11 +1,9 @@
 [user]
 	email = mock2u@gmail.com
-	name = Jason Zhang[archlinux]
+	name = jasonz
 [core]
 	editor = vim
 [color]
 	ui = true
 [credential]
 	helper = cache
-[push]
-	default = simple
