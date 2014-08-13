@@ -76,5 +76,4 @@ ZSH=$REPO/oh-my-zsh
 ZSH_THEME="mine"
 
 source $ZSH/oh-my-zsh.sh
-source $HOME/.gem/ruby/2.1.0/gems/tmuxinator-0.6.8/completion/tmuxinator.zsh
 eval `dircolors ~/.dir_colors`
