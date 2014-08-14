@@ -1,11 +1,27 @@
 [user]
-	email = mock2u@gmail.com
-	name = Jason Zhang[archlinux]
+    email = mock2u@gmail.com
+    name = jasonz
 [core]
 	editor = vim
+	excludesfile = .gitignore
+	autocrlf = false
 [color]
 	ui = true
 [credential]
 	helper = cache
 [push]
 	default = simple
+[github]
+	user = jasonzzz
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+    co = checkout
+    ci = commit -s
+    a = add
+    st = status
+    pl = pull
+    ps = push
+[gui]
+	recentrepo = /home/jason/temp/repofoo
+[merge]
+	tool = meld
