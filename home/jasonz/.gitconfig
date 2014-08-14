@@ -21,7 +21,5 @@
     st = status
     pl = pull
     ps = push
-[gui]
-	recentrepo = /home/jason/temp/repofoo
 [merge]
 	tool = meld
