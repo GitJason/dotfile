@@ -23,3 +23,5 @@
     ps = push
 [merge]
 	tool = meld
+[color "diff"]
+	whitespace = red  
