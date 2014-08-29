@@ -7,6 +7,7 @@ export QT_IM_MODULE=ibus
 export LANG=en_US.UTF-8
 export LC_CTYPE=zh_CN.UTF-8
 export LC_ALL=
+#export EDITOR="/usr/bin/emacs"
 export EDITOR="/usr/bin/vim"
 export TERM="xterm-256color"
 export GOPATH="$HOME/github/go-test/"
@@ -15,11 +16,12 @@ export PATH=$PATH:$HOME/github/go-test/bin
 export PATH=$PATH:$HOME/.gem/ruby/2.1.0/bin
 export PATH=$PATH:$HOME/node_modules/.bin
 export PATH=$PATH:$HOME/github/scripts
-REPO=$HOME/github
-WWWROOT=/srv/http
+export REPO=$HOME/github
+export WWWROOT=/srv/http
 
 alias e="emacs -nw --debug-init"
 alias v="vim"
+alias l="ls"
 alias ll="ls -lhF --color"
 alias tmux="tmux -2"
 alias tmuxn="tmux -2 new-session -s $USER"
@@ -28,7 +30,8 @@ alias tmuxa="tmux a -t"
 alias gcc="time gcc -W -Wall"
 alias gcc+="gcc -v -pg -W -Wall"
 alias g++="time g++ -W -Wall"
-alias clang="time clang"
+alias clang="time clang -W -Wall"
+alias clang++="time clang++ -W -Wall"
 alias top="htop"
 alias dict="ydcv"
 alias music="ncmpcpp"
@@ -44,7 +47,11 @@ alias irb="irb -r irb/completion"
 alias ps2="pcsx2"
 alias bt="deluge"
 alias cd..="cd .."
+alias cd.1="cd .."
+alias cd.2="cd ../.."
+alias cd.3="cd ../../.."
 alias epub="FBReader"
+alias texpkg="tllocalmgr"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
@@ -81,3 +88,7 @@ source $HOME/.gem/ruby/2.1.0/gems/tmuxinator-0.6.8/completion/tmuxinator.zsh
 eval `dircolors ~/.dir_colors`
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+source /etc/profile.d/clojure.sh
+
+# antlr4
+export CLASSPATH=".:/usr/share/java/antlr-4.4-complete.jar:$CLASSPATH"

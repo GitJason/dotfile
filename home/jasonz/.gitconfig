@@ -24,4 +24,4 @@
 [merge]
 	tool = meld
 [color "diff"]
-	whitespace = red  
+	whitespace = red
