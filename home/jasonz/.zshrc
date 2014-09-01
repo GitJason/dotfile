@@ -12,6 +12,7 @@ export REPO=$HOME/repo
 
 alias e="emacs -nw --debug-init"
 alias v="vim"
+alias l="ls"
 alias ll="ls -lhF --color"
 alias tmux="tmux -2"
 alias tmuxn="tmux -2 new-session -s $USER"
