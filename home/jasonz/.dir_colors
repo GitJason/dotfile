@@ -186,6 +186,7 @@ EXEC 01;31  # Unix
 # Text that we can edit with a regular editor
 .txt 32
 .md 32
+.mkd 32
 .markdown 32
 .rst 32
 
@@ -204,38 +205,46 @@ EXEC 01;31  # Unix
 .scm 32
 .xml 32
 .css 32
+.scss 32
 .js 32
 .tex 32
 
 ### Multimedia formats
 
 # Image
-.bmp 33
-.dvi 33
-.gif 33
-.jpeg 33
-.jpg 33
-.JPG 33
-.pdf 33
-.png 33
-.ps 33
-.svg 33
+.bmp 34
+.dvi 34
+.gif 34
+.jpeg 34
+.jpg 34
+.JPG 34
+.pdf 34
+.png 34
+.ps 34
+.svg 34
+.epub 34
 
 # Audio
 .ape 33
+.APE 33
 .cue 33
 .flac 33
+.tak 33
+.m4a 33
 .mid 33
-.midi 33
 .mp3 33
+.MP3 33
 .mpeg 33
 .mpg 33
 .ogg  33
 .wav 33
+.tta 33
 
 # Video
 .avi 33
+.3gp 33
 .flv 33
+.hlv 33
 .mkv 33
 .mov 33
 .mp4 33
@@ -245,6 +254,7 @@ EXEC 01;31  # Unix
 .rmvb 33
 .swf 33
 .wmv 33
+.ogv 33
 .xv 33
 
 ### Misc
@@ -269,6 +279,7 @@ EXEC 01;31  # Unix
 .gem  1;35
 .gz   1;35
 .iso  1;35
+.ISO  1;35
 .jar  1;35
 .msi  1;35  # Win
 .rar  1;35
@@ -309,9 +320,9 @@ EXEC 01;31  # Unix
 # Unimportant text files
 # For universal scheme, use brightgreen 01;32
 # For optimal on light bg (but too prominent on dark bg), use white 01;34
-.log 01;32
-*~ 01;32
-*# 01;32
+.log 01;30
+*~ 01;30
+*# 01;30
 
 # Unimportant non-text files
 # For universal scheme, use brightcyan 01;36
@@ -330,13 +341,3 @@ EXEC 01;31  # Unix
 .swp 01;33
 .swo 01;33
 *,v 01;33
-
-# The brightmagenta (Solarized: purple) color is free for you to use for your
-# custom file type
-.gpg 34
-.gpg 34
-.pgp 34
-.asc 34
-.3des 34
-.aes 34
-.enc 34
