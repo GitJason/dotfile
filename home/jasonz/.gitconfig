@@ -7,3 +7,9 @@
 	ui = true
 [credential]
 	helper = cache
+[alias]
+    ci = commit
+    a = add
+    st = status
+    pl = pull
+    ps = push
