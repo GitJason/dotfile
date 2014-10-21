@@ -9,6 +9,7 @@ export PATH=$PATH:$HOME/github/go-test/bin
 export PATH=$PATH:$HOME/.gem/ruby/2.1.0/bin
 export PATH=$PATH:$HOME/node_modules/.bin
 export REPO=$HOME/repo
+export ES_HOME="/usr/share/elasticsearch"
 
 alias e="emacs -nw --debug-init"
 alias v="vim"
