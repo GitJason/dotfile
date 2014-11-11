@@ -1,0 +1,2 @@
+SET hive.cli.print.current.db=true;
+SET hive.exec.mode.local.auto=true;
