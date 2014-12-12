@@ -15,3 +15,6 @@ deb http://apt.newrelic.com/debian/ newrelic non-free
 # hadoop-ubuntu/stable
 # https://launchpad.net/~hadoop-ubuntu/+archive/ubuntu/stable
 deb http://ppa.launchpad.net/hadoop-ubuntu/stable/ubuntu trusty main
+# lxc-docker
+# wget -qO - https://get.docker.io/gpg | sudo apt-key add -
+# sudo sh -c "echo deb http://get.docker.io/ubuntu docker main > /etc/apt/sources.list.d/docker.list"
