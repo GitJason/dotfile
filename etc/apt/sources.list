@@ -19,3 +19,7 @@ deb http://ppa.launchpad.net/hadoop-ubuntu/stable/ubuntu trusty main
 # lxc-docker
 # wget -qO - https://get.docker.io/gpg | sudo apt-key add -
 deb http://get.docker.io/ubuntu docker main
+# percona
+# http://www.percona.com/doc/percona-xtrabackup/2.2/installation/apt_repo.html
+# apt-key adv --keyserver keys.gnupg.net --recv-keys 1C4CBDCDCD2EFD2A
+deb http://repo.percona.com/apt trusty main
