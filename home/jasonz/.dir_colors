@@ -310,6 +310,7 @@ EXEC 01;31  # Unix
 # For universal scheme, use brightgreen 01;32
 # For optimal on light bg (but too prominent on dark bg), use white 01;34
 .log 01;32
+.err 01;32
 *~ 01;32
 *# 01;32
 
