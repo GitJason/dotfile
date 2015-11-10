@@ -13,7 +13,8 @@ set $mon_lap LVDS
 
 set $mod Mod4
 #set $term lilyterm
-set $term xfce4-terminal
+#set $term xfce4-terminal
+set $term terminator
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below. ISO 10646 = Unicode
@@ -21,19 +22,18 @@ set $term xfce4-terminal
 # clear in small sizes. However, if you need a lot of unicode glyphs or
 # right-to-left text rendering, you should instead use pango for rendering and
 # chose a FreeType font, such as:
-font pango:DejaVu Sans Mono,Terminal Bold Semi-Condensed 11
+font pango:Terminus,DejaVu Sans Mono,Terminal Bold Semi-Condensed 11
 
 workspace "λ" output $mon_lap
 
 # wallpapers
-#exec --no-startup-id feh --bg-scale --no-fehbg ~/.i3/CrotonDam1920x1200.jpg
-#exec --no-startup-id feh --bg-scale --no-fehbg ~/Pics/desktop.jpg
-exec --no-startup-id feh --bg-scale --no-fehbg ~/.i3/1366-768-344949.jpg
-#exec --no-startup-id amule
-exec --no-startup-id dropboxd
+exec --no-startup-id feh --bg-scale --no-fehbg ~/.i3/36592_serial_experiments_lain.jpg
+
+# startups
+#exec --no-startup-id pidgin
 exec --no-startup-id synergy
+exec --no-startup-id rescuetime
 #exec --no-startup-id xrandr --output LVDS --mode 1366x768 --output VGA-0 --mode 1024x768 --right-of LVDS
-#exec --no-startup-id bitcoin-qt
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -53,7 +53,7 @@ bindsym $mod+Shift+q kill
 bindsym $mod+Ctrl+l exec xscreensaver-command -lock
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id dmenu_run -i -l 5 -f -nb black -nf blue -sb '#326781' -p '> '
+bindsym $mod+d exec --no-startup-id dmenu_run -i -l 5 -f -nb black -nf blue -fn "terminus-14" -sb '#326781' -p '> '
 
 # screenshot
 bindsym Print exec --no-startup-id scrot -e 'mv $f ~/Pics/ 2>/dev/null'
