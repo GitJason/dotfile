@@ -26,10 +26,11 @@ deb http://ppa.launchpad.net/hadoop-ubuntu/stable/ubuntu trusty main
 # apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
 deb https://apt.dockerproject.org/repo ubuntu-trusty docker
 
-# percona
-# http://www.percona.com/doc/percona-xtrabackup/2.2/installation/apt_repo.html
-# apt-key adv --keyserver keys.gnupg.net --recv-keys 1C4CBDCDCD2EFD2A
-deb http://repo.percona.com/apt trusty main
+# percona-xtrabackup
+# https://www.percona.com/doc/percona-xtrabackup/2.3/installation/apt_repo.html#installing-percona-xtrabackup-from-percona-apt-repository
+# wget https://repo.percona.com/apt/percona-release_0.1-3.$(lsb_release -sc)_all.deb
+# sudo dpkg -i percona-release_0.1-3.$(lsb_release -sc)_all.deb
+# sudo apt-get update && apt-get install percona-xtrabackup
 
 # sbt
 # http://www.scala-sbt.org/0.13/tutorial/Installing-sbt-on-Linux.html
