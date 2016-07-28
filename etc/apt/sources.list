@@ -38,7 +38,7 @@ deb https://apt.dockerproject.org/repo ubuntu-trusty docker
 deb https://dl.bintray.com/sbt/debian /
 
 # zabbix
-# https://www.zabbix.com/documentation/3.0/manual/installation/install_from_packages#debianubuntu
+# https://www.zabbix.com/documentation/3.0/manual/installation/install_from_packages#installing_repository_configuration_package1
 # wget http://repo.zabbix.com/zabbix/3.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_3.0-1+trusty_all.deb
 # dpkg -i zabbix-release_3.0-1+trusty_all.deb
 # apt-get update && apt-get install zabbix-server-mysql zabbix-frontend-php
