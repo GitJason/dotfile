@@ -22,9 +22,9 @@ deb http://apt.newrelic.com/debian/ newrelic non-free
 deb http://ppa.launchpad.net/hadoop-ubuntu/stable/ubuntu trusty main
 
 # lxc-docker
-# https://get.docker.com
+# https://docs.docker.com/engine/installation/linux/ubuntulinux/
 # apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
-deb https://apt.dockerproject.org/repo ubuntu-trusty docker
+deb https://apt.dockerproject.org/repo ubuntu-trusty main
 
 # percona-xtrabackup
 # https://www.percona.com/doc/percona-xtrabackup/2.3/installation/apt_repo.html#installing-percona-xtrabackup-from-percona-apt-repository
