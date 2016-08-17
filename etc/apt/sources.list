@@ -5,8 +5,8 @@ deb http://mirrors.aliyun.com/ubuntu trusty-proposed main restricted universe mu
 deb http://mirrors.aliyun.com/ubuntu trusty-backports main restricted universe multiverse
 
 # elasticsearch
-# wget -qO - http://packages.elasticsearch.org/GPG-KEY-elasticsearch | sudo apt-key add -
-deb http://packages.elasticsearch.org/elasticsearch/1.3/debian stable main
+# wget -qO - https://packages.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -
+deb https://packages.elastic.co/elasticsearch/2.x/debian stable main
 
 # logstash
 # http://logstash.net/docs/1.4.2/repositories
