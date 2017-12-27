@@ -62,3 +62,8 @@ deb https://dl.bintray.com/sbt/debian /
 # apt-get update
 # apt-get -y install linux-headers-$(uname -r)
 # apt-get -y install sysdig
+
+# https://www.rabbitmq.com/install-debian.html
+# echo "deb https://dl.bintray.com/rabbitmq/debian {distribution} main" | sudo tee /etc/apt/sources.list.d/bintray.rabbitmq.list
+# wget -O- https://dl.bintray.com/rabbitmq/Keys/rabbitmq-release-signing-key.asc | sudo apt-key add -
+deb https://dl.bintray.com/rabbitmq/debian trusty main
